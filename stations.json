@@ -1,0 +1,113 @@
+[
+  {
+    "name": "KBEA-FM",
+    "city": "Quad Cities",
+    "state": "IA",
+    "network": "Townsquare Media",
+    "amperwave_id": "5218",
+    "url": "https://b100quadcities.com/listen-live/",
+    "failure_count": 0
+  },
+  {
+    "name": "WJIM-FM",
+    "city": "Lansing",
+    "state": "MI",
+    "network": "Townsquare Media",
+    "amperwave_id": "5158",
+    "url": "https://witl.com/listen-live/"
+  },
+  {
+    "name": "KXSS-FM",
+    "city": "Amarillo",
+    "state": "TX",
+    "network": "Townsquare Media",
+    "amperwave_id": "5101",
+    "url": "https://kissfm969.com/listen-live/",
+    "failure_count": 0
+  },
+  {
+    "name": "KSAS-FM",
+    "city": "Boise",
+    "state": "ID",
+    "network": "Townsquare Media",
+    "amperwave_id": "5017",
+    "url": "https://1035kissfmboise.com/listen-live/",
+    "failure_count": 0
+  },
+  {
+    "name": "WPST-FM",
+    "city": "Trenton",
+    "state": "NJ",
+    "network": "Townsquare Media",
+    "amperwave_id": "7082",
+    "url": "https://wpst.com/listen-live/",
+    "failure_count": 0
+  },
+  {
+    "name": "WFHN-FM",
+    "city": "Providence",
+    "state": "RI",
+    "network": "Townsquare Media",
+    "amperwave_id": "5002",
+    "url": "https://fun107.com/listen-live/",
+    "failure_count": 0
+  },
+  {
+    "name": "KTRS-FM",
+    "city": "Casper",
+    "state": "WY",
+    "network": "Townsquare Media",
+    "amperwave_id": "5212",
+    "url": "https://mycountry955.com/listen-live/",
+    "failure_count": 0
+  },
+  {
+    "name": "KLYV-FM",
+    "city": "Dubuque",
+    "state": "IA",
+    "network": "Townsquare Media",
+    "amperwave_id": "5148",
+    "url": "https://y105music.com/listen-live/"
+  },
+  {
+    "name": "KRUF-FM",
+    "city": "Shreveport",
+    "state": "LA",
+    "network": "Townsquare Media",
+    "amperwave_id": "5081",
+    "url": "https://k945.com/listen-live/"
+  },
+  {
+    "name": "KNIN-FM",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "network": "Townsquare Media",
+    "amperwave_id": "5244",
+    "url": "https://1063thebuzz.com/listen-live/"
+  },
+  {
+    "name": "WZOK-FM",
+    "city": "Rockford",
+    "state": "IL",
+    "network": "Townsquare Media",
+    "amperwave_id": "5201",
+    "url": "https://967theeagle.net/listen-live/"
+  },
+  {
+    "name": "WBZN-FM",
+    "city": "Bangor",
+    "state": "ME",
+    "network": "Townsquare Media",
+    "amperwave_id": "5040",
+    "url": "https://z1073.com/listen-live/",
+    "failure_count": 0
+  },
+  {
+    "name": "KBMX-FM",
+    "city": "Duluth",
+    "state": "MN",
+    "network": "Townsquare Media",
+    "amperwave_id": "5197",
+    "url": "https://mix108.com/listen-live/popup/"
+  }
+]
