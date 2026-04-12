@@ -71,6 +71,48 @@ Each station gets its own subfolder, and the file name is `YYYY-MM-DD.txt`.
 python monitor.py
 ```
 
+## Run As A Raspberry Pi Service
+
+This repo now includes first-class `systemd` support so the monitor can run under service management on a Raspberry Pi without starting automatically at boot.
+
+1. Clone the repo onto the Pi, create the virtual environment, install requirements, and create `.env`.
+
+```bash
+cd /home/pi/PaperMoneyRadioMonitor
+python3 -m venv .venv
+. .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+```
+
+2. Generate and install the unit file.
+
+```bash
+sudo .venv/bin/python scripts/install_systemd_service.py \
+  --user pi \
+  --install
+```
+
+3. Start it manually when you want it running.
+
+```bash
+sudo systemctl start papermoney-radio-monitor
+```
+
+4. Check service state and logs.
+
+```bash
+sudo systemctl status papermoney-radio-monitor
+journalctl -u papermoney-radio-monitor -f
+```
+
+The generated service:
+
+- waits until you start it manually with `systemctl start`
+- restarts automatically if the monitor exits
+- uses the repo directory as the working directory, so `.env`, `stations.json`, and `logs/` keep working
+- shuts down cleanly on `systemctl stop` or reboot via `SIGTERM`
+
 ## Behavior
 
 - Checks each station every 30 seconds by default.

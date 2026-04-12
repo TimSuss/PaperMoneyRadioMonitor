@@ -1,0 +1,20 @@
+[Unit]
+Description={description}
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User={user}
+Group={group}
+WorkingDirectory={working_directory}
+EnvironmentFile=-{env_file}
+ExecStart={python_executable} {monitor_script}
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+NoNewPrivileges=true
+
+[Install]
+WantedBy=default.target

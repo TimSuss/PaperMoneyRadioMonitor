@@ -1,12 +1,14 @@
 import json
 import os
 import re
+import signal
 import smtplib
 import sys
 import time
 import traceback
 from datetime import datetime, timezone
 from email.message import EmailMessage
+from threading import Event
 from urllib.parse import urlparse
 
 from dotenv import load_dotenv
@@ -32,10 +34,25 @@ AMPERWAVE_API_PATH = "prtplus/nowplaying"
 AMPERWAVE_API_VERSION = 1
 LOG_DIR = os.environ.get("LOG_DIR", "logs")
 MAX_CONSECUTIVE_FAILURES = int(os.environ.get("MAX_CONSECUTIVE_FAILURES", "3"))
+STOP_EVENT = Event()
+STOP_SIGNAL_NAME = None
 
 
 class MonitorError(Exception):
     pass
+
+
+def request_shutdown(signum, _frame):
+    global STOP_SIGNAL_NAME
+    STOP_SIGNAL_NAME = signal.Signals(signum).name
+    if not STOP_EVENT.is_set():
+        print(f"Received {STOP_SIGNAL_NAME}. Requesting graceful shutdown...")
+    STOP_EVENT.set()
+
+
+def install_signal_handlers():
+    for sig in (signal.SIGINT, signal.SIGTERM):
+        signal.signal(sig, request_shutdown)
 
 
 def load_station_config(path):
@@ -534,8 +551,11 @@ def main():
     print(f"Polling every {POLL_INTERVAL_SECONDS} seconds.")
     print("Press Ctrl+C to stop manually.")
 
-    while True:
+    while not STOP_EVENT.is_set():
         for station in stations:
+            if STOP_EVENT.is_set():
+                break
+
             name = station["name"]
             try:
                 playing, title, artist, source = check_station(station)
@@ -568,12 +588,27 @@ def main():
             if not playing and state[name]:
                 state[name] = False
 
-        time.sleep(POLL_INTERVAL_SECONDS)
+        if STOP_EVENT.wait(POLL_INTERVAL_SECONDS):
+            break
+
+    return STOP_SIGNAL_NAME
 
 
 if __name__ == "__main__":
+    install_signal_handlers()
     try:
-        main()
+        shutdown_signal = main()
+        if shutdown_signal:
+            try:
+                stop_body = (
+                    f"PaperMoneyRadioMonitor stopped gracefully at {datetime.utcnow().isoformat()} UTC.\n"
+                    f"Shutdown signal: {shutdown_signal}."
+                )
+                send_email("PaperMoneyRadioMonitor stopped", stop_body)
+            except Exception:
+                print("Failed to send shutdown notification:", traceback.format_exc())
+            print(f"PaperMoneyRadioMonitor stopped after {shutdown_signal}.")
+            sys.exit(0)
     except KeyboardInterrupt:
         try:
             stop_body = (
