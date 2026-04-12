@@ -516,3 +516,141 @@
 2026-04-12T20:29:16.645347+00:00 | Here I Go Again | Whitesnake | source:amperwave-api
 2026-04-12T20:29:51.945851+00:00 | Here I Go Again | Whitesnake | source:amperwave-api
 2026-04-12T20:30:26.877972+00:00 | Here I Go Again | Whitesnake | source:amperwave-api
+2026-04-12T20:31:04.944698+00:00 | All My Love | Led Zeppelin | source:amperwave-api
+2026-04-12T20:31:59.812426+00:00 | All My Love | Led Zeppelin | source:amperwave-api
+2026-04-12T20:32:34.983058+00:00 | All My Love | Led Zeppelin | source:amperwave-api
+2026-04-12T20:33:34.191133+00:00 | All My Love | Led Zeppelin | source:amperwave-api
+2026-04-12T20:34:09.780503+00:00 | All My Love | Led Zeppelin | source:amperwave-api
+2026-04-12T20:34:45.196217+00:00 | All My Love | Led Zeppelin | source:amperwave-api
+2026-04-12T20:35:20.391713+00:00 | All My Love | Led Zeppelin | source:amperwave-api
+2026-04-12T20:35:56.391369+00:00 | All My Love | Led Zeppelin | source:amperwave-api
+2026-04-12T20:36:31.481904+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:37:06.756882+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:37:42.093762+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:38:17.951137+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:38:55.612292+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:39:30.731070+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:40:06.048338+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:40:42.098028+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:41:31.086601+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:42:07.925995+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:43:04.778581+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:43:41.310427+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:44:43.824931+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:45:22.644600+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:46:21.379766+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:46:58.190895+00:00 | Kryptonite | 3 Doors Down | source:amperwave-api
+2026-04-12T20:47:34.187407+00:00 | I Hate Myself For Loving You | Joan Jett The Blackhearts | source:amperwave-api
+2026-04-12T20:48:31.388466+00:00 | I Hate Myself For Loving You | Joan Jett The Blackhearts | source:amperwave-api
+2026-04-12T20:49:06.612449+00:00 | I Hate Myself For Loving You | Joan Jett The Blackhearts | source:amperwave-api
+2026-04-12T20:49:42.930296+00:00 | I Hate Myself For Loving You | Joan Jett The Blackhearts | source:amperwave-api
+2026-04-12T20:50:17.944375+00:00 | I Hate Myself For Loving You | Joan Jett The Blackhearts | source:amperwave-api
+2026-04-12T20:50:53.231720+00:00 | I Hate Myself For Loving You | Joan Jett The Blackhearts | source:amperwave-api
+2026-04-12T20:51:28.556797+00:00 | I Hate Myself For Loving You | Joan Jett The Blackhearts | source:amperwave-api
+2026-04-12T20:52:05.300976+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:52:40.658500+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:53:15.891942+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:53:50.677738+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:54:26.197766+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:55:01.400964+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:55:36.439473+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:56:12.244754+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:56:47.379906+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:57:31.781543+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:58:07.270273+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:59:13.647406+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T20:59:49.309885+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T21:00:49.131866+00:00 | Highway To Hell | Ac/Dc | source:amperwave-api
+2026-04-12T21:01:30.360840+00:00 | Walk This Way | Aerosmith | source:amperwave-api
+2026-04-12T21:02:31.635922+00:00 | Walk This Way | Aerosmith | source:amperwave-api
+2026-04-12T21:03:07.453669+00:00 | Walk This Way | Aerosmith | source:amperwave-api
+2026-04-12T21:03:42.330407+00:00 | Walk This Way | Aerosmith | source:amperwave-api
+2026-04-12T21:04:17.325484+00:00 | Walk This Way | Aerosmith | source:amperwave-api
+2026-04-12T21:04:52.539543+00:00 | Against The Wind | Bob Seger The Silver Bullet Band | source:amperwave-api
+2026-04-12T21:05:52.496537+00:00 | Against The Wind | Bob Seger The Silver Bullet Band | source:amperwave-api
+2026-04-12T21:06:28.871610+00:00 | Against The Wind | Bob Seger The Silver Bullet Band | source:amperwave-api
+2026-04-12T21:07:05.318856+00:00 | Against The Wind | Bob Seger The Silver Bullet Band | source:amperwave-api
+2026-04-12T21:07:40.252020+00:00 | Against The Wind | Bob Seger The Silver Bullet Band | source:amperwave-api
+2026-04-12T21:08:15.538251+00:00 | Against The Wind | Bob Seger The Silver Bullet Band | source:amperwave-api
+2026-04-12T21:08:51.647197+00:00 | Magic Carpet Ride | Steppenwolf | source:amperwave-api
+2026-04-12T21:09:27.058559+00:00 | Magic Carpet Ride | Steppenwolf | source:amperwave-api
+2026-04-12T21:10:02.414570+00:00 | Magic Carpet Ride | Steppenwolf | source:amperwave-api
+2026-04-12T21:10:37.577394+00:00 | Magic Carpet Ride | Steppenwolf | source:amperwave-api
+2026-04-12T21:11:14.437973+00:00 | Magic Carpet Ride | Steppenwolf | source:amperwave-api
+2026-04-12T21:11:49.968822+00:00 | Magic Carpet Ride | Steppenwolf | source:amperwave-api
+2026-04-12T21:12:25.245511+00:00 | Magic Carpet Ride | Steppenwolf | source:amperwave-api
+2026-04-12T21:13:01.102087+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T21:14:04.637797+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T21:14:40.134895+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T21:15:22.524705+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T21:15:58.837112+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T21:16:33.981866+00:00 | Better Man | Pearl Jam | source:amperwave-api
+2026-04-12T21:17:11.228258+00:00 | Better Man | Pearl Jam | source:amperwave-api
+2026-04-12T21:17:46.972561+00:00 | Better Man | Pearl Jam | source:amperwave-api
+2026-04-12T21:18:21.747468+00:00 | Better Man | Pearl Jam | source:amperwave-api
+2026-04-12T21:19:23.218766+00:00 | Better Man | Pearl Jam | source:amperwave-api
+2026-04-12T21:19:59.300905+00:00 | Better Man | Pearl Jam | source:amperwave-api
+2026-04-12T21:20:37.009912+00:00 | Crazy On You | Heart | source:amperwave-api
+2026-04-12T21:21:12.336709+00:00 | Crazy On You | Heart | source:amperwave-api
+2026-04-12T21:22:13.388219+00:00 | Crazy On You | Heart | source:amperwave-api
+2026-04-12T21:22:48.200136+00:00 | Crazy On You | Heart | source:amperwave-api
+2026-04-12T21:23:23.449023+00:00 | Crazy On You | Heart | source:amperwave-api
+2026-04-12T21:23:58.207854+00:00 | Crazy On You | Heart | source:amperwave-api
+2026-04-12T21:24:33.717266+00:00 | Crazy On You | Heart | source:amperwave-api
+2026-04-12T21:25:08.984537+00:00 | Crazy On You | Heart | source:amperwave-api
+2026-04-12T21:25:44.637502+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-12T21:26:20.219574+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-12T21:26:55.422343+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-12T21:27:30.508381+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-12T21:28:05.645309+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-12T21:28:40.958284+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-12T21:29:31.528078+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-12T21:30:07.285005+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-12T21:30:42.478390+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-12T21:31:18.341884+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:31:56.455299+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:32:57.254749+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:33:32.653230+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:34:07.988064+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:34:42.868323+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:35:18.008264+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:36:19.060037+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:36:56.300495+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:37:55.375115+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:38:32.324334+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:39:08.685686+00:00 | Dancing With Myself | Billy Idol | source:amperwave-api
+2026-04-12T21:39:44.447042+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:40:19.642907+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:40:54.472473+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:41:29.296502+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:42:04.160632+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:42:38.702670+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:43:13.784829+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:43:48.731664+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:44:23.544695+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:44:58.751200+00:00 | Sympathy For The Devil | Rolling Stones | source:amperwave-api
+2026-04-12T21:45:34.177214+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:46:09.735487+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:47:05.967326+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:47:41.919458+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:48:40.123797+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:49:16.272722+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:49:51.803929+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:50:50.745205+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:51:26.051703+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:52:19.654460+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:52:54.590745+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:53:30.116522+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:54:04.809579+00:00 | Were Not Gonna Take It | Twisted Sister | source:amperwave-api
+2026-04-12T21:54:40.593942+00:00 | Cold As Ice | Foreigner | source:amperwave-api
+2026-04-12T21:55:16.045979+00:00 | Cold As Ice | Foreigner | source:amperwave-api
+2026-04-12T21:55:50.755985+00:00 | Cold As Ice | Foreigner | source:amperwave-api
+2026-04-12T21:56:31.118126+00:00 | Cold As Ice | Foreigner | source:amperwave-api
+2026-04-12T21:57:06.237059+00:00 | Cold As Ice | Foreigner | source:amperwave-api
+2026-04-12T21:57:41.558911+00:00 | Cold As Ice | Foreigner | source:amperwave-api
+2026-04-12T21:58:16.164991+00:00 | Fool For The City | Foghat | source:amperwave-api
+2026-04-12T21:58:52.014643+00:00 | Fool For The City | Foghat | source:amperwave-api
+2026-04-12T21:59:26.784234+00:00 | Fool For The City | Foghat | source:amperwave-api
+2026-04-12T22:00:25.872342+00:00 | Fool For The City | Foghat | source:amperwave-api
+2026-04-12T22:01:05.195082+00:00 | Fool For The City | Foghat | source:amperwave-api
+2026-04-12T22:01:40.986688+00:00 | Fool For The City | Foghat | source:amperwave-api
