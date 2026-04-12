@@ -97,5 +97,21 @@
     "amperwave_id": "5040",
     "url": "https://z1073.com/listen-live/",
     "failure_count": 0
+  },
+  {
+    "name": "KZII-FM",
+    "city": "Lubbock",
+    "state": "TX",
+    "network": "Townsquare Media",
+    "url": "https://1025kiss.com/listen-live/",
+    "failure_count": 0
+  },
+  {
+    "name": "WJLK-FM",
+    "city": "Monmouth-Ocean",
+    "state": "NJ",
+    "network": "Townsquare Media",
+    "url": "https://943thepoint.com/listen-live/",
+    "failure_count": 0
   }
 ]
