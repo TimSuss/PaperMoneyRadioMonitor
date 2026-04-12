@@ -14,7 +14,8 @@
     "state": "MI",
     "network": "Townsquare Media",
     "amperwave_id": "5158",
-    "url": "https://witl.com/listen-live/"
+    "url": "https://witl.com/listen-live/",
+    "failure_count": 0
   },
   {
     "name": "KXSS-FM",
@@ -67,7 +68,8 @@
     "state": "IA",
     "network": "Townsquare Media",
     "amperwave_id": "5148",
-    "url": "https://y105music.com/listen-live/"
+    "url": "https://y105music.com/listen-live/",
+    "failure_count": 0
   },
   {
     "name": "KRUF-FM",
@@ -75,7 +77,8 @@
     "state": "LA",
     "network": "Townsquare Media",
     "amperwave_id": "5081",
-    "url": "https://k945.com/listen-live/"
+    "url": "https://k945.com/listen-live/",
+    "failure_count": 0
   },
   {
     "name": "KNIN-FM",
@@ -83,7 +86,8 @@
     "state": "TX",
     "network": "Townsquare Media",
     "amperwave_id": "5244",
-    "url": "https://1063thebuzz.com/listen-live/"
+    "url": "https://1063thebuzz.com/listen-live/",
+    "failure_count": 0
   },
   {
     "name": "WZOK-FM",
@@ -91,7 +95,8 @@
     "state": "IL",
     "network": "Townsquare Media",
     "amperwave_id": "5201",
-    "url": "https://967theeagle.net/listen-live/"
+    "url": "https://967theeagle.net/listen-live/",
+    "failure_count": 0
   },
   {
     "name": "WBZN-FM",
@@ -108,6 +113,10 @@
     "state": "MN",
     "network": "Townsquare Media",
     "amperwave_id": "5197",
-    "url": "https://mix108.com/listen-live/popup/"
+    "url": "https://mix108.com/listen-live/popup/",
+    "failure_count": 183,
+    "disabled_reason": "too many values to unpack (expected 2)",
+    "disabled": true,
+    "disabled_time": "2026-04-12T00:59:30.746402+00:00"
   }
 ]
