@@ -1,0 +1,20 @@
+[Unit]
+Description=PaperMoneyRadioMonitor service
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=tim-r
+Group=tim-r
+WorkingDirectory=/home/tim-r/git/PaperMoneyRadioMonitor
+EnvironmentFile=-/home/tim-r/git/PaperMoneyRadioMonitor/.env
+ExecStart=/usr/bin/python3.13 /home/tim-r/git/PaperMoneyRadioMonitor/monitor.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+NoNewPrivileges=true
+
+[Install]
+WantedBy=default.target

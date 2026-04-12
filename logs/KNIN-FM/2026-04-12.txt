@@ -1,3 +1,89 @@
 2026-04-12T00:58:53.799657+00:00 | How You Remind Me | Nickelback | source:amperwave-api
 2026-04-12T00:59:28.936510+00:00 | How You Remind Me | Nickelback | source:amperwave-api
 2026-04-12T14:35:00.149140+00:00 | Black Hole Sun | Soundgarden | source:amperwave-api
+2026-04-12T14:56:58.217957+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-12T15:00:35.948956+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-12T15:01:31.721294+00:00 | Come Out And Play | The Offspring | source:amperwave-api
+2026-04-12T15:02:05.841252+00:00 | Come Out And Play | The Offspring | source:amperwave-api
+2026-04-12T15:03:04.820073+00:00 | Come Out And Play | The Offspring | source:amperwave-api
+2026-04-12T15:03:39.134783+00:00 | Come Out And Play | The Offspring | source:amperwave-api
+2026-04-12T15:04:36.274316+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-12T15:05:10.523849+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-12T15:05:44.746817+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-12T15:06:19.375133+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-12T15:06:53.515955+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-12T15:07:27.566035+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-12T15:08:01.884584+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-12T15:08:35.701299+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:09:09.714553+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:09:45.285403+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:10:19.927831+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:10:54.028107+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:11:28.009680+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:12:20.301404+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:12:57.926075+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:13:32.370715+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:14:06.597354+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:14:40.882636+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:15:14.824294+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:15:49.479424+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:16:23.167744+00:00 | I Wont Back Down | Tom Petty | source:amperwave-api
+2026-04-12T15:17:22.598656+00:00 | Crawling | Linkin Park | source:amperwave-api
+2026-04-12T15:17:57.228655+00:00 | Crawling | Linkin Park | source:amperwave-api
+2026-04-12T15:18:52.334679+00:00 | Crawling | Linkin Park | source:amperwave-api
+2026-04-12T15:19:26.631653+00:00 | Crawling | Linkin Park | source:amperwave-api
+2026-04-12T15:20:22.829767+00:00 | Crawling | Linkin Park | source:amperwave-api
+2026-04-12T15:20:58.880707+00:00 | Intergalatic | Beastie Boys | source:amperwave-api
+2026-04-12T15:21:32.861573+00:00 | Intergalatic | Beastie Boys | source:amperwave-api
+2026-04-12T15:22:06.818573+00:00 | Intergalatic | Beastie Boys | source:amperwave-api
+2026-04-12T15:22:41.198430+00:00 | Intergalatic | Beastie Boys | source:amperwave-api
+2026-04-12T15:23:15.173669+00:00 | Intergalatic | Beastie Boys | source:amperwave-api
+2026-04-12T15:23:49.154359+00:00 | Intergalatic | Beastie Boys | source:amperwave-api
+2026-04-12T15:24:22.806935+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:24:57.705379+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:25:31.837245+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:26:06.133948+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:26:41.702914+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:27:16.137181+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:27:50.686583+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:28:28.894106+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:29:02.541242+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:29:36.687088+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:30:11.589503+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:30:45.391029+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:31:42.900761+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-12T15:32:19.174520+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-12T15:32:53.755536+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-12T15:33:27.919250+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-12T15:34:01.452144+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-12T15:34:35.758470+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-12T15:35:09.928239+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-12T15:35:43.963370+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-12T15:36:38.991956+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-12T15:37:14.315665+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-12T15:37:48.356925+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-12T15:38:22.773680+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-12T15:38:56.477978+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-12T15:39:30.146022+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-12T15:40:03.984792+00:00 | Square Hammer | Ghost | source:amperwave-api
+2026-04-12T15:40:37.497046+00:00 | Square Hammer | Ghost | source:amperwave-api
+2026-04-12T15:41:11.540752+00:00 | Square Hammer | Ghost | source:amperwave-api
+2026-04-12T15:41:46.552972+00:00 | Square Hammer | Ghost | source:amperwave-api
+2026-04-12T15:42:20.528047+00:00 | Square Hammer | Ghost | source:amperwave-api
+2026-04-12T15:42:53.878148+00:00 | Square Hammer | Ghost | source:amperwave-api
+2026-04-12T15:43:27.887725+00:00 | Square Hammer | Ghost | source:amperwave-api
+2026-04-12T15:44:01.178286+00:00 | Square Hammer | Ghost | source:amperwave-api
+2026-04-12T15:44:56.595755+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-12T15:45:30.627957+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-12T15:46:14.062231+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-12T15:46:48.404928+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-12T15:47:22.517273+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-12T15:47:56.655529+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-12T15:48:31.144103+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-12T15:49:27.828890+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-12T15:50:01.926091+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-12T15:50:36.006381+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-12T15:51:10.321427+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-12T15:51:43.982161+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-12T15:52:18.464587+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-12T15:52:54.093435+00:00 | Turn The Page | Metallica | source:amperwave-api

@@ -1,3 +1,89 @@
 2026-04-12T00:58:54.118508+00:00 | Rock The Casbah | Clash | source:amperwave-api
 2026-04-12T00:59:30.115180+00:00 | Rock The Casbah | Clash | source:amperwave-api
 2026-04-12T14:35:00.445893+00:00 | Who Are You | Who | source:amperwave-api
+2026-04-12T14:56:58.591872+00:00 | Closer To The Heart | Rush | source:amperwave-api
+2026-04-12T15:00:36.482891+00:00 | In The Air Tonight | Phil Collins | source:amperwave-api
+2026-04-12T15:01:32.039282+00:00 | In The Air Tonight | Phil Collins | source:amperwave-api
+2026-04-12T15:02:06.092556+00:00 | In The Air Tonight | Phil Collins | source:amperwave-api
+2026-04-12T15:03:05.158418+00:00 | Head Games | Foreigner | source:amperwave-api
+2026-04-12T15:03:39.596740+00:00 | Head Games | Foreigner | source:amperwave-api
+2026-04-12T15:04:36.636812+00:00 | Head Games | Foreigner | source:amperwave-api
+2026-04-12T15:05:10.923201+00:00 | Head Games | Foreigner | source:amperwave-api
+2026-04-12T15:05:45.087324+00:00 | Head Games | Foreigner | source:amperwave-api
+2026-04-12T15:06:19.730879+00:00 | Head Games | Foreigner | source:amperwave-api
+2026-04-12T15:06:53.846637+00:00 | Wind Of Change | Scorpions | source:amperwave-api
+2026-04-12T15:07:28.045782+00:00 | Wind Of Change | Scorpions | source:amperwave-api
+2026-04-12T15:08:02.242557+00:00 | Wind Of Change | Scorpions | source:amperwave-api
+2026-04-12T15:08:35.995215+00:00 | Wind Of Change | Scorpions | source:amperwave-api
+2026-04-12T15:09:10.027707+00:00 | Wind Of Change | Scorpions | source:amperwave-api
+2026-04-12T15:09:45.717951+00:00 | Wind Of Change | Scorpions | source:amperwave-api
+2026-04-12T15:10:20.404975+00:00 | Wind Of Change | Scorpions | source:amperwave-api
+2026-04-12T15:10:54.342138+00:00 | Wind Of Change | Scorpions | source:amperwave-api
+2026-04-12T15:11:28.341371+00:00 | Wind Of Change | Scorpions | source:amperwave-api
+2026-04-12T15:12:23.567588+00:00 | Fortunate Son | Creedence Clearwater Revival | source:amperwave-api
+2026-04-12T15:12:58.302346+00:00 | Fortunate Son | Creedence Clearwater Revival | source:amperwave-api
+2026-04-12T15:13:32.718230+00:00 | Fortunate Son | Creedence Clearwater Revival | source:amperwave-api
+2026-04-12T15:14:06.975495+00:00 | Fortunate Son | Creedence Clearwater Revival | source:amperwave-api
+2026-04-12T15:14:41.212232+00:00 | Animal | Def Leppard | source:amperwave-api
+2026-04-12T15:15:15.127693+00:00 | Animal | Def Leppard | source:amperwave-api
+2026-04-12T15:15:49.790259+00:00 | Animal | Def Leppard | source:amperwave-api
+2026-04-12T15:16:23.424443+00:00 | Animal | Def Leppard | source:amperwave-api
+2026-04-12T15:17:23.022966+00:00 | Animal | Def Leppard | source:amperwave-api
+2026-04-12T15:17:57.627741+00:00 | Animal | Def Leppard | source:amperwave-api
+2026-04-12T15:18:52.614819+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-12T15:19:27.023500+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-12T15:20:23.875147+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-12T15:20:59.162147+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-12T15:21:33.254110+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-12T15:22:07.289499+00:00 | Dirty Deeds Done Dirt Cheap | Ac/Dc | source:amperwave-api
+2026-04-12T15:22:41.492933+00:00 | Dirty Deeds Done Dirt Cheap | Ac/Dc | source:amperwave-api
+2026-04-12T15:23:15.612714+00:00 | Dirty Deeds Done Dirt Cheap | Ac/Dc | source:amperwave-api
+2026-04-12T15:23:49.510393+00:00 | Dirty Deeds Done Dirt Cheap | Ac/Dc | source:amperwave-api
+2026-04-12T15:24:23.109653+00:00 | Dirty Deeds Done Dirt Cheap | Ac/Dc | source:amperwave-api
+2026-04-12T15:24:58.047587+00:00 | Dirty Deeds Done Dirt Cheap | Ac/Dc | source:amperwave-api
+2026-04-12T15:25:32.424400+00:00 | Dirty Deeds Done Dirt Cheap | Ac/Dc | source:amperwave-api
+2026-04-12T15:26:06.409810+00:00 | Lonely Is The Night | Billy Squier | source:amperwave-api
+2026-04-12T15:26:42.041543+00:00 | Lonely Is The Night | Billy Squier | source:amperwave-api
+2026-04-12T15:27:16.624925+00:00 | Lonely Is The Night | Billy Squier | source:amperwave-api
+2026-04-12T15:27:51.028322+00:00 | Lonely Is The Night | Billy Squier | source:amperwave-api
+2026-04-12T15:28:29.212532+00:00 | Lonely Is The Night | Billy Squier | source:amperwave-api
+2026-04-12T15:29:02.863101+00:00 | Lonely Is The Night | Billy Squier | source:amperwave-api
+2026-04-12T15:29:37.037145+00:00 | Lonely Is The Night | Billy Squier | source:amperwave-api
+2026-04-12T15:30:11.939266+00:00 | Lonely Is The Night | Billy Squier | source:amperwave-api
+2026-04-12T15:30:45.723739+00:00 | Lonely Is The Night | Billy Squier | source:amperwave-api
+2026-04-12T15:31:45.579331+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:32:19.430438+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:32:54.059407+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:33:28.219759+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:34:01.751771+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:34:36.048891+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:35:10.249011+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:35:44.593230+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:36:39.433626+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:37:14.640050+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:37:48.792025+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:38:23.139070+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:38:56.747959+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:39:30.458358+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:40:04.276219+00:00 | The Waiting | Tom Petty | source:amperwave-api
+2026-04-12T15:40:37.918310+00:00 | Black Dog | Led Zeppelin | source:amperwave-api
+2026-04-12T15:41:11.970166+00:00 | Black Dog | Led Zeppelin | source:amperwave-api
+2026-04-12T15:41:46.836224+00:00 | Black Dog | Led Zeppelin | source:amperwave-api
+2026-04-12T15:42:20.838469+00:00 | Black Dog | Led Zeppelin | source:amperwave-api
+2026-04-12T15:42:54.222574+00:00 | Black Dog | Led Zeppelin | source:amperwave-api
+2026-04-12T15:43:28.163259+00:00 | Black Dog | Led Zeppelin | source:amperwave-api
+2026-04-12T15:44:19.149815+00:00 | Black Dog | Led Zeppelin | source:amperwave-api
+2026-04-12T15:44:56.880652+00:00 | Black Dog | Led Zeppelin | source:amperwave-api
+2026-04-12T15:45:30.993218+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:46:14.807840+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:46:48.666050+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:47:22.792853+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:47:57.266297+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:48:31.410141+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:49:28.419965+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:50:02.312441+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:50:36.450216+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:51:10.732664+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:51:44.231542+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:52:18.971573+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api
+2026-04-12T15:52:54.377905+00:00 | Every Little Thing She Does Is Magic | Police | source:amperwave-api

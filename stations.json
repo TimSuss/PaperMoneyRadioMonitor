@@ -1,14 +1,5 @@
 [
   {
-    "name": "KBEA-FM",
-    "city": "Quad Cities",
-    "state": "IA",
-    "network": "Townsquare Media",
-    "amperwave_id": "5218",
-    "url": "https://b100quadcities.com/listen-live/",
-    "failure_count": 0
-  },
-  {
     "name": "WJIM-FM",
     "city": "Lansing",
     "state": "MI",
@@ -106,17 +97,5 @@
     "amperwave_id": "5040",
     "url": "https://z1073.com/listen-live/",
     "failure_count": 0
-  },
-  {
-    "name": "KBMX-FM",
-    "city": "Duluth",
-    "state": "MN",
-    "network": "Townsquare Media",
-    "amperwave_id": "5197",
-    "url": "https://mix108.com/listen-live/popup/",
-    "failure_count": 183,
-    "disabled_reason": "too many values to unpack (expected 2)",
-    "disabled": true,
-    "disabled_time": "2026-04-12T00:59:30.746402+00:00"
   }
 ]

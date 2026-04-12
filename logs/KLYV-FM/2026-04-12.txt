@@ -1,3 +1,89 @@
 2026-04-12T00:58:52.903156+00:00 | American Girls | Harry Styles | source:amperwave-api
 2026-04-12T00:59:28.202569+00:00 | American Girls | Harry Styles | source:amperwave-api
 2026-04-12T14:34:59.484819+00:00 | Opalite | Taylor Swift | source:amperwave-api
+2026-04-12T14:56:57.484970+00:00 | Teenage Dream | Katy Perry | source:amperwave-api
+2026-04-12T15:00:35.129215+00:00 | Say So | Doja Cat | source:amperwave-api
+2026-04-12T15:01:30.918419+00:00 | Say So | Doja Cat | source:amperwave-api
+2026-04-12T15:02:05.249245+00:00 | Die With A Smile | Lady Gaga And Bruno Mars | source:amperwave-api
+2026-04-12T15:03:04.156584+00:00 | Die With A Smile | Lady Gaga And Bruno Mars | source:amperwave-api
+2026-04-12T15:03:38.040181+00:00 | Die With A Smile | Lady Gaga And Bruno Mars | source:amperwave-api
+2026-04-12T15:04:31.784362+00:00 | Die With A Smile | Lady Gaga And Bruno Mars | source:amperwave-api
+2026-04-12T15:05:09.904055+00:00 | Die With A Smile | Lady Gaga And Bruno Mars | source:amperwave-api
+2026-04-12T15:05:43.749016+00:00 | Die With A Smile | Lady Gaga And Bruno Mars | source:amperwave-api
+2026-04-12T15:06:18.286682+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T15:06:52.759127+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T15:07:26.768291+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T15:08:01.030053+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T15:08:35.161394+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T15:09:09.029136+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T15:09:44.455667+00:00 | Whatcha Say | Jason Derulo | source:amperwave-api
+2026-04-12T15:10:19.133166+00:00 | Whatcha Say | Jason Derulo | source:amperwave-api
+2026-04-12T15:10:53.229062+00:00 | Whatcha Say | Jason Derulo | source:amperwave-api
+2026-04-12T15:11:27.258717+00:00 | Whatcha Say | Jason Derulo | source:amperwave-api
+2026-04-12T15:12:01.055366+00:00 | Whatcha Say | Jason Derulo | source:amperwave-api
+2026-04-12T15:12:57.265731+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T15:13:31.676451+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T15:14:05.617146+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T15:14:40.160967+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T15:15:14.215348+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T15:15:48.692216+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T15:16:22.444101+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T15:17:19.593309+00:00 | Im Good | Bebe Rexha And David Guetta | source:amperwave-api
+2026-04-12T15:17:56.641108+00:00 | Im Good | Bebe Rexha And David Guetta | source:amperwave-api
+2026-04-12T15:18:51.331444+00:00 | Im Good | Bebe Rexha And David Guetta | source:amperwave-api
+2026-04-12T15:19:26.043714+00:00 | Im Good | Bebe Rexha And David Guetta | source:amperwave-api
+2026-04-12T15:19:59.721629+00:00 | Eastside | Benny Blanco, Halsey Khalid | source:amperwave-api
+2026-04-12T15:20:57.923762+00:00 | Eastside | Benny Blanco, Halsey Khalid | source:amperwave-api
+2026-04-12T15:21:32.100599+00:00 | Eastside | Benny Blanco, Halsey Khalid | source:amperwave-api
+2026-04-12T15:22:06.050851+00:00 | Eastside | Benny Blanco, Halsey Khalid | source:amperwave-api
+2026-04-12T15:22:40.545852+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:23:14.469819+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:23:48.449833+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:24:22.217290+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:24:56.856053+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:25:31.001260+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:26:05.505255+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:26:40.629134+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:27:15.217435+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:27:49.875937+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:28:28.066577+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:29:01.899660+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:29:35.793452+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T15:30:10.856982+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T15:30:44.804462+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T15:31:19.959842+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T15:32:18.435729+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T15:32:53.017830+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T15:33:27.052104+00:00 | Greedy | Tate Mcrae | source:amperwave-api
+2026-04-12T15:34:00.757293+00:00 | Greedy | Tate Mcrae | source:amperwave-api
+2026-04-12T15:34:35.050570+00:00 | Greedy | Tate Mcrae | source:amperwave-api
+2026-04-12T15:35:09.247626+00:00 | Greedy | Tate Mcrae | source:amperwave-api
+2026-04-12T15:35:43.290243+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T15:36:38.160841+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T15:37:13.780132+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T15:37:47.407857+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T15:38:22.041847+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:38:55.903790+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:39:29.501933+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:40:03.114185+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:40:36.849240+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:41:10.933058+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:41:45.941079+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:42:19.823909+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:42:53.351889+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:43:27.233674+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:44:00.538131+00:00 | Risk It All | Bruno Mars | source:amperwave-api
+2026-04-12T15:44:56.030454+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-12T15:45:30.014214+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-12T15:46:13.157439+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-12T15:46:47.842645+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-12T15:47:21.956261+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-12T15:47:55.802505+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-12T15:48:30.275834+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-12T15:49:27.113110+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-12T15:50:01.029925+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-12T15:50:35.373307+00:00 | Sorry Im Here For Someone Else | Benson Boone | source:amperwave-api
+2026-04-12T15:51:09.619324+00:00 | Sorry Im Here For Someone Else | Benson Boone | source:amperwave-api
+2026-04-12T15:51:43.403845+00:00 | Sorry Im Here For Someone Else | Benson Boone | source:amperwave-api
+2026-04-12T15:52:17.747486+00:00 | Sorry Im Here For Someone Else | Benson Boone | source:amperwave-api
+2026-04-12T15:52:53.448212+00:00 | Sorry Im Here For Someone Else | Benson Boone | source:amperwave-api
