@@ -24,6 +24,7 @@ STATION_CONFIG_PATH=stations.json
 LOG_DIR=logs
 TARGET_TITLE=Pretty Faces
 TARGET_ARTIST=Paper Money
+TEST_SONGS=I Just Might|Bruno Mars;So Easy (To Fall In Love)|Olivia Dean;Man I Need|Olivia Dean;Yukon|Justin Bieber;Ordinary|Alex Warren
 ```
 
 The monitor will automatically load these values from a local `.env` file if it exists.
@@ -117,6 +118,7 @@ The generated service:
 
 - Checks each station every 30 seconds by default.
 - Sends an email when it detects the song "Pretty Faces" by Paper Money.
+- Also watches a configurable set of test songs and sends one `[THIS IS A TEST!]` email on the first detected match each time the process starts, then disables test-song monitoring for the rest of that session.
 - Sends an email if the script aborts due to a monitoring error.
 
 > For Gmail, use an app password if your account has 2FA enabled.

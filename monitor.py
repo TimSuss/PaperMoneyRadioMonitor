@@ -28,6 +28,17 @@ EMAIL_TO_LIST = os.environ.get("EMAIL_TO_LIST")
 POLL_INTERVAL_SECONDS = int(os.environ.get("POLL_INTERVAL_SECONDS", "30"))
 TARGET_TITLE = os.environ.get("TARGET_TITLE", "Pretty Faces")
 TARGET_ARTIST = os.environ.get("TARGET_ARTIST", "Paper Money")
+DEFAULT_TEST_SONGS = [
+    ("I Just Might", "Bruno Mars"),
+    ("So Easy (To Fall In Love)", "Olivia Dean"),
+    ("Man I Need", "Olivia Dean"),
+    ("Yukon", "Justin Bieber"),
+    ("Ordinary", "Alex Warren"),
+]
+TEST_SONGS = os.environ.get(
+    "TEST_SONGS",
+    ";".join(f"{title}|{artist}" for title, artist in DEFAULT_TEST_SONGS),
+)
 AMPERWAVE_MAX_ITEMS = int(os.environ.get("AMPERWAVE_MAX_ITEMS", "20"))
 AMPERWAVE_API_HOST = "api-nowplaying.amperwave.net"
 AMPERWAVE_API_PATH = "prtplus/nowplaying"
@@ -258,6 +269,30 @@ def clean_value(value):
     return " ".join(str(value).strip().strip('"\'').split())
 
 
+def parse_test_song_list(value):
+    songs = []
+    seen = set()
+    for entry in str(value or "").split(";"):
+        entry = entry.strip()
+        if not entry:
+            continue
+        if "|" not in entry:
+            raise MonitorError(
+                "TEST_SONGS must use the format 'Title|Artist;Another Title|Another Artist'."
+            )
+        raw_title, raw_artist = entry.split("|", 1)
+        title = clean_value(raw_title).title()
+        artist = clean_value(raw_artist).title()
+        if not title or not artist:
+            continue
+        key = (normalize_text(title), normalize_text(artist))
+        if key in seen:
+            continue
+        seen.add(key)
+        songs.append((title, artist))
+    return songs
+
+
 def extract_amperwave_station_id(soup):
     iframe = soup.find("iframe", src=re.compile(r"player\.amperwave\.net/\d+", re.I))
     if not iframe:
@@ -471,6 +506,19 @@ def is_target_song_playing(title, artist, page_text):
     return normalize_text(TARGET_TITLE) in normalized and normalize_text(TARGET_ARTIST) in normalized
 
 
+def find_matching_test_song(title, artist, test_songs):
+    if not title or not artist:
+        return None
+
+    normalized_title = normalize_text(title)
+    normalized_artist = normalize_text(artist)
+    for test_title, test_artist in test_songs:
+        if normalized_title == normalize_text(test_title) and normalized_artist == normalize_text(test_artist):
+            return test_title, test_artist
+
+    return None
+
+
 def fetch_station_page(url):
     headers = {
         "User-Agent": "PaperMoneyRadioMonitor/1.0 (+https://github.com)"
@@ -532,8 +580,11 @@ def build_error_body(error, station_name=None, station_url=None):
 def main():
     all_stations = load_station_config(CONFIG_PATH)
     monitored_stations = validate_station_urls(CONFIG_PATH, all_stations)
+    test_songs = parse_test_song_list(TEST_SONGS)
+    test_song_monitoring_enabled = bool(test_songs)
     state = {station["name"]: False for station in monitored_stations}
     enabled_station_names = ", ".join([station["name"] for station in monitored_stations])
+    test_song_summary = ", ".join([f"'{title}' by '{artist}'" for title, artist in test_songs]) or "disabled"
 
     start_body = (
         f"PaperMoneyRadioMonitor started at {datetime.utcnow().isoformat()} UTC.\n"
@@ -541,6 +592,7 @@ def main():
         f"Enabled stations: {enabled_station_names}\n"
         f"Polling every {POLL_INTERVAL_SECONDS} seconds.\n"
         f"Target song: '{TARGET_TITLE}' by '{TARGET_ARTIST}'.\n"
+        f"Test songs for this session: {test_song_summary}.\n"
     )
     try:
         send_email("PaperMoneyRadioMonitor started", start_body)
@@ -585,6 +637,22 @@ def main():
                 send_email_blast(f"Now Playing: {track_text}", body)
                 print(f"Alert sent for station: {name} ({track_text}) via {source}")
                 state[name] = True
+
+            if test_song_monitoring_enabled:
+                matching_test_song = find_matching_test_song(title, artist, test_songs)
+                if matching_test_song:
+                    test_title, test_artist = matching_test_song
+                    track_text = f"{test_title} by {test_artist}"
+                    body = (
+                        f"This is a test alert. The song '{track_text}' is now playing on {name}.\n"
+                        f"Station URL: {station['url']}\n"
+                        f"Discovered via: {source}\n"
+                        f"Checked at {datetime.utcnow().isoformat()} UTC.\n"
+                        f"Test song monitoring is now disabled for the rest of this session."
+                    )
+                    send_email_blast(f"[THIS IS A TEST!] Now Playing: {track_text}", body)
+                    print(f"Test alert sent for station: {name} ({track_text}) via {source}")
+                    test_song_monitoring_enabled = False
 
             if not playing and state[name]:
                 state[name] = False
