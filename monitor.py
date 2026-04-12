@@ -530,14 +530,14 @@ def build_error_body(error, station_name=None, station_url=None):
 
 
 def main():
-    stations = load_station_config(CONFIG_PATH)
-    stations = validate_station_urls(CONFIG_PATH, stations)
-    state = {station["name"]: False for station in stations}
-    enabled_station_names = ", ".join([station["name"] for station in stations])
+    all_stations = load_station_config(CONFIG_PATH)
+    monitored_stations = validate_station_urls(CONFIG_PATH, all_stations)
+    state = {station["name"]: False for station in monitored_stations}
+    enabled_station_names = ", ".join([station["name"] for station in monitored_stations])
 
     start_body = (
         f"PaperMoneyRadioMonitor started at {datetime.utcnow().isoformat()} UTC.\n"
-        f"Loaded {len(stations)} station(s) from {CONFIG_PATH}.\n"
+        f"Loaded {len(all_stations)} station(s) from {CONFIG_PATH}.\n"
         f"Enabled stations: {enabled_station_names}\n"
         f"Polling every {POLL_INTERVAL_SECONDS} seconds.\n"
         f"Target song: '{TARGET_TITLE}' by '{TARGET_ARTIST}'.\n"
@@ -547,12 +547,13 @@ def main():
     except Exception:
         print("Failed to send startup notification:", traceback.format_exc())
 
-    print(f"Loaded {len(stations)} station(s) from {CONFIG_PATH}.")
+    print(f"Loaded {len(all_stations)} station(s) from {CONFIG_PATH}.")
+    print(f"Monitoring {len(monitored_stations)} enabled station(s).")
     print(f"Polling every {POLL_INTERVAL_SECONDS} seconds.")
     print("Press Ctrl+C to stop manually.")
 
     while not STOP_EVENT.is_set():
-        for station in stations:
+        for station in monitored_stations:
             if STOP_EVENT.is_set():
                 break
 
@@ -561,11 +562,11 @@ def main():
                 playing, title, artist, source = check_station(station)
                 if station.get("failure_count", 0) > 0:
                     reset_station_failures(station)
-                    save_station_config(CONFIG_PATH, stations)
+                    save_station_config(CONFIG_PATH, all_stations)
             except Exception as exc:
                 reason = str(exc)
                 disabled = increment_station_failure(station, reason)
-                save_station_config(CONFIG_PATH, stations)
+                save_station_config(CONFIG_PATH, all_stations)
                 if disabled:
                     print(f"Station {name} is now disabled permanently until re-enabled in {CONFIG_PATH}.")
                     continue
