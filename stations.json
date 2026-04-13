@@ -172,7 +172,10 @@
     "state": "MO",
     "network": "SummitMedia",
     "url": "https://www.power965.com/player/",
-    "failure_count": 0
+    "failure_count": 11,
+    "disabled_reason": "too many values to unpack (expected 2)",
+    "disabled": true,
+    "disabled_time": "2026-04-13T23:44:51.904930+00:00"
   },
   {
     "name": "KBFF-FM",
@@ -180,6 +183,9 @@
     "state": "OR",
     "network": "iHeartMedia",
     "url": "https://www.connmediaplayer.com/live955",
-    "failure_count": 0
+    "failure_count": 11,
+    "disabled_reason": "too many values to unpack (expected 2)",
+    "disabled": true,
+    "disabled_time": "2026-04-13T23:44:51.977434+00:00"
   }
 ]
