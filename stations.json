@@ -60,7 +60,8 @@
     "network": "Townsquare Media",
     "amperwave_id": "5212",
     "url": "https://mycountry955.com/listen-live/",
-    "failure_count": 0
+    "failure_count": 0,
+    "disabled": true
   },
   {
     "name": "KLYV-FM",
@@ -142,7 +143,8 @@
     "state": "VA",
     "network": "SummitMedia",
     "url": "https://www.1037yourvariety.com/player/",
-    "failure_count": 0
+    "failure_count": 0,
+    "disabled": true
   },
   {
     "name": "WXLK-FM",
@@ -159,7 +161,10 @@
     "state": "NE",
     "network": "SummitMedia",
     "url": "https://www.channel941.com/player/",
-    "failure_count": 0
+    "failure_count": 454,
+    "disabled_reason": "too many values to unpack (expected 2)",
+    "disabled": true,
+    "disabled_time": "2026-04-13T21:59:47.303856+00:00"
   },
   {
     "name": "KSPW-FM",
@@ -175,6 +180,9 @@
     "state": "OR",
     "network": "iHeartMedia",
     "url": "https://www.connmediaplayer.com/live955",
-    "failure_count": 0
+    "failure_count": 454,
+    "disabled_reason": "too many values to unpack (expected 2)",
+    "disabled": true,
+    "disabled_time": "2026-04-13T21:59:47.563782+00:00"
   }
 ]
