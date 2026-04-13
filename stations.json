@@ -144,6 +144,15 @@
     "failure_count": 0
   },
   {
+    "name": "WXLK-FM",
+    "city": "Roanoke",
+    "state": "VA",
+    "network": "Mel Wheeler, Inc.",
+    "amperwave_id": "1297",
+    "url": "https://player.amperwave.net/1297",
+    "failure_count": 0
+  },
+  {
     "name": "KQCH-FM",
     "city": "Omaha",
     "state": "NE",
