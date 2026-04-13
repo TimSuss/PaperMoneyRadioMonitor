@@ -180,9 +180,6 @@
     "state": "OR",
     "network": "iHeartMedia",
     "url": "https://www.connmediaplayer.com/live955",
-    "failure_count": 454,
-    "disabled_reason": "too many values to unpack (expected 2)",
-    "disabled": true,
-    "disabled_time": "2026-04-13T21:59:47.563782+00:00"
+    "failure_count": 0
   }
 ]
