@@ -129,10 +129,34 @@
     "state": "MN",
     "network": "Townsquare Media",
     "amperwave_id": "5197",
-    "url": "https://mix108.com/listen-live/popup/",
+    "url": "https://mix108.com/listen-live/",
     "failure_count": 183,
     "disabled_reason": "too many values to unpack (expected 2)",
     "disabled": true,
     "disabled_time": "2026-04-12T00:59:30.746402+00:00"
+  },
+  {
+    "name": "WURV-FM",
+    "city": "Richmond",
+    "state": "VA",
+    "network": "SummitMedia",
+    "url": "https://www.1037yourvariety.com/player/",
+    "failure_count": 0
+  },
+  {
+    "name": "KQCH-FM",
+    "city": "Omaha",
+    "state": "NE",
+    "network": "SummitMedia",
+    "url": "https://www.channel941.com/player/",
+    "failure_count": 0
+  },
+  {
+    "name": "KSPW-FM",
+    "city": "Springfield",
+    "state": "MO",
+    "network": "SummitMedia",
+    "url": "https://www.power965.com/player/",
+    "failure_count": 0
   }
 ]
