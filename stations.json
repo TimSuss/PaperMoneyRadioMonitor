@@ -168,5 +168,13 @@
     "network": "SummitMedia",
     "url": "https://www.power965.com/player/",
     "failure_count": 0
+  },
+  {
+    "name": "KBFF-FM",
+    "city": "Portland",
+    "state": "OR",
+    "network": "iHeartMedia",
+    "url": "https://www.connmediaplayer.com/live955",
+    "failure_count": 0
   }
 ]
