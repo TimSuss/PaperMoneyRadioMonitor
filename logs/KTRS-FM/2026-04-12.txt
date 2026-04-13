@@ -656,3 +656,185 @@
 2026-04-12T22:00:00.299862+00:00 | Kiss A Girl | Keith Urban | source:amperwave-api
 2026-04-12T22:01:03.969676+00:00 | Kiss A Girl | Keith Urban | source:amperwave-api
 2026-04-12T22:01:39.383320+00:00 | Kiss A Girl | Keith Urban | source:amperwave-api
+2026-04-12T22:02:18.779225+00:00 | Favorite Country Song | Hardy | source:amperwave-api
+2026-04-12T22:02:53.678060+00:00 | Favorite Country Song | Hardy | source:amperwave-api
+2026-04-12T22:03:51.122572+00:00 | Favorite Country Song | Hardy | source:amperwave-api
+2026-04-12T22:04:26.826608+00:00 | Favorite Country Song | Hardy | source:amperwave-api
+2026-04-12T22:05:26.629620+00:00 | Make It Sweet | Old Dominion | source:amperwave-api
+2026-04-12T22:06:02.797752+00:00 | Make It Sweet | Old Dominion | source:amperwave-api
+2026-04-12T22:06:37.902498+00:00 | Make It Sweet | Old Dominion | source:amperwave-api
+2026-04-12T22:07:38.040974+00:00 | Make It Sweet | Old Dominion | source:amperwave-api
+2026-04-12T22:08:36.968921+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-12T22:09:12.286520+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-12T22:09:47.099461+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-12T22:10:22.481845+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-12T22:10:58.389002+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-12T22:11:33.586734+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-12T22:12:08.879062+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-12T22:12:45.492558+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-12T22:13:21.093464+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-12T22:13:56.635234+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-12T22:14:32.655832+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-12T22:15:07.963459+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-12T22:15:43.098572+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-12T22:16:28.582415+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-12T22:16:48.866515+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-12T22:17:23.326027+00:00 | Darlin | Chase Matthew | source:amperwave-api
+2026-04-12T22:18:05.082163+00:00 | Darlin | Chase Matthew | source:amperwave-api
+2026-04-12T22:18:40.098813+00:00 | Darlin | Chase Matthew | source:amperwave-api
+2026-04-12T22:19:38.365962+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:20:13.874645+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:21:13.651633+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:21:49.748261+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:22:47.243216+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:23:22.094595+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:24:22.786797+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:24:58.122080+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:25:33.382969+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:26:09.137416+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:26:44.521588+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-12T22:27:20.240885+00:00 | Unforgettable | Thomas Rhett | source:amperwave-api
+2026-04-12T22:27:55.204763+00:00 | Unforgettable | Thomas Rhett | source:amperwave-api
+2026-04-12T22:28:30.262138+00:00 | Unforgettable | Thomas Rhett | source:amperwave-api
+2026-04-12T22:29:06.127887+00:00 | Unforgettable | Thomas Rhett | source:amperwave-api
+2026-04-12T22:29:41.121394+00:00 | Til The Last One Dies | Chris Young | source:amperwave-api
+2026-04-12T22:30:15.729764+00:00 | Til The Last One Dies | Chris Young | source:amperwave-api
+2026-04-12T22:30:50.757085+00:00 | Til The Last One Dies | Chris Young | source:amperwave-api
+2026-04-12T22:31:28.865862+00:00 | Til The Last One Dies | Chris Young | source:amperwave-api
+2026-04-12T22:32:04.341274+00:00 | Til The Last One Dies | Chris Young | source:amperwave-api
+2026-04-12T22:33:01.381136+00:00 | Need A Favor | Jelly Roll | source:amperwave-api
+2026-04-12T22:33:36.950290+00:00 | Need A Favor | Jelly Roll | source:amperwave-api
+2026-04-12T22:34:33.480239+00:00 | Need A Favor | Jelly Roll | source:amperwave-api
+2026-04-12T22:35:08.546753+00:00 | Need A Favor | Jelly Roll | source:amperwave-api
+2026-04-12T22:36:05.818646+00:00 | Need A Favor | Jelly Roll | source:amperwave-api
+2026-04-12T22:36:40.726558+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-12T22:37:39.338374+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-12T22:38:15.934745+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-12T22:39:11.014401+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-12T22:39:47.099858+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-12T22:40:22.648442+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-12T22:40:58.520905+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-12T22:41:35.559097+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-12T22:42:11.907355+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-12T22:42:49.301641+00:00 | This Towns Been Too Good To Us | Dylan Scott | source:amperwave-api
+2026-04-12T22:43:24.986449+00:00 | This Towns Been Too Good To Us | Dylan Scott | source:amperwave-api
+2026-04-12T22:44:02.231833+00:00 | This Towns Been Too Good To Us | Dylan Scott | source:amperwave-api
+2026-04-12T22:44:38.266177+00:00 | This Towns Been Too Good To Us | Dylan Scott | source:amperwave-api
+2026-04-12T22:45:13.919823+00:00 | This Towns Been Too Good To Us | Dylan Scott | source:amperwave-api
+2026-04-12T22:45:50.197936+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-12T22:46:29.894545+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-12T22:47:07.158562+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-12T22:47:42.978711+00:00 | Blown Away | Carrie Underwood | source:amperwave-api
+2026-04-12T22:48:23.996021+00:00 | Blown Away | Carrie Underwood | source:amperwave-api
+2026-04-12T22:49:00.562184+00:00 | Blown Away | Carrie Underwood | source:amperwave-api
+2026-04-12T22:49:35.622767+00:00 | Blown Away | Carrie Underwood | source:amperwave-api
+2026-04-12T22:50:11.837213+00:00 | Blown Away | Carrie Underwood | source:amperwave-api
+2026-04-12T22:50:47.046146+00:00 | Blown Away | Carrie Underwood | source:amperwave-api
+2026-04-12T22:51:22.379476+00:00 | Blown Away | Carrie Underwood | source:amperwave-api
+2026-04-12T22:51:57.456183+00:00 | Good News | Shaboozey | source:amperwave-api
+2026-04-12T22:52:34.354367+00:00 | Good News | Shaboozey | source:amperwave-api
+2026-04-12T22:53:36.499084+00:00 | Good News | Shaboozey | source:amperwave-api
+2026-04-12T22:54:12.433319+00:00 | Good News | Shaboozey | source:amperwave-api
+2026-04-12T22:54:47.539661+00:00 | Good News | Shaboozey | source:amperwave-api
+2026-04-12T22:55:29.548831+00:00 | Kerosene | Miranda Lambert | source:amperwave-api
+2026-04-12T22:56:05.376956+00:00 | Kerosene | Miranda Lambert | source:amperwave-api
+2026-04-12T22:56:41.346829+00:00 | Kerosene | Miranda Lambert | source:amperwave-api
+2026-04-12T22:57:16.058572+00:00 | Kerosene | Miranda Lambert | source:amperwave-api
+2026-04-12T22:57:51.442158+00:00 | Kerosene | Miranda Lambert | source:amperwave-api
+2026-04-12T22:58:26.822689+00:00 | Friends Like That (Feat. Jason Aldean) | John Morgan | source:amperwave-api
+2026-04-12T22:59:02.000110+00:00 | Friends Like That (Feat. Jason Aldean) | John Morgan | source:amperwave-api
+2026-04-12T22:59:37.272443+00:00 | Friends Like That (Feat. Jason Aldean) | John Morgan | source:amperwave-api
+2026-04-12T23:00:12.747427+00:00 | Friends Like That (Feat. Jason Aldean) | John Morgan | source:amperwave-api
+2026-04-12T23:00:48.216647+00:00 | Friends Like That (Feat. Jason Aldean) | John Morgan | source:amperwave-api
+2026-04-12T23:01:23.317521+00:00 | Worst Way | Riley Green | source:amperwave-api
+2026-04-12T23:01:58.813667+00:00 | Worst Way | Riley Green | source:amperwave-api
+2026-04-12T23:02:34.001414+00:00 | Worst Way | Riley Green | source:amperwave-api
+2026-04-12T23:03:32.040872+00:00 | Worst Way | Riley Green | source:amperwave-api
+2026-04-12T23:04:07.513559+00:00 | Worst Way | Riley Green | source:amperwave-api
+2026-04-12T23:04:42.427590+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-12T23:05:17.987847+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-12T23:05:54.598181+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-12T23:06:29.438500+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-12T23:07:07.028236+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-12T23:07:42.182087+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-12T23:08:17.324118+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-12T23:08:52.309975+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-12T23:09:32.538071+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-12T23:10:32.731839+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-12T23:11:09.938297+00:00 | What Was I Thinkin | Dierks Bentley | source:amperwave-api
+2026-04-12T23:11:45.242683+00:00 | What Was I Thinkin | Dierks Bentley | source:amperwave-api
+2026-04-12T23:12:49.073274+00:00 | What Was I Thinkin | Dierks Bentley | source:amperwave-api
+2026-04-12T23:13:23.872118+00:00 | What Was I Thinkin | Dierks Bentley | source:amperwave-api
+2026-04-12T23:14:00.578146+00:00 | What Was I Thinkin | Dierks Bentley | source:amperwave-api
+2026-04-12T23:14:36.844772+00:00 | How Far Does A Goodbye Go | Jason Aldean | source:amperwave-api
+2026-04-12T23:15:12.585853+00:00 | How Far Does A Goodbye Go | Jason Aldean | source:amperwave-api
+2026-04-12T23:15:50.180807+00:00 | How Far Does A Goodbye Go | Jason Aldean | source:amperwave-api
+2026-04-12T23:16:26.299752+00:00 | How Far Does A Goodbye Go | Jason Aldean | source:amperwave-api
+2026-04-12T23:17:02.307604+00:00 | How Far Does A Goodbye Go | Jason Aldean | source:amperwave-api
+2026-04-12T23:17:37.717806+00:00 | How Far Does A Goodbye Go | Jason Aldean | source:amperwave-api
+2026-04-12T23:18:14.785213+00:00 | How Far Does A Goodbye Go | Jason Aldean | source:amperwave-api
+2026-04-12T23:18:51.027259+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:19:31.037366+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:20:06.290519+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:20:44.800756+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:21:21.289514+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:21:56.279060+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:22:31.510491+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:23:08.532274+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:23:44.988351+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:24:21.160978+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-12T23:24:56.746837+00:00 | Ridin Roads | Dustin Lynch | source:amperwave-api
+2026-04-12T23:25:32.926718+00:00 | Ridin Roads | Dustin Lynch | source:amperwave-api
+2026-04-12T23:26:29.420632+00:00 | Ridin Roads | Dustin Lynch | source:amperwave-api
+2026-04-12T23:27:08.555784+00:00 | Ridin Roads | Dustin Lynch | source:amperwave-api
+2026-04-12T23:27:44.873034+00:00 | Ridin Roads | Dustin Lynch | source:amperwave-api
+2026-04-12T23:28:23.260223+00:00 | Ridin Roads | Dustin Lynch | source:amperwave-api
+2026-04-12T23:28:58.812032+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-12T23:29:35.320161+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-12T23:30:11.764409+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-12T23:30:48.093396+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-12T23:31:23.588448+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-12T23:31:59.167062+00:00 | Back Then Right Now | Tyler Hubbard | source:amperwave-api
+2026-04-12T23:32:34.552858+00:00 | Back Then Right Now | Tyler Hubbard | source:amperwave-api
+2026-04-12T23:33:10.237399+00:00 | Back Then Right Now | Tyler Hubbard | source:amperwave-api
+2026-04-12T23:33:46.017278+00:00 | Back Then Right Now | Tyler Hubbard | source:amperwave-api
+2026-04-12T23:34:22.046124+00:00 | Back Then Right Now | Tyler Hubbard | source:amperwave-api
+2026-04-12T23:34:57.848358+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:35:33.629465+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:36:10.980515+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:37:11.603506+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:37:47.265084+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:38:22.018213+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:38:59.931506+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:39:34.968923+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:40:11.077582+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:40:55.809081+00:00 | Beautiful Things | Megan Maroney | source:amperwave-api
+2026-04-12T23:41:31.116604+00:00 | Beer Never Broke My Heart | Luke Combs | source:amperwave-api
+2026-04-12T23:42:07.393174+00:00 | Beer Never Broke My Heart | Luke Combs | source:amperwave-api
+2026-04-12T23:42:45.739738+00:00 | Beer Never Broke My Heart | Luke Combs | source:amperwave-api
+2026-04-12T23:43:21.145770+00:00 | Beer Never Broke My Heart | Luke Combs | source:amperwave-api
+2026-04-12T23:44:22.648486+00:00 | Dont Tell On Me | Jason Aldean | source:amperwave-api
+2026-04-12T23:44:58.199609+00:00 | Dont Tell On Me | Jason Aldean | source:amperwave-api
+2026-04-12T23:45:33.898189+00:00 | Dont Tell On Me | Jason Aldean | source:amperwave-api
+2026-04-12T23:46:09.560858+00:00 | Dont Tell On Me | Jason Aldean | source:amperwave-api
+2026-04-12T23:46:44.771241+00:00 | Dont Tell On Me | Jason Aldean | source:amperwave-api
+2026-04-12T23:47:20.889968+00:00 | Angel Eyes | Love And Theft | source:amperwave-api
+2026-04-12T23:47:55.755978+00:00 | Angel Eyes | Love And Theft | source:amperwave-api
+2026-04-12T23:48:31.929057+00:00 | Angel Eyes | Love And Theft | source:amperwave-api
+2026-04-12T23:49:06.790906+00:00 | Angel Eyes | Love And Theft | source:amperwave-api
+2026-04-12T23:49:42.205483+00:00 | Angel Eyes | Love And Theft | source:amperwave-api
+2026-04-12T23:50:16.728782+00:00 | Angel Eyes | Love And Theft | source:amperwave-api
+2026-04-12T23:50:52.980668+00:00 | Stay Country Or Die Tryin | Blake Shelton | source:amperwave-api
+2026-04-12T23:51:28.177598+00:00 | Stay Country Or Die Tryin | Blake Shelton | source:amperwave-api
+2026-04-12T23:52:30.163559+00:00 | Stay Country Or Die Tryin | Blake Shelton | source:amperwave-api
+2026-04-12T23:53:05.445117+00:00 | Stay Country Or Die Tryin | Blake Shelton | source:amperwave-api
+2026-04-12T23:53:42.785936+00:00 | Stay Country Or Die Tryin | Blake Shelton | source:amperwave-api
+2026-04-12T23:54:18.308447+00:00 | Save It For A Rainy Day | Kenny Chesney | source:amperwave-api
+2026-04-12T23:54:53.805522+00:00 | Save It For A Rainy Day | Kenny Chesney | source:amperwave-api
+2026-04-12T23:55:28.791783+00:00 | Save It For A Rainy Day | Kenny Chesney | source:amperwave-api
+2026-04-12T23:56:24.009897+00:00 | Save It For A Rainy Day | Kenny Chesney | source:amperwave-api
+2026-04-12T23:57:00.288680+00:00 | I Am Not Okay | Jelly Roll | source:amperwave-api
+2026-04-12T23:57:48.057529+00:00 | I Am Not Okay | Jelly Roll | source:amperwave-api
+2026-04-12T23:58:22.991141+00:00 | I Am Not Okay | Jelly Roll | source:amperwave-api
+2026-04-12T23:58:58.112774+00:00 | I Am Not Okay | Jelly Roll | source:amperwave-api
+2026-04-12T23:59:56.900356+00:00 | I Am Not Okay | Jelly Roll | source:amperwave-api

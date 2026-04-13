@@ -69,7 +69,8 @@
     "network": "Townsquare Media",
     "amperwave_id": "5148",
     "url": "https://y105music.com/listen-live/",
-    "failure_count": 0
+    "failure_count": 0,
+    "disabled": true
   },
   {
     "name": "KRUF-FM",

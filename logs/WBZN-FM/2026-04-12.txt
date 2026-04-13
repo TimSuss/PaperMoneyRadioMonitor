@@ -652,3 +652,185 @@
 2026-04-12T22:00:27.069794+00:00 | Sweet But Psycho | Ava Max | source:amperwave-api
 2026-04-12T22:01:05.570234+00:00 | Sweet But Psycho | Ava Max | source:amperwave-api
 2026-04-12T22:01:41.399807+00:00 | Sweet But Psycho | Ava Max | source:amperwave-api
+2026-04-12T22:02:20.755094+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T22:02:55.277581+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T22:03:53.101184+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T22:04:28.656859+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T22:05:29.067418+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T22:06:04.449669+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T22:07:04.464060+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T22:07:39.663733+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T22:08:38.805516+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T22:09:13.795846+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T22:09:48.944097+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T22:10:24.372658+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T22:11:00.338454+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T22:11:35.390070+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T22:12:10.756093+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-12T22:12:47.366812+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-12T22:13:22.805291+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-12T22:13:58.243707+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-12T22:14:34.419537+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:15:09.503347+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:15:45.008607+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:16:31.215288+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:16:50.143124+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:17:26.452066+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T22:18:07.183070+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T22:18:41.602660+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T22:19:40.461156+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T22:20:16.008872+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:21:16.113175+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:21:51.239768+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:22:48.958213+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:23:23.878970+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:24:24.626066+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:24:59.921248+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:25:35.461608+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:26:11.322164+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:26:46.441246+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:27:21.551846+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:27:56.756352+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:28:32.229131+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:29:08.053706+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:29:42.791342+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:30:17.373669+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:30:52.430665+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:31:30.879766+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:32:05.917237+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T22:33:03.873230+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T22:33:38.606174+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T22:34:35.409955+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T22:35:10.914460+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T22:36:07.585965+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T22:36:42.463629+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T22:37:42.531310+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T22:38:17.392217+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:39:13.142055+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:39:49.070093+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:40:24.522435+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:41:00.598606+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:41:37.634133+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:42:14.683849+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:42:51.258407+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:43:27.369477+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:44:04.688145+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:44:40.106368+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:45:16.010249+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:45:51.995277+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:46:33.121364+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:47:09.448380+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:47:45.021055+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:48:26.529215+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T22:49:02.247216+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T22:49:37.697734+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T22:50:13.979874+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T22:50:48.868329+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T22:51:24.078917+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T22:51:59.424086+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T22:52:36.523282+00:00 | Lil Boo Thang | Paul Russell | source:amperwave-api
+2026-04-12T22:53:38.837901+00:00 | Lil Boo Thang | Paul Russell | source:amperwave-api
+2026-04-12T22:54:14.209122+00:00 | Lil Boo Thang | Paul Russell | source:amperwave-api
+2026-04-12T22:54:49.285650+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T22:55:31.948929+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T22:56:08.057479+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T22:56:43.004591+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T22:57:17.806334+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T22:57:53.117986+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T22:58:28.302435+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T22:59:03.749587+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T22:59:39.292853+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:00:14.628482+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:00:49.762086+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:01:25.338391+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:02:00.449575+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:02:35.574859+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:03:34.036406+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:04:09.333338+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:04:44.224844+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:05:21.007500+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:05:56.229217+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:06:31.140515+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:07:08.847731+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:07:43.980341+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:08:18.884215+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:08:53.891270+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:09:34.400635+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:10:36.041719+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:11:11.753996+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:12:13.612974+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:12:50.866048+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:13:25.784322+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:14:02.945115+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:14:38.695116+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:15:14.385637+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:15:52.488153+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:16:28.556235+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:17:04.085369+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:17:39.335065+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:18:16.981274+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:18:52.918880+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:19:33.001043+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:20:11.443217+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:20:46.568172+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:21:23.267304+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:21:58.023379+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:22:33.431715+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:23:11.096568+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:23:47.235224+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:24:22.884862+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:24:58.533803+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:25:35.033514+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:26:34.790707+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:27:10.393165+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:27:48.199686+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:28:25.026392+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:29:01.032532+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:29:37.323999+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:30:14.020344+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:30:49.693328+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:31:25.436202+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:32:01.053225+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:32:37.135790+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:33:12.532269+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:33:48.219928+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:34:23.949179+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:34:59.820357+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:35:36.276396+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:36:13.195725+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:37:13.673477+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:37:49.031411+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:38:23.799359+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:39:01.737118+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:39:36.767598+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:40:12.872312+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:40:57.608921+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:41:33.372606+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:42:09.724879+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:42:47.736591+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:43:22.847289+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:44:24.469438+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:45:00.044086+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:45:36.111327+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:46:11.090005+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:46:46.956801+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:47:22.741404+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:47:58.567656+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:48:33.790211+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:49:08.418947+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:49:43.672088+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:50:19.141951+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:50:55.146125+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:51:29.914389+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:52:32.077494+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:53:07.049847+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:53:44.793605+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:54:20.339217+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:54:55.535330+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:55:30.608877+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:56:26.044625+00:00 | Rockabye | Clean Bandit Ft Sean Paul | source:amperwave-api
+2026-04-12T23:57:02.519046+00:00 | Rockabye | Clean Bandit Ft Sean Paul | source:amperwave-api
+2026-04-12T23:57:49.666228+00:00 | Rockabye | Clean Bandit Ft Sean Paul | source:amperwave-api
+2026-04-12T23:58:24.587281+00:00 | Rockabye | Clean Bandit Ft Sean Paul | source:amperwave-api
+2026-04-12T23:59:21.262317+00:00 | Rockabye | Clean Bandit Ft Sean Paul | source:amperwave-api
+2026-04-12T23:59:58.596681+00:00 | Rockabye | Clean Bandit Ft Sean Paul | source:amperwave-api

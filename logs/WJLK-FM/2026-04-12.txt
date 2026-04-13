@@ -339,3 +339,184 @@
 2026-04-12T22:00:29.224137+00:00 | I Just Might | Bruno Mars | source:amperwave-api
 2026-04-12T22:01:06.383106+00:00 | I Just Might | Bruno Mars | source:amperwave-api
 2026-04-12T22:01:42.098420+00:00 | I Had Some Help | Post Malone Ft Morgan Wallen | source:amperwave-api
+2026-04-12T22:02:21.515820+00:00 | I Had Some Help | Post Malone Ft Morgan Wallen | source:amperwave-api
+2026-04-12T22:02:55.902732+00:00 | I Had Some Help | Post Malone Ft Morgan Wallen | source:amperwave-api
+2026-04-12T22:03:53.879572+00:00 | I Had Some Help | Post Malone Ft Morgan Wallen | source:amperwave-api
+2026-04-12T22:04:29.554917+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T22:05:29.878212+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T22:06:05.040189+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T22:07:05.134849+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T22:07:40.265048+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T22:08:39.495245+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T22:09:14.496859+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T22:09:49.651684+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T22:10:25.035389+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T22:11:01.092742+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T22:11:36.186603+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T22:12:12.316470+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T22:12:48.300042+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T22:13:23.706523+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:13:59.252930+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:14:35.148804+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:15:10.262657+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:15:45.721392+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T22:16:31.954482+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T22:16:50.867106+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T22:17:27.478909+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T22:18:07.854560+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T22:18:42.359791+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T22:19:41.199508+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:20:16.728569+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:21:17.129099+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:21:51.964731+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:22:49.495736+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:23:24.492614+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:24:25.401240+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:25:00.599201+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:25:36.198457+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:26:12.019511+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:26:47.250722+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:27:22.205759+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:27:57.526565+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:28:33.019499+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:29:08.664016+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:29:43.362691+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:30:18.005741+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T22:30:53.095946+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:31:31.645100+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:32:06.586231+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:33:04.637016+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:33:39.223877+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T22:34:36.255680+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T22:35:11.633208+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T22:36:08.332460+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T22:36:43.199567+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T22:37:43.641798+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T22:38:18.047847+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T22:39:14.138621+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T22:39:49.851817+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T22:40:25.470845+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T22:41:01.411419+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:41:38.503164+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:42:15.441509+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:42:51.873287+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:43:28.378258+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:44:05.563518+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:44:40.948370+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:45:16.836501+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:45:53.060354+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:46:33.932880+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:47:10.163735+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:47:45.743657+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:48:27.259405+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:49:03.063109+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:49:38.442231+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T22:50:14.698751+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:50:49.483086+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:51:24.690962+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:52:01.845610+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:52:37.409241+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:53:39.644081+00:00 | Crazy In Love | Beyonce Ft. Jay-Z | source:amperwave-api
+2026-04-12T22:54:14.836181+00:00 | Crazy In Love | Beyonce Ft. Jay-Z | source:amperwave-api
+2026-04-12T22:54:49.889328+00:00 | Crazy In Love | Beyonce Ft. Jay-Z | source:amperwave-api
+2026-04-12T22:55:32.664619+00:00 | Crazy In Love | Beyonce Ft. Jay-Z | source:amperwave-api
+2026-04-12T22:56:08.789781+00:00 | Crazy In Love | Beyonce Ft. Jay-Z | source:amperwave-api
+2026-04-12T22:56:43.659454+00:00 | Crazy In Love | Beyonce Ft. Jay-Z | source:amperwave-api
+2026-04-12T22:57:18.510241+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T22:57:54.021336+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T22:58:29.144135+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T22:59:04.538699+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T22:59:40.103253+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:00:15.506844+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:00:50.504371+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:01:25.914168+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:02:01.165858+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:02:36.303837+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:03:35.146606+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:04:09.949940+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:04:44.829680+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:05:21.829651+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:05:56.984127+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:06:32.745293+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:07:09.697082+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:07:45.031334+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:08:19.430140+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:08:54.678501+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:09:35.169945+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:10:37.552174+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:11:12.498614+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:12:16.159206+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:12:51.527191+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:13:27.139521+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:14:03.911857+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:14:39.548596+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:15:15.260059+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:15:53.491330+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:16:29.417451+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:17:05.069935+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:17:40.145237+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:18:17.800268+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:18:53.772977+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:19:33.720006+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:20:11.992751+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:20:47.428922+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:21:24.020329+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:21:58.716464+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:22:33.966886+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:23:11.867158+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:23:47.979519+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:24:23.650366+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:24:59.380146+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:25:35.678217+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:26:35.768177+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:27:11.103975+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:27:48.898084+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:28:25.713549+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:29:02.160364+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:29:37.990523+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:30:15.199771+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:30:50.490102+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:31:26.069858+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:32:01.778441+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:32:37.769879+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:33:13.366094+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:33:48.885429+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:34:24.814189+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:35:00.720379+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:35:37.242095+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:36:13.937759+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:37:14.361644+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:37:49.569157+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:38:24.399544+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:39:02.585064+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:39:37.449707+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:40:13.571988+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:40:58.297502+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:41:34.331161+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:42:10.741888+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:42:48.430201+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:43:23.413750+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:44:25.311584+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:45:01.079611+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:45:36.875677+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:46:11.957351+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:46:47.933022+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:47:23.389111+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:47:59.230014+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:48:34.428313+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:49:09.004176+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:49:44.279234+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:50:19.869115+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:50:55.927617+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:51:30.573995+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:52:32.766563+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:53:07.812519+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:53:45.672754+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:54:21.103368+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:54:56.178196+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:56:27.139296+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:57:03.337243+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:57:50.312545+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:58:25.283130+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:59:24.169137+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:59:59.249221+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api

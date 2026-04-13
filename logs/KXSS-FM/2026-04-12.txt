@@ -655,3 +655,184 @@
 2026-04-12T21:59:58.959981+00:00 | I Gotta Feeling | Black Eyed Peas | source:amperwave-api
 2026-04-12T22:01:00.508113+00:00 | I Gotta Feeling | Black Eyed Peas | source:amperwave-api
 2026-04-12T22:01:37.488192+00:00 | I Gotta Feeling | Black Eyed Peas | source:amperwave-api
+2026-04-12T22:02:16.413475+00:00 | I Gotta Feeling | Black Eyed Peas | source:amperwave-api
+2026-04-12T22:02:52.390592+00:00 | Cry For Me | The Weeknd | source:amperwave-api
+2026-04-12T22:03:49.318849+00:00 | Cry For Me | The Weeknd | source:amperwave-api
+2026-04-12T22:04:25.096777+00:00 | Cry For Me | The Weeknd | source:amperwave-api
+2026-04-12T22:05:01.023253+00:00 | Cry For Me | The Weeknd | source:amperwave-api
+2026-04-12T22:06:01.292928+00:00 | Cry For Me | The Weeknd | source:amperwave-api
+2026-04-12T22:06:36.488018+00:00 | Opalite | Taylor Swift | source:amperwave-api
+2026-04-12T22:07:36.357716+00:00 | Opalite | Taylor Swift | source:amperwave-api
+2026-04-12T22:08:11.687520+00:00 | Opalite | Taylor Swift | source:amperwave-api
+2026-04-12T22:09:10.811150+00:00 | Opalite | Taylor Swift | source:amperwave-api
+2026-04-12T22:09:45.707942+00:00 | Opalite | Taylor Swift | source:amperwave-api
+2026-04-12T22:10:20.967438+00:00 | Swim | Bts | source:amperwave-api
+2026-04-12T22:10:56.384606+00:00 | Swim | Bts | source:amperwave-api
+2026-04-12T22:11:32.227811+00:00 | Swim | Bts | source:amperwave-api
+2026-04-12T22:12:07.296759+00:00 | Swim | Bts | source:amperwave-api
+2026-04-12T22:12:44.024191+00:00 | Silent Treatment | Freya Skye | source:amperwave-api
+2026-04-12T22:13:19.794327+00:00 | Silent Treatment | Freya Skye | source:amperwave-api
+2026-04-12T22:13:55.042130+00:00 | Silent Treatment | Freya Skye | source:amperwave-api
+2026-04-12T22:14:30.669124+00:00 | Silent Treatment | Freya Skye | source:amperwave-api
+2026-04-12T22:15:06.647251+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:15:41.526647+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:16:25.284178+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:16:42.893660+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:17:21.779622+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T22:18:03.425697+00:00 | Dark Horse (Feat. Juicy J) | Katy Perry | source:amperwave-api
+2026-04-12T22:18:38.876660+00:00 | Dark Horse (Feat. Juicy J) | Katy Perry | source:amperwave-api
+2026-04-12T22:19:36.849942+00:00 | Dark Horse (Feat. Juicy J) | Katy Perry | source:amperwave-api
+2026-04-12T22:20:12.284784+00:00 | Dark Horse (Feat. Juicy J) | Katy Perry | source:amperwave-api
+2026-04-12T22:21:10.384923+00:00 | Dark Horse (Feat. Juicy J) | Katy Perry | source:amperwave-api
+2026-04-12T22:21:48.161519+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:22:44.324545+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:23:20.830766+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:24:18.634824+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:24:56.714857+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:25:31.746395+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:26:07.793545+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:26:43.334314+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:27:18.753895+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:27:53.494172+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:28:28.641173+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:29:04.739364+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:29:39.737511+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:30:14.476076+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:30:49.327094+00:00 | Bittersweet | Madison Beer | source:amperwave-api
+2026-04-12T22:31:26.895977+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-12T22:32:03.027550+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-12T22:32:57.409858+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-12T22:33:35.638016+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-12T22:34:31.465478+00:00 | Homewrecker | Sombr | source:amperwave-api
+2026-04-12T22:35:07.288403+00:00 | Homewrecker | Sombr | source:amperwave-api
+2026-04-12T22:36:03.123880+00:00 | Homewrecker | Sombr | source:amperwave-api
+2026-04-12T22:36:39.391540+00:00 | Homewrecker | Sombr | source:amperwave-api
+2026-04-12T22:37:35.688736+00:00 | Daisies | Justin Bieber | source:amperwave-api
+2026-04-12T22:38:14.745561+00:00 | Daisies | Justin Bieber | source:amperwave-api
+2026-04-12T22:39:09.085933+00:00 | Daisies | Justin Bieber | source:amperwave-api
+2026-04-12T22:39:45.361505+00:00 | Daisies | Justin Bieber | source:amperwave-api
+2026-04-12T22:40:21.209904+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:40:57.116623+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:41:33.894536+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:42:10.082237+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:42:47.514347+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:43:23.232299+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:44:00.127246+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:44:36.699683+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:45:12.433980+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:45:48.544451+00:00 | Midnight Sun | Zara Larsson | source:amperwave-api
+2026-04-12T22:46:26.787280+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-12T22:47:05.419130+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-12T22:47:41.418289+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-12T22:48:22.025996+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-12T22:48:58.905233+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-12T22:49:34.245217+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-12T22:50:10.123742+00:00 | Golden | Huntr/X | source:amperwave-api
+2026-04-12T22:50:45.820259+00:00 | Golden | Huntr/X | source:amperwave-api
+2026-04-12T22:51:20.861050+00:00 | Golden | Huntr/X | source:amperwave-api
+2026-04-12T22:51:55.937777+00:00 | Golden | Huntr/X | source:amperwave-api
+2026-04-12T22:52:32.906453+00:00 | Golden | Huntr/X | source:amperwave-api
+2026-04-12T22:53:08.661246+00:00 | My Own Worst Enemy | Lit | source:amperwave-api
+2026-04-12T22:54:11.028855+00:00 | My Own Worst Enemy | Lit | source:amperwave-api
+2026-04-12T22:54:46.136725+00:00 | My Own Worst Enemy | Lit | source:amperwave-api
+2026-04-12T22:55:27.180591+00:00 | My Own Worst Enemy | Lit | source:amperwave-api
+2026-04-12T22:56:03.956540+00:00 | Calm Down | Rema Ft/Selena Gomez | source:amperwave-api
+2026-04-12T22:56:39.948904+00:00 | Calm Down | Rema Ft/Selena Gomez | source:amperwave-api
+2026-04-12T22:57:14.826144+00:00 | Calm Down | Rema Ft/Selena Gomez | source:amperwave-api
+2026-04-12T22:57:49.641356+00:00 | Calm Down | Rema Ft/Selena Gomez | source:amperwave-api
+2026-04-12T22:58:25.358145+00:00 | Calm Down | Rema Ft/Selena Gomez | source:amperwave-api
+2026-04-12T22:59:00.137442+00:00 | Calm Down | Rema Ft/Selena Gomez | source:amperwave-api
+2026-04-12T22:59:35.759689+00:00 | Calm Down | Rema Ft/Selena Gomez | source:amperwave-api
+2026-04-12T23:00:11.447497+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T23:00:46.608136+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T23:01:21.670514+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T23:01:57.419899+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T23:02:32.284104+00:00 | Mutt | Leon Thomas | source:amperwave-api
+2026-04-12T23:03:30.601384+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T23:04:06.142529+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T23:04:40.983862+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T23:05:16.696809+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T23:05:53.110000+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-12T23:06:28.197563+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T23:07:05.206352+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T23:07:40.809270+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T23:08:16.109961+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T23:08:50.485287+00:00 | So Easy (To Fall In Love) | Olivia Dean | source:amperwave-api
+2026-04-12T23:09:25.667729+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-12T23:10:06.414246+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-12T23:11:08.456798+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-12T23:11:43.730233+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T23:12:47.597204+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T23:13:22.579975+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T23:13:58.493606+00:00 | Yukon | Justin Bieber | source:amperwave-api
+2026-04-12T23:14:35.236735+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T23:15:10.805140+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T23:15:46.565170+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T23:16:24.697965+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T23:17:00.729262+00:00 | Where Is My Husband! | Raye | source:amperwave-api
+2026-04-12T23:17:36.203252+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:18:11.896779+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:18:49.032137+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:19:29.497686+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:20:04.963380+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:20:43.352183+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:21:19.696721+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:21:54.961067+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:22:29.993323+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:23:06.608591+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:23:43.321136+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:24:19.502388+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:24:55.094897+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:25:31.493179+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-12T23:26:06.876360+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T23:27:07.065484+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T23:27:42.954822+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T23:28:20.455528+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T23:28:57.075096+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T23:29:33.698483+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-12T23:30:10.260225+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T23:30:46.231507+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T23:31:21.986088+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T23:31:57.147134+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T23:32:32.983293+00:00 | Blinding Lights | The Weeknd | source:amperwave-api
+2026-04-12T23:33:08.955100+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T23:33:44.798366+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T23:34:20.004413+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T23:34:56.292153+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T23:35:32.098679+00:00 | Beautiful Things | Benson Boone | source:amperwave-api
+2026-04-12T23:36:09.408921+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:37:45.787272+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:38:20.507484+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:38:57.876545+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:39:33.545319+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:40:09.785896+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:40:53.803318+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:41:29.559297+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:42:05.954307+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:42:44.364231+00:00 | Runway | Lady Gaga And Doechi | source:amperwave-api
+2026-04-12T23:43:19.575813+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T23:44:13.920102+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T23:44:56.757346+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T23:45:32.420467+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-12T23:46:08.123593+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T23:46:43.202175+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T23:47:19.388279+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T23:47:54.466621+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T23:48:30.401952+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T23:49:05.353660+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T23:49:40.177721+00:00 | Crazy In Love (Feat. Jay-Z) | Beyonce | source:amperwave-api
+2026-04-12T23:50:15.453856+00:00 | Lil Boo Thang | Paul Russell | source:amperwave-api
+2026-04-12T23:50:51.452803+00:00 | Lil Boo Thang | Paul Russell | source:amperwave-api
+2026-04-12T23:51:26.982082+00:00 | Lil Boo Thang | Paul Russell | source:amperwave-api
+2026-04-12T23:52:25.052195+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:53:03.990104+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:53:39.274786+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:54:16.896761+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:54:52.409096+00:00 | Manchild | Sabrina Carpenter | source:amperwave-api
+2026-04-12T23:55:27.462568+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:56:22.027704+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:56:58.496843+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:57:46.407236+00:00 | A Bar Song (Tipsy) | Shaboozey | source:amperwave-api
+2026-04-12T23:58:21.430044+00:00 | Sweet But Psycho | Ava Max | source:amperwave-api
+2026-04-12T23:58:56.589385+00:00 | Sweet But Psycho | Ava Max | source:amperwave-api
+2026-04-12T23:59:55.505440+00:00 | Sweet But Psycho | Ava Max | source:amperwave-api

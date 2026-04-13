@@ -653,3 +653,183 @@
 2026-04-12T21:59:58.548335+00:00 | Stay Country Or Die Tryin | Blake Shelton | source:amperwave-api
 2026-04-12T22:01:00.177330+00:00 | Stay Country Or Die Tryin | Blake Shelton | source:amperwave-api
 2026-04-12T22:01:37.053870+00:00 | I Got Better | Morgan Wallen | source:amperwave-api
+2026-04-12T22:02:15.642903+00:00 | I Got Better | Morgan Wallen | source:amperwave-api
+2026-04-12T22:02:52.116253+00:00 | I Got Better | Morgan Wallen | source:amperwave-api
+2026-04-12T22:03:47.396818+00:00 | I Got Better | Morgan Wallen | source:amperwave-api
+2026-04-12T22:04:24.734074+00:00 | I Got Better | Morgan Wallen | source:amperwave-api
+2026-04-12T22:05:00.678892+00:00 | Cowboy Songs | George Birge | source:amperwave-api
+2026-04-12T22:06:01.005151+00:00 | Cowboy Songs | George Birge | source:amperwave-api
+2026-04-12T22:06:36.114010+00:00 | Cowboy Songs | George Birge | source:amperwave-api
+2026-04-12T22:07:35.908619+00:00 | Cowboy Songs | George Birge | source:amperwave-api
+2026-04-12T22:08:11.328801+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-12T22:09:10.179738+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-12T22:09:45.309580+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-12T22:10:20.614052+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-12T22:10:56.088632+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-12T22:11:31.917884+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-12T22:12:06.963894+00:00 | Something Like That | Tim Mcgraw | source:amperwave-api
+2026-04-12T22:12:43.189904+00:00 | Something Like That | Tim Mcgraw | source:amperwave-api
+2026-04-12T22:13:19.313396+00:00 | Something Like That | Tim Mcgraw | source:amperwave-api
+2026-04-12T22:13:54.490308+00:00 | Something Like That | Tim Mcgraw | source:amperwave-api
+2026-04-12T22:14:30.283294+00:00 | Something Like That | Tim Mcgraw | source:amperwave-api
+2026-04-12T22:15:06.341505+00:00 | Aint No Love In Oklahoma | Luke Combs | source:amperwave-api
+2026-04-12T22:15:41.156950+00:00 | Aint No Love In Oklahoma | Luke Combs | source:amperwave-api
+2026-04-12T22:16:24.372030+00:00 | Aint No Love In Oklahoma | Luke Combs | source:amperwave-api
+2026-04-12T22:16:42.302550+00:00 | Aint No Love In Oklahoma | Luke Combs | source:amperwave-api
+2026-04-12T22:17:21.458092+00:00 | Aint No Love In Oklahoma | Luke Combs | source:amperwave-api
+2026-04-12T22:18:02.396076+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:18:38.608562+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:19:32.632801+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:20:11.996033+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:21:09.621277+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:21:47.864363+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:22:43.815252+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:23:20.487879+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:24:56.346352+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:25:31.478477+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:26:07.237846+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:26:42.808747+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:27:18.483247+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:27:53.165541+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:28:28.322643+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:29:04.155939+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:29:39.408965+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:30:14.034498+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-12T22:30:49.005126+00:00 | I Aint Sayin | Jordan Davis | source:amperwave-api
+2026-04-12T22:31:26.338589+00:00 | I Aint Sayin | Jordan Davis | source:amperwave-api
+2026-04-12T22:32:02.725753+00:00 | I Aint Sayin | Jordan Davis | source:amperwave-api
+2026-04-12T22:32:54.665884+00:00 | I Aint Sayin | Jordan Davis | source:amperwave-api
+2026-04-12T22:33:35.304335+00:00 | What Hell Never Have | Dylan Scott | source:amperwave-api
+2026-04-12T22:34:30.789062+00:00 | What Hell Never Have | Dylan Scott | source:amperwave-api
+2026-04-12T22:35:07.000786+00:00 | What Hell Never Have | Dylan Scott | source:amperwave-api
+2026-04-12T22:36:02.203596+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-12T22:36:39.002294+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-12T22:37:33.790433+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-12T22:38:14.471222+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-12T22:39:08.488888+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-12T22:39:45.047030+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:40:20.841480+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:40:56.606363+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:41:33.451131+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:42:09.763575+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:42:47.050755+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:43:22.717068+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:43:59.745696+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:44:36.348096+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:45:12.057561+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:45:47.997952+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:46:25.728109+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:47:04.955400+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:47:41.046071+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:48:21.314116+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-12T22:48:58.538019+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-12T22:49:33.840715+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-12T22:50:09.706127+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-12T22:50:45.504729+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-12T22:51:20.536490+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-12T22:51:55.443460+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-12T22:52:32.648380+00:00 | Be Her | Ella Langley | source:amperwave-api
+2026-04-12T22:53:08.388786+00:00 | Be Her | Ella Langley | source:amperwave-api
+2026-04-12T22:54:10.715046+00:00 | Be Her | Ella Langley | source:amperwave-api
+2026-04-12T22:54:45.842953+00:00 | Be Her | Ella Langley | source:amperwave-api
+2026-04-12T22:55:23.654882+00:00 | Be Her | Ella Langley | source:amperwave-api
+2026-04-12T22:56:03.619071+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T22:56:39.523332+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T22:57:14.448364+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T22:57:49.331265+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T22:58:24.910320+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T22:58:59.728153+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T22:59:35.410314+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:00:10.952622+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:00:46.349993+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:01:21.263801+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:01:57.090341+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:02:31.746312+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:03:29.627982+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:04:05.796932+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:04:40.709193+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:05:16.288031+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:05:52.702141+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:06:27.887264+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:07:04.854688+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:07:40.512351+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:08:15.617316+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:08:50.176197+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:09:25.352818+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:10:05.956564+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:11:08.137703+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:11:43.349865+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:12:47.290775+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:13:22.266834+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:13:58.046970+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:14:34.784397+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:15:10.509585+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:15:46.126629+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:16:24.299353+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:17:00.358044+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:17:35.838463+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:18:11.264479+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:18:48.656095+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:19:28.394538+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:20:04.536716+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:20:42.984769+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:21:19.358471+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:21:54.711129+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:22:29.678592+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:23:05.775268+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:23:42.922400+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:24:18.961228+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:24:54.685073+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:25:31.214853+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:26:06.592956+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:27:06.642862+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:27:42.437405+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:28:19.838585+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:28:56.773715+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:29:33.271384+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:30:09.534908+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:30:45.930726+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:31:21.545206+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:31:56.821583+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:32:32.683691+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:33:08.386443+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:33:44.404057+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:34:19.698833+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:34:55.783802+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:35:31.693631+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:36:09.145692+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:36:44.996753+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:37:45.327747+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:38:20.229589+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:38:56.822112+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:39:33.295501+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:40:09.500989+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:40:51.102814+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:41:29.217628+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:42:05.320870+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:42:42.728289+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:43:19.163185+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:43:54.285265+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:44:56.194364+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:45:31.973429+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:46:07.806111+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:46:42.807091+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:47:18.942169+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:47:54.081101+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:48:30.032989+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:49:05.066513+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:49:39.872176+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:50:15.062512+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:50:51.052095+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:51:26.634719+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:53:03.664368+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:53:38.909909+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:54:16.547579+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:54:52.094214+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:55:27.179317+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:56:21.723776+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:56:58.089084+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:57:43.014293+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:58:21.160014+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:58:56.271311+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
+2026-04-12T23:59:54.997780+00:00 | Drink A Beer | Luke Bryan | source:amperwave-api
