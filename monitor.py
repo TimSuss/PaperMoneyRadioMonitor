@@ -309,6 +309,23 @@ def extract_amperwave_station_id(soup):
     return station_id if station_id.isdigit() else None
 
 
+def extract_connmedia_tracks_url(soup):
+    next_data = soup.find("script", id="__NEXT_DATA__", type="application/json")
+    if not next_data or not next_data.string:
+        return None
+
+    try:
+        data = json.loads(next_data.string)
+    except Exception:
+        return None
+
+    station = data.get("props", {}).get("pageProps", {}).get("station", {})
+    tracks_url = station.get("url", {}).get("tracks")
+    if isinstance(tracks_url, str) and tracks_url.strip():
+        return tracks_url.strip()
+    return None
+
+
 def build_amperwave_nowplaying_url(station_id, max_items=AMPERWAVE_MAX_ITEMS):
     return f"https://{AMPERWAVE_API_HOST}/api/v{AMPERWAVE_API_VERSION}/{AMPERWAVE_API_PATH}/{max_items}/{station_id}/nowplaying.json"
 
@@ -316,6 +333,16 @@ def build_amperwave_nowplaying_url(station_id, max_items=AMPERWAVE_MAX_ITEMS):
 def fetch_amperwave_nowplaying(station_id, max_items=AMPERWAVE_MAX_ITEMS):
     url = build_amperwave_nowplaying_url(station_id, max_items)
     response = requests.get(url, headers={"User-Agent": "PaperMoneyRadioMonitor/1.0 (+https://github.com)"}, timeout=(10, 20))
+    response.raise_for_status()
+    return response.json()
+
+
+def fetch_nowplaying_json(url):
+    response = requests.get(
+        url,
+        headers={"User-Agent": "PaperMoneyRadioMonitor/1.0 (+https://github.com)"},
+        timeout=(10, 20),
+    )
     response.raise_for_status()
     return response.json()
 
@@ -534,13 +561,24 @@ def check_station(station):
     page_text = soup.get_text(separator=" ", strip=True)
 
     title = artist = source = None
+    tracks_url = extract_connmedia_tracks_url(soup)
+    if tracks_url:
+        try:
+            data = fetch_nowplaying_json(tracks_url)
+            title, artist, source = parse_amperwave_nowplaying(data)
+            if source:
+                source = "connmedia-amperwave"
+        except Exception:
+            title = artist = None
+            source = None
+
     station_id = station.get("amperwave_id")
     if station_id:
         station_id = str(station_id).strip()
     else:
         station_id = extract_amperwave_station_id(soup)
 
-    if station_id:
+    if station_id and (not title or not artist):
         try:
             data = fetch_amperwave_nowplaying(station_id)
             title, artist, source = parse_amperwave_nowplaying(data)

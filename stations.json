@@ -39,6 +39,13 @@
     "failure_count": 0
   },
   {
+    "name": "KLLY-FM",
+    "city": "Bakersfield",
+    "state": "CA",
+    "url": "https://www.connmediaplayer.com/live953",
+    "failure_count": 0
+  },
+  {
     "name": "KLYV-FM",
     "city": "Dubuque",
     "state": "IA",
@@ -106,6 +113,14 @@
     "url": "https://mycountry955.com/listen-live/",
     "failure_count": 0,
     "disabled": true
+  },
+  {
+    "name": "KTYL-FM",
+    "city": "Tyler",
+    "state": "TX",
+    "network": "Townsquare Media",
+    "url": "https://mix931fm.com/listen-live/",
+    "failure_count": 0
   },
   {
     "name": "KXSS-FM",

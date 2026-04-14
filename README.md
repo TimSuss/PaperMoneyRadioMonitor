@@ -35,6 +35,8 @@ Each station entry may also include optional metadata like `city`, `state`, `net
 
 If the station is Townsquare/AmperWave powered, adding `amperwave_id` makes detection more robust because the monitor can query the AmperWave API directly.
 
+For some `connmediaplayer.com` station pages, the monitor can also detect the embedded `__NEXT_DATA__` config, extract the station's `tracks` API URL, and read live now-playing metadata directly without an explicit `amperwave_id`.
+
 ```json
 [
   {
@@ -59,7 +61,9 @@ The monitor tries to extract the currently playing track from the page using:
 
 If the page is purely client-side JavaScript and does not embed track metadata in the initial HTML, the parser may not be able to see the currently playing artist/title without a station-specific API.
 
-For Townsquare / AmperWave powered listen-live pages, the monitor now detects the embedded AmperWave player iframe and fetches the station's now-playing API directly.
+For Townsquare / AmperWave powered listen-live pages, the monitor detects the embedded AmperWave player iframe and fetches the station's now-playing API directly.
+
+For supported `connmediaplayer.com` pages, the monitor also reads the embedded Next.js page data and follows the station's configured `tracks` API endpoint. This is useful when the station homepage is client-rendered or when the public playlist page lags behind the live player.
 
 ## Logging
 
