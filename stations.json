@@ -32,6 +32,13 @@
     "disabled_time": "2026-04-12T00:59:30.746402+00:00"
   },
   {
+    "name": "KDDB-FM",
+    "city": "Honolulu",
+    "state": "HI",
+    "url": "https://1027dabomb.net/listenlive/",
+    "failure_count": 0
+  },
+  {
     "name": "KLYV-FM",
     "city": "Dubuque",
     "state": "IA",
