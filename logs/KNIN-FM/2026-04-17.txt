@@ -1,0 +1,1761 @@
+2026-04-17T00:00:37.520429+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:01:16.504321+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:01:59.335394+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:04:24.713684+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:05:04.738721+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:05:44.284740+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:06:26.198492+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:07:06.405889+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:08:26.622008+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:09:12.639971+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:09:52.007733+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:10:32.361199+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:11:11.887262+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:11:53.508699+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:14:13.368006+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:14:57.240693+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:15:36.676098+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:16:17.727294+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:16:58.089981+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:17:38.551185+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:18:20.683156+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:19:00.743784+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:19:41.011559+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:20:22.808799+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:21:02.601827+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:21:44.871108+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:22:25.109111+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:23:05.452907+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:23:43.414355+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:24:23.045315+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:25:04.862522+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:25:45.249478+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:26:25.808057+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:28:40.907857+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:29:22.304493+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:30:01.965380+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:30:46.505524+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:31:28.001629+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:32:11.327959+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:32:52.782451+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:33:34.278084+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:34:14.874705+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:34:56.003188+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:35:35.512597+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:36:14.028701+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:36:56.859640+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:37:35.053190+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:38:16.578548+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:39:30.861025+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:40:27.542141+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:41:09.629521+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:41:48.576445+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:42:28.228076+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:45:01.932984+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:45:45.785526+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:46:27.130923+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:47:05.891882+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:47:46.023674+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:50:02.254664+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:50:43.076741+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:51:22.850618+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:52:01.926512+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:52:40.945797+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:53:23.530935+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:54:56.853685+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:55:36.948555+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:56:16.647650+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:56:56.965043+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:57:35.716649+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:58:49.430629+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T00:59:41.955140+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:00:22.817033+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:01:02.436425+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:01:42.245739+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:02:26.903109+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:03:06.452398+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:03:47.229654+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:04:26.612970+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:05:06.640867+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:05:46.998482+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:06:31.763141+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:07:11.397482+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:07:52.242580+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:08:32.464276+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:09:12.757798+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:09:52.280108+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:10:33.374166+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:11:12.941870+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:11:54.453525+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:12:33.507335+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:14:36.838206+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:15:16.993389+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:15:59.270857+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:16:40.161030+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:17:18.741173+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:17:57.221068+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:18:36.123883+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:19:15.647383+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:19:55.307487+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:20:35.157202+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:21:16.131095+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:21:55.495361+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:24:21.543151+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:25:03.137600+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:25:43.886158+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:26:26.089204+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:28:33.545668+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:29:13.787147+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:29:52.417795+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:30:33.036684+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:31:43.602207+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:32:34.929529+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:33:13.269496+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:33:52.435317+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:34:32.711062+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:35:47.676985+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:36:43.817386+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:37:21.678424+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:38:02.617395+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:38:43.069786+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:40:55.741324+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:41:36.939635+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:42:15.970398+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:42:55.481056+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:43:37.493327+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:44:17.094219+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:44:57.064725+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:45:38.621549+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:46:17.009407+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:46:55.990555+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:47:35.378802+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:48:13.249669+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:48:52.174270+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:49:30.423764+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:50:10.099792+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:50:50.410830+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:51:29.941240+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:52:11.321651+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:52:52.821454+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:53:32.454397+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:54:50.553692+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:55:36.549662+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:56:18.378160+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:56:59.797838+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:57:41.321424+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:58:21.215132+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:59:00.992247+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T01:59:40.453202+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:00:23.358515+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:01:03.537436+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:01:45.153102+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:02:24.305815+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:03:04.744233+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:03:43.896432+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:04:23.553671+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:05:02.801499+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:06:05.803551+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:06:59.714957+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:07:37.493845+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:08:17.724929+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:09:00.292872+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:10:06.176035+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:10:55.589935+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:11:34.385689+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:12:12.379585+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:12:52.175755+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:13:30.626590+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:15:04.388515+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:15:43.692552+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:16:23.289778+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:17:05.828788+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:18:23.530829+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:19:07.875968+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:19:47.121284+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:20:27.074681+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:21:06.684003+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:23:13.834638+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:23:51.573308+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:24:31.472852+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:25:11.127117+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:25:52.682468+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:26:38.764922+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:27:18.402086+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:27:55.978844+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:28:35.980845+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:29:15.442073+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:29:54.744338+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:30:37.758561+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:31:16.956201+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:32:59.359232+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:38:11.173544+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:42:32.768745+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:47:43.252602+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:53:05.912578+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T02:58:31.566607+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:04:04.084904+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:09:26.737963+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:14:10.096315+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:19:43.241354+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:24:47.355486+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:30:34.313634+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:36:22.976641+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:41:36.619767+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:46:57.904418+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:51:50.164802+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T03:57:11.164553+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:02:13.803496+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:07:39.119267+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:13:03.129431+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:18:17.683263+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:23:42.170353+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:29:02.638533+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:30:47.526001+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:31:27.775367+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:32:10.523577+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:32:52.710909+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:33:31.063857+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:34:12.231318+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:34:50.895587+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:35:32.805396+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:36:11.975431+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:36:52.263533+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:37:30.430093+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:38:45.398505+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:39:40.123263+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:40:21.417408+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:41:00.740117+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:41:40.178659+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:42:18.318955+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:42:56.591418+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:43:34.987421+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:44:12.182115+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:44:50.480674+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:46:04.765874+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:47:11.025725+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:47:48.233998+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:48:25.588759+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:49:02.823342+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:49:44.427082+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:51:48.961951+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:52:27.974935+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:53:07.616105+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:53:47.923186+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:54:25.608484+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:55:30.659935+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:56:25.833264+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:57:05.254664+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:57:44.047837+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:58:20.548840+00:00 | Kashmir | Led Zeppelin | source:amperwave-api
+2026-04-17T04:59:38.195475+00:00 | One Step Closer | Linkin Park | source:amperwave-api
+2026-04-17T05:00:28.558497+00:00 | One Step Closer | Linkin Park | source:amperwave-api
+2026-04-17T05:01:06.833054+00:00 | One Step Closer | Linkin Park | source:amperwave-api
+2026-04-17T05:01:47.035733+00:00 | One Step Closer | Linkin Park | source:amperwave-api
+2026-04-17T05:02:26.528604+00:00 | Dammit | Blink-182 | source:amperwave-api
+2026-04-17T05:03:46.251164+00:00 | Dammit | Blink-182 | source:amperwave-api
+2026-04-17T05:04:41.730780+00:00 | Twisting The Knife | Ice Nine Kills | source:amperwave-api
+2026-04-17T05:05:20.697355+00:00 | Twisting The Knife | Ice Nine Kills | source:amperwave-api
+2026-04-17T05:06:04.609677+00:00 | Twisting The Knife | Ice Nine Kills | source:amperwave-api
+2026-04-17T05:06:43.996699+00:00 | Twisting The Knife | Ice Nine Kills | source:amperwave-api
+2026-04-17T05:07:25.633034+00:00 | Living After Midnight | Judas Priest | source:amperwave-api
+2026-04-17T05:08:03.225042+00:00 | Living After Midnight | Judas Priest | source:amperwave-api
+2026-04-17T05:08:44.166625+00:00 | Living After Midnight | Judas Priest | source:amperwave-api
+2026-04-17T05:09:23.981316+00:00 | Living After Midnight | Judas Priest | source:amperwave-api
+2026-04-17T05:10:04.169498+00:00 | Living After Midnight | Judas Priest | source:amperwave-api
+2026-04-17T05:10:45.389178+00:00 | Living After Midnight | Judas Priest | source:amperwave-api
+2026-04-17T05:11:26.234069+00:00 | Living After Midnight | Judas Priest | source:amperwave-api
+2026-04-17T05:12:08.257559+00:00 | Living After Midnight | Judas Priest | source:amperwave-api
+2026-04-17T05:12:52.267611+00:00 | Getting Away With Murder | Papa Roach | source:amperwave-api
+2026-04-17T05:13:34.317770+00:00 | Getting Away With Murder | Papa Roach | source:amperwave-api
+2026-04-17T05:14:15.657034+00:00 | Getting Away With Murder | Papa Roach | source:amperwave-api
+2026-04-17T05:14:55.798607+00:00 | Getting Away With Murder | Papa Roach | source:amperwave-api
+2026-04-17T05:15:36.711127+00:00 | Getting Away With Murder | Papa Roach | source:amperwave-api
+2026-04-17T05:16:18.323182+00:00 | Vasoline | Stone Temple Pilots | source:amperwave-api
+2026-04-17T05:16:58.961997+00:00 | Vasoline | Stone Temple Pilots | source:amperwave-api
+2026-04-17T05:18:35.697586+00:00 | Vasoline | Stone Temple Pilots | source:amperwave-api
+2026-04-17T05:19:15.478698+00:00 | Crawl Back To My Coffin | Dayseeker | source:amperwave-api
+2026-04-17T05:19:54.557669+00:00 | Crawl Back To My Coffin | Dayseeker | source:amperwave-api
+2026-04-17T05:20:38.778174+00:00 | Crawl Back To My Coffin | Dayseeker | source:amperwave-api
+2026-04-17T05:21:20.229413+00:00 | Crawl Back To My Coffin | Dayseeker | source:amperwave-api
+2026-04-17T05:22:03.893574+00:00 | Crawl Back To My Coffin | Dayseeker | source:amperwave-api
+2026-04-17T05:22:48.776728+00:00 | Crawl Back To My Coffin | Dayseeker | source:amperwave-api
+2026-04-17T05:23:26.816016+00:00 | Mary Janes Last Dance | Tom Petty And The Heartbreakers | source:amperwave-api
+2026-04-17T05:24:09.441042+00:00 | Mary Janes Last Dance | Tom Petty And The Heartbreakers | source:amperwave-api
+2026-04-17T05:24:51.564668+00:00 | Mary Janes Last Dance | Tom Petty And The Heartbreakers | source:amperwave-api
+2026-04-17T05:25:33.145993+00:00 | Mary Janes Last Dance | Tom Petty And The Heartbreakers | source:amperwave-api
+2026-04-17T05:26:17.722874+00:00 | Mary Janes Last Dance | Tom Petty And The Heartbreakers | source:amperwave-api
+2026-04-17T05:27:02.532266+00:00 | Mary Janes Last Dance | Tom Petty And The Heartbreakers | source:amperwave-api
+2026-04-17T05:27:43.460804+00:00 | Mary Janes Last Dance | Tom Petty And The Heartbreakers | source:amperwave-api
+2026-04-17T05:28:22.466238+00:00 | Stones | Everlast | source:amperwave-api
+2026-04-17T05:29:03.701136+00:00 | Stones | Everlast | source:amperwave-api
+2026-04-17T05:29:44.489108+00:00 | Stones | Everlast | source:amperwave-api
+2026-04-17T05:30:28.327638+00:00 | Stones | Everlast | source:amperwave-api
+2026-04-17T05:31:41.389874+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T05:32:32.435790+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T05:33:14.920570+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T05:34:01.001589+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T05:34:41.517301+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T05:36:00.920611+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T05:36:42.932413+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T05:37:23.421994+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T05:38:02.837211+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T05:38:43.549394+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T05:41:04.330346+00:00 | Stairway To Heaven | Led Zeppelin | source:amperwave-api
+2026-04-17T05:41:44.847086+00:00 | Stairway To Heaven | Led Zeppelin | source:amperwave-api
+2026-04-17T05:42:24.655131+00:00 | Stairway To Heaven | Led Zeppelin | source:amperwave-api
+2026-04-17T05:43:07.284991+00:00 | Stairway To Heaven | Led Zeppelin | source:amperwave-api
+2026-04-17T05:44:39.476712+00:00 | Stairway To Heaven | Led Zeppelin | source:amperwave-api
+2026-04-17T05:45:25.917520+00:00 | Stairway To Heaven | Led Zeppelin | source:amperwave-api
+2026-04-17T05:46:06.331977+00:00 | Stairway To Heaven | Led Zeppelin | source:amperwave-api
+2026-04-17T05:46:47.488375+00:00 | Stairway To Heaven | Led Zeppelin | source:amperwave-api
+2026-04-17T05:48:22.192203+00:00 | Cold Hard Bitch | Jet | source:amperwave-api
+2026-04-17T05:49:10.998493+00:00 | Cold Hard Bitch | Jet | source:amperwave-api
+2026-04-17T05:49:52.396804+00:00 | Cold Hard Bitch | Jet | source:amperwave-api
+2026-04-17T05:50:42.134502+00:00 | Cold Hard Bitch | Jet | source:amperwave-api
+2026-04-17T05:51:22.578197+00:00 | Cold Hard Bitch | Jet | source:amperwave-api
+2026-04-17T05:52:05.584600+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T05:52:44.286689+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T05:53:26.396254+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T05:54:08.958714+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T05:54:51.665554+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T05:55:34.429615+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T05:56:15.333543+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T05:56:55.096491+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T05:57:33.914017+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T05:58:13.948772+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T05:58:54.685524+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T05:59:35.811909+00:00 | Crazy Bitch | Buckcherry | source:amperwave-api
+2026-04-17T06:00:51.646194+00:00 | Crazy Bitch | Buckcherry | source:amperwave-api
+2026-04-17T06:01:55.681249+00:00 | Crazy Bitch | Buckcherry | source:amperwave-api
+2026-04-17T06:02:40.113155+00:00 | Sabotage | Beastie Boys | source:amperwave-api
+2026-04-17T06:03:21.260577+00:00 | Sabotage | Beastie Boys | source:amperwave-api
+2026-04-17T06:04:05.442512+00:00 | Sabotage | Beastie Boys | source:amperwave-api
+2026-04-17T06:04:47.880642+00:00 | Sabotage | Beastie Boys | source:amperwave-api
+2026-04-17T06:05:28.733985+00:00 | Sabotage | Beastie Boys | source:amperwave-api
+2026-04-17T06:06:12.101852+00:00 | Under You | Foo Fighters | source:amperwave-api
+2026-04-17T06:06:55.003513+00:00 | Under You | Foo Fighters | source:amperwave-api
+2026-04-17T06:07:35.916704+00:00 | Under You | Foo Fighters | source:amperwave-api
+2026-04-17T06:08:16.514177+00:00 | Under You | Foo Fighters | source:amperwave-api
+2026-04-17T06:08:58.191274+00:00 | Under You | Foo Fighters | source:amperwave-api
+2026-04-17T06:09:36.511429+00:00 | Round And Round | Ratt | source:amperwave-api
+2026-04-17T06:10:18.642332+00:00 | Round And Round | Ratt | source:amperwave-api
+2026-04-17T06:11:00.725229+00:00 | Round And Round | Ratt | source:amperwave-api
+2026-04-17T06:11:48.164396+00:00 | Round And Round | Ratt | source:amperwave-api
+2026-04-17T06:12:29.974871+00:00 | Round And Round | Ratt | source:amperwave-api
+2026-04-17T06:13:11.177590+00:00 | Round And Round | Ratt | source:amperwave-api
+2026-04-17T06:15:22.084807+00:00 | Round And Round | Ratt | source:amperwave-api
+2026-04-17T06:16:00.345026+00:00 | Mudshovel | Staind | source:amperwave-api
+2026-04-17T06:16:40.289255+00:00 | Mudshovel | Staind | source:amperwave-api
+2026-04-17T06:17:18.891195+00:00 | Mudshovel | Staind | source:amperwave-api
+2026-04-17T06:17:59.157557+00:00 | Mudshovel | Staind | source:amperwave-api
+2026-04-17T06:19:07.544132+00:00 | Mudshovel | Staind | source:amperwave-api
+2026-04-17T06:19:48.402418+00:00 | Mudshovel | Staind | source:amperwave-api
+2026-04-17T06:20:31.305012+00:00 | Mudshovel | Staind | source:amperwave-api
+2026-04-17T06:21:12.646289+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T06:21:55.581003+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T06:23:04.292126+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T06:23:59.292269+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T06:24:38.666581+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T06:25:23.020874+00:00 | Broken Mirror | Architects | source:amperwave-api
+2026-04-17T06:27:43.728186+00:00 | Broken Mirror | Architects | source:amperwave-api
+2026-04-17T06:28:24.855517+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:29:03.868718+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:29:43.153929+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:31:17.949564+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:32:04.277377+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:32:48.685634+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:33:30.288607+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:34:11.174828+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:34:50.895566+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:35:33.189465+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T06:36:14.211315+00:00 | No One Knows | Queens Of The Stone Age | source:amperwave-api
+2026-04-17T06:36:56.130253+00:00 | No One Knows | Queens Of The Stone Age | source:amperwave-api
+2026-04-17T06:37:36.878120+00:00 | No One Knows | Queens Of The Stone Age | source:amperwave-api
+2026-04-17T06:38:15.925064+00:00 | No One Knows | Queens Of The Stone Age | source:amperwave-api
+2026-04-17T06:38:58.465827+00:00 | No One Knows | Queens Of The Stone Age | source:amperwave-api
+2026-04-17T06:39:39.298340+00:00 | No One Knows | Queens Of The Stone Age | source:amperwave-api
+2026-04-17T06:40:19.914322+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T06:41:00.459558+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T06:41:41.084985+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T06:42:23.024447+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T06:43:01.976508+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T06:44:38.801335+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T06:45:26.557874+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T06:46:11.337732+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T06:46:51.199468+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T06:47:41.302192+00:00 | Jump | Van Halen | source:amperwave-api
+2026-04-17T06:48:22.727725+00:00 | Jump | Van Halen | source:amperwave-api
+2026-04-17T06:49:10.065829+00:00 | Jump | Van Halen | source:amperwave-api
+2026-04-17T06:49:52.615385+00:00 | Jump | Van Halen | source:amperwave-api
+2026-04-17T06:50:34.159510+00:00 | Jump | Van Halen | source:amperwave-api
+2026-04-17T06:51:18.274564+00:00 | How You Remind Me | Nickelback | source:amperwave-api
+2026-04-17T06:51:58.367256+00:00 | How You Remind Me | Nickelback | source:amperwave-api
+2026-04-17T06:52:42.720207+00:00 | How You Remind Me | Nickelback | source:amperwave-api
+2026-04-17T06:53:23.771140+00:00 | How You Remind Me | Nickelback | source:amperwave-api
+2026-04-17T06:54:06.106352+00:00 | How You Remind Me | Nickelback | source:amperwave-api
+2026-04-17T06:54:48.438813+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T06:55:31.250132+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T06:56:12.177827+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T06:56:50.137133+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T06:57:56.193333+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T06:58:45.822058+00:00 | Basket Case | Green Day | source:amperwave-api
+2026-04-17T06:59:26.983615+00:00 | Basket Case | Green Day | source:amperwave-api
+2026-04-17T07:00:07.354841+00:00 | Basket Case | Green Day | source:amperwave-api
+2026-04-17T07:00:47.566653+00:00 | Basket Case | Green Day | source:amperwave-api
+2026-04-17T07:02:02.637987+00:00 | A Little Bit Off | Five Finger Death Punch | source:amperwave-api
+2026-04-17T07:03:02.161135+00:00 | A Little Bit Off | Five Finger Death Punch | source:amperwave-api
+2026-04-17T07:03:42.572946+00:00 | A Little Bit Off | Five Finger Death Punch | source:amperwave-api
+2026-04-17T07:04:24.003819+00:00 | Tomorrow | Silverchair | source:amperwave-api
+2026-04-17T07:05:03.199240+00:00 | Tomorrow | Silverchair | source:amperwave-api
+2026-04-17T07:06:07.348924+00:00 | Tomorrow | Silverchair | source:amperwave-api
+2026-04-17T07:06:55.994563+00:00 | Tomorrow | Silverchair | source:amperwave-api
+2026-04-17T07:07:36.486967+00:00 | Tomorrow | Silverchair | source:amperwave-api
+2026-04-17T07:08:17.664971+00:00 | Tomorrow | Silverchair | source:amperwave-api
+2026-04-17T07:08:59.021685+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-17T07:10:09.970103+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-17T07:11:03.840798+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-17T07:11:47.733090+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-17T07:12:32.001516+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-17T07:13:14.626709+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-17T07:14:51.625371+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-17T07:15:30.268875+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-17T07:16:10.625117+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-17T07:16:53.105510+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-17T07:17:36.005918+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-17T07:18:15.357641+00:00 | Mama, Im Coming Home | Ozzy Osbourne | source:amperwave-api
+2026-04-17T07:18:57.513684+00:00 | Boom | P.O.D. | source:amperwave-api
+2026-04-17T07:19:38.358457+00:00 | Boom | P.O.D. | source:amperwave-api
+2026-04-17T07:20:27.363611+00:00 | Boom | P.O.D. | source:amperwave-api
+2026-04-17T07:21:09.201664+00:00 | Boom | P.O.D. | source:amperwave-api
+2026-04-17T07:21:49.716896+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-17T07:22:28.994109+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-17T07:23:11.273696+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-17T07:23:50.082730+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-17T07:24:28.149800+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-17T07:25:10.685627+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-17T07:25:52.118788+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-17T07:26:36.557582+00:00 | Turn The Page | Metallica | source:amperwave-api
+2026-04-17T07:27:49.814087+00:00 | Drag Me | From Ashes To New | source:amperwave-api
+2026-04-17T07:28:37.738881+00:00 | Drag Me | From Ashes To New | source:amperwave-api
+2026-04-17T07:29:18.455468+00:00 | Drag Me | From Ashes To New | source:amperwave-api
+2026-04-17T07:29:59.489910+00:00 | Drag Me | From Ashes To New | source:amperwave-api
+2026-04-17T07:30:43.064855+00:00 | Sweet Emotion | Aerosmith | source:amperwave-api
+2026-04-17T07:31:25.878738+00:00 | Sweet Emotion | Aerosmith | source:amperwave-api
+2026-04-17T07:32:07.390185+00:00 | Sweet Emotion | Aerosmith | source:amperwave-api
+2026-04-17T07:32:48.371692+00:00 | Sweet Emotion | Aerosmith | source:amperwave-api
+2026-04-17T07:33:27.727873+00:00 | Sweet Emotion | Aerosmith | source:amperwave-api
+2026-04-17T07:34:10.247735+00:00 | Sweet Emotion | Aerosmith | source:amperwave-api
+2026-04-17T07:34:52.253616+00:00 | Sweet Emotion | Aerosmith | source:amperwave-api
+2026-04-17T07:35:33.966882+00:00 | Sweet Emotion | Aerosmith | source:amperwave-api
+2026-04-17T07:36:14.399838+00:00 | When I Wake Up | The Pretty Reckless | source:amperwave-api
+2026-04-17T07:36:59.855992+00:00 | When I Wake Up | The Pretty Reckless | source:amperwave-api
+2026-04-17T07:37:39.529361+00:00 | When I Wake Up | The Pretty Reckless | source:amperwave-api
+2026-04-17T07:38:21.097099+00:00 | When I Wake Up | The Pretty Reckless | source:amperwave-api
+2026-04-17T07:39:01.295292+00:00 | When I Wake Up | The Pretty Reckless | source:amperwave-api
+2026-04-17T07:39:41.901127+00:00 | Daughter | Pearl Jam | source:amperwave-api
+2026-04-17T07:40:22.576359+00:00 | Daughter | Pearl Jam | source:amperwave-api
+2026-04-17T07:42:30.856114+00:00 | Daughter | Pearl Jam | source:amperwave-api
+2026-04-17T07:43:09.761946+00:00 | Demonic Depression | Volbeat | source:amperwave-api
+2026-04-17T07:43:51.256898+00:00 | Demonic Depression | Volbeat | source:amperwave-api
+2026-04-17T07:46:02.958539+00:00 | Demonic Depression | Volbeat | source:amperwave-api
+2026-04-17T07:46:41.960884+00:00 | She Talks To Angels | The Black Crowes | source:amperwave-api
+2026-04-17T07:47:22.047488+00:00 | She Talks To Angels | The Black Crowes | source:amperwave-api
+2026-04-17T07:48:03.287870+00:00 | She Talks To Angels | The Black Crowes | source:amperwave-api
+2026-04-17T07:49:32.195043+00:00 | She Talks To Angels | The Black Crowes | source:amperwave-api
+2026-04-17T07:50:17.984659+00:00 | She Talks To Angels | The Black Crowes | source:amperwave-api
+2026-04-17T07:50:59.536853+00:00 | She Talks To Angels | The Black Crowes | source:amperwave-api
+2026-04-17T07:53:10.415331+00:00 | Chop Suey! | System Of A Down | source:amperwave-api
+2026-04-17T07:53:50.012349+00:00 | Chop Suey! | System Of A Down | source:amperwave-api
+2026-04-17T07:54:33.811762+00:00 | Chop Suey! | System Of A Down | source:amperwave-api
+2026-04-17T07:55:49.707499+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T07:56:42.686864+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T07:57:21.337568+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T07:58:04.040613+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T07:58:41.969653+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T07:59:20.416765+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T08:00:03.005080+00:00 | I Will Not Bow | Breaking Benjamin | source:amperwave-api
+2026-04-17T08:00:43.459194+00:00 | I Will Not Bow | Breaking Benjamin | source:amperwave-api
+2026-04-17T08:01:23.328204+00:00 | I Will Not Bow | Breaking Benjamin | source:amperwave-api
+2026-04-17T08:02:06.351517+00:00 | I Will Not Bow | Breaking Benjamin | source:amperwave-api
+2026-04-17T08:02:48.605756+00:00 | I Will Not Bow | Breaking Benjamin | source:amperwave-api
+2026-04-17T08:03:28.228943+00:00 | I Will Not Bow | Breaking Benjamin | source:amperwave-api
+2026-04-17T08:04:06.763950+00:00 | Rusty Cage | Soundgarden | source:amperwave-api
+2026-04-17T08:04:45.056838+00:00 | Rusty Cage | Soundgarden | source:amperwave-api
+2026-04-17T08:05:26.880092+00:00 | Rusty Cage | Soundgarden | source:amperwave-api
+2026-04-17T08:06:06.350117+00:00 | Rusty Cage | Soundgarden | source:amperwave-api
+2026-04-17T08:06:49.168818+00:00 | Rusty Cage | Soundgarden | source:amperwave-api
+2026-04-17T08:07:34.334201+00:00 | Rusty Cage | Soundgarden | source:amperwave-api
+2026-04-17T08:08:46.244893+00:00 | The Spell | Mammoth | source:amperwave-api
+2026-04-17T08:09:38.588748+00:00 | The Spell | Mammoth | source:amperwave-api
+2026-04-17T08:10:18.651539+00:00 | The Spell | Mammoth | source:amperwave-api
+2026-04-17T08:10:59.692869+00:00 | The Spell | Mammoth | source:amperwave-api
+2026-04-17T08:11:41.366693+00:00 | The Spell | Mammoth | source:amperwave-api
+2026-04-17T08:12:22.926775+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:13:04.639631+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:13:44.798945+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:14:25.823403+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:15:08.994856+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:15:50.926706+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:16:30.000351+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:17:11.333726+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:17:52.502942+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:18:33.039173+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:19:15.146658+00:00 | Sweet Child O Mine | Guns N Roses | source:amperwave-api
+2026-04-17T08:20:00.866072+00:00 | Nice To Know You | Incubus | source:amperwave-api
+2026-04-17T08:20:43.179381+00:00 | Nice To Know You | Incubus | source:amperwave-api
+2026-04-17T08:22:06.231797+00:00 | Nice To Know You | Incubus | source:amperwave-api
+2026-04-17T08:22:52.856042+00:00 | Nice To Know You | Incubus | source:amperwave-api
+2026-04-17T08:23:30.566172+00:00 | Nice To Know You | Incubus | source:amperwave-api
+2026-04-17T08:24:13.342656+00:00 | Nice To Know You | Incubus | source:amperwave-api
+2026-04-17T08:24:52.717059+00:00 | Everlong | Foo Fighters | source:amperwave-api
+2026-04-17T08:25:53.728358+00:00 | Everlong | Foo Fighters | source:amperwave-api
+2026-04-17T08:26:40.311016+00:00 | Everlong | Foo Fighters | source:amperwave-api
+2026-04-17T08:27:23.793150+00:00 | Everlong | Foo Fighters | source:amperwave-api
+2026-04-17T08:28:04.993648+00:00 | Everlong | Foo Fighters | source:amperwave-api
+2026-04-17T08:28:46.328434+00:00 | Everlong | Foo Fighters | source:amperwave-api
+2026-04-17T08:29:54.711727+00:00 | Shallow | Magnolia Park | source:amperwave-api
+2026-04-17T08:30:40.418697+00:00 | Shallow | Magnolia Park | source:amperwave-api
+2026-04-17T08:31:24.707071+00:00 | Shallow | Magnolia Park | source:amperwave-api
+2026-04-17T08:32:05.794964+00:00 | Shallow | Magnolia Park | source:amperwave-api
+2026-04-17T08:32:47.799661+00:00 | Eruption/You Really Got Me | Van Halen | source:amperwave-api
+2026-04-17T08:34:16.759141+00:00 | Eruption/You Really Got Me | Van Halen | source:amperwave-api
+2026-04-17T08:34:58.147388+00:00 | Eruption/You Really Got Me | Van Halen | source:amperwave-api
+2026-04-17T08:35:40.043853+00:00 | Eruption/You Really Got Me | Van Halen | source:amperwave-api
+2026-04-17T08:36:20.179629+00:00 | Eruption/You Really Got Me | Van Halen | source:amperwave-api
+2026-04-17T08:37:14.544755+00:00 | Eruption/You Really Got Me | Van Halen | source:amperwave-api
+2026-04-17T08:37:58.808524+00:00 | Eruption/You Really Got Me | Van Halen | source:amperwave-api
+2026-04-17T08:38:39.136539+00:00 | Eruption/You Really Got Me | Van Halen | source:amperwave-api
+2026-04-17T08:39:23.390432+00:00 | Boulevard Of Broken Dreams | Green Day | source:amperwave-api
+2026-04-17T08:40:02.582900+00:00 | Boulevard Of Broken Dreams | Green Day | source:amperwave-api
+2026-04-17T08:40:43.345092+00:00 | Boulevard Of Broken Dreams | Green Day | source:amperwave-api
+2026-04-17T08:41:25.173570+00:00 | Boulevard Of Broken Dreams | Green Day | source:amperwave-api
+2026-04-17T08:42:04.695416+00:00 | Boulevard Of Broken Dreams | Green Day | source:amperwave-api
+2026-04-17T08:42:46.556266+00:00 | Boulevard Of Broken Dreams | Green Day | source:amperwave-api
+2026-04-17T08:43:26.608801+00:00 | Boulevard Of Broken Dreams | Green Day | source:amperwave-api
+2026-04-17T08:44:07.310103+00:00 | Say It Aint So | Weezer | source:amperwave-api
+2026-04-17T08:44:47.181696+00:00 | Say It Aint So | Weezer | source:amperwave-api
+2026-04-17T08:45:26.572750+00:00 | Say It Aint So | Weezer | source:amperwave-api
+2026-04-17T08:46:05.692434+00:00 | Say It Aint So | Weezer | source:amperwave-api
+2026-04-17T08:46:47.722376+00:00 | Say It Aint So | Weezer | source:amperwave-api
+2026-04-17T08:47:27.797506+00:00 | Say It Aint So | Weezer | source:amperwave-api
+2026-04-17T08:48:06.889094+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T08:48:49.061367+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T08:49:30.919109+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T08:50:39.027531+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T08:51:34.979142+00:00 | The Spirit Of Radio | Rush | source:amperwave-api
+2026-04-17T08:52:16.110731+00:00 | The Spirit Of Radio | Rush | source:amperwave-api
+2026-04-17T08:52:58.438488+00:00 | The Spirit Of Radio | Rush | source:amperwave-api
+2026-04-17T08:53:38.226681+00:00 | The Spirit Of Radio | Rush | source:amperwave-api
+2026-04-17T08:54:18.080709+00:00 | The Spirit Of Radio | Rush | source:amperwave-api
+2026-04-17T08:54:56.243840+00:00 | The Spirit Of Radio | Rush | source:amperwave-api
+2026-04-17T08:55:38.120863+00:00 | The Spirit Of Radio | Rush | source:amperwave-api
+2026-04-17T08:56:19.525082+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T08:57:01.880342+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T08:57:44.901815+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T08:58:24.983107+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T08:59:06.421188+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T08:59:46.809084+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:00:28.619815+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:01:08.468961+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:01:49.634335+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:02:31.776608+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:03:10.537289+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:04:38.332944+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:05:20.426555+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:06:00.489896+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:06:42.090521+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:07:59.568006+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:08:41.010890+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:09:21.049960+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:10:01.862017+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:11:10.625067+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:12:05.555543+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:12:46.895043+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:13:25.468913+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:15:29.941115+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:16:07.694393+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:16:51.313812+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:19:02.322698+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:19:43.608564+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:20:24.053540+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:21:11.035905+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:21:53.787967+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:22:36.441344+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:23:17.655226+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:23:58.680545+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:24:42.229608+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:25:22.178927+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:26:02.505646+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:26:43.074917+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:27:22.319098+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:28:02.710128+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:28:40.512200+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:29:22.308025+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:30:02.184773+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:31:41.249957+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:32:22.433660+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:33:03.069452+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:33:45.130697+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:34:28.741876+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:35:10.364312+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:35:51.927646+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:36:33.373853+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:37:14.576206+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:37:56.219221+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:38:36.618889+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:39:16.531423+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:39:56.148084+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:40:37.260312+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:41:17.964820+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:41:58.282811+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:42:40.044505+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:43:18.564884+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:43:59.427136+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:44:52.533771+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:45:44.244468+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:46:26.030375+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:47:10.034161+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:48:23.305609+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:49:18.899454+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:50:01.159724+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:50:43.157509+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:51:25.200779+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:53:04.402733+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:53:44.287484+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:54:25.212098+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:55:41.351339+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:56:38.429934+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:57:19.627156+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:57:59.755214+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T09:59:17.288768+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:00:06.929704+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:00:48.434475+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:01:28.745736+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:02:14.048544+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:02:55.521033+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:03:39.698841+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:04:20.086953+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:05:03.390118+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:05:46.395585+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:06:29.239760+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:07:10.662967+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:07:53.352547+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:08:32.749492+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:09:12.326709+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:09:53.415749+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:10:36.219708+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:11:41.676715+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:12:42.125803+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:13:24.791196+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:14:02.964950+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:14:43.863609+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:15:23.636520+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:16:03.924289+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:16:43.465073+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:17:25.923623+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:18:06.022087+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:18:44.297088+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:19:22.886950+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:20:00.691478+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:21:15.292946+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:22:01.701479+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:22:39.219279+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:23:18.460808+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:23:57.546243+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:25:05.651396+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:25:49.545331+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:26:28.298805+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:27:05.910849+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:27:44.980351+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:28:52.094927+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:29:41.609972+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:30:20.384281+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:30:58.543344+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:31:38.928716+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:33:13.040476+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:33:56.112975+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:34:37.358189+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:35:19.383334+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:36:23.957495+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:37:09.497425+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:37:52.446309+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:38:34.776323+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:39:16.658769+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:39:59.383403+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:40:42.019086+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:41:23.243519+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:42:06.433436+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:42:48.404284+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:43:30.887408+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:44:12.257785+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:44:54.665991+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:45:33.084360+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:46:16.246176+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:46:57.610469+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:47:36.441397+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:49:48.958852+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:50:32.144688+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:51:11.645874+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:51:56.512961+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:52:36.223042+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:53:18.933335+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:54:01.708220+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:54:43.086885+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:55:24.310633+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:56:05.509393+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:56:43.768429+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:57:25.435160+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:58:07.297274+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:58:47.743943+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T10:59:28.980301+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:00:10.195059+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:00:52.536175+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:01:42.647591+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:02:26.307096+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:03:54.968211+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:04:35.372318+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:05:17.106216+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:07:32.493675+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:08:13.356677+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:08:52.299946+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:09:33.592875+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:11:15.181646+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:11:57.282710+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:12:40.984556+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:13:54.673407+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:14:48.493060+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:15:31.593540+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:16:12.439194+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:17:26.222542+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:18:21.389568+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:19:03.403035+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:19:44.853422+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:20:26.399789+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:21:10.516882+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:21:52.731943+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:22:35.480054+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:23:15.636079+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:23:56.005661+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:24:36.441144+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:25:19.425215+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:26:01.456612+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:26:41.996998+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:27:24.060374+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:28:07.420736+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:28:48.872608+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:29:54.378834+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:30:42.570762+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:31:26.163861+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:32:06.728522+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:32:52.731151+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:33:36.413196+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:34:19.226537+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:35:00.578467+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:35:41.006617+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:36:21.990865+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:37:05.141144+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:37:48.056652+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:38:29.083348+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:39:09.904649+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:39:51.302490+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:40:38.752195+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:41:18.587308+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:41:59.752030+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:42:42.133925+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:43:23.630770+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:44:58.512512+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:45:40.883254+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:46:25.634109+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:47:46.680466+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:48:38.472657+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:49:19.110162+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:50:00.429290+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:51:14.910761+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:52:01.314513+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:52:40.318400+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:53:22.455737+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:54:29.661784+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:55:14.555452+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:55:56.492789+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:56:36.194018+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:57:48.952911+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:58:41.366623+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T11:59:22.556557+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:00:05.372091+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:00:49.769517+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:01:31.567751+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:02:17.754132+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:03:03.079296+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:03:46.225697+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:04:29.152244+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:05:12.490678+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:05:55.395587+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:06:35.982912+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:07:20.822354+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:08:06.050102+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:08:48.652606+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:09:31.478276+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:10:38.540088+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:11:36.551896+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:12:22.592107+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:13:04.959103+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:13:50.890106+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:14:33.523554+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:15:15.049390+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:15:57.859519+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:16:41.319846+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:17:23.634692+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:18:05.027615+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:18:47.377226+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:19:30.015498+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:20:12.150425+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:20:55.053702+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:21:43.740520+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:22:25.878437+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:23:06.389091+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:23:52.658366+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:25:07.453669+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:26:04.478654+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:26:46.658472+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:27:30.126335+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:28:40.384122+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:29:37.438639+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:30:19.229730+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:31:03.234311+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:32:17.491219+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:33:37.661407+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:34:18.834180+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:35:33.295304+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:36:31.464577+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:37:18.869855+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:37:59.795791+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:39:21.249941+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:40:02.613740+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:40:46.780592+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:41:28.432968+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:42:10.976740+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:42:54.011688+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:43:38.505906+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:44:19.362210+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:45:00.940699+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:45:41.217465+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:46:23.673089+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:47:03.849909+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:47:47.476968+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:48:28.515706+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:49:11.130142+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:49:53.129686+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:51:15.556750+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:51:59.057802+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:52:40.944036+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:53:23.137744+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:54:05.240484+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:54:46.877073+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:55:28.050315+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:56:09.258691+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:56:54.167798+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:57:35.312832+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:58:15.914817+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:59:00.107821+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T12:59:42.848366+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:00:24.279745+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:01:13.938896+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:02:10.367578+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:02:52.530483+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:03:32.845966+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:04:13.808254+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:05:40.908940+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:06:28.431138+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:07:09.804695+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:08:19.022778+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:09:07.268211+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:09:48.889133+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:10:31.275109+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:11:42.600780+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:12:26.966548+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:13:09.988336+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:13:51.336440+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:14:57.624744+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:15:44.229194+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:16:26.999644+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:17:13.951897+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:18:20.511956+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:19:09.744792+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:19:52.292111+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:20:35.517067+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:21:16.166561+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:21:59.264071+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:22:41.812456+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:23:21.096216+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:24:01.750915+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:24:43.028941+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:25:23.264604+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:26:21.215754+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:27:03.238180+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:27:44.795352+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:28:27.981270+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:29:10.144504+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:29:50.996684+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:30:56.998671+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:31:47.004389+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:32:27.208903+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:33:08.456613+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:33:51.057100+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:34:32.535961+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:35:12.950400+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:35:53.740574+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:36:34.319628+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:37:16.633849+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:37:57.290926+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:38:37.340436+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:39:21.471754+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:40:02.847407+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:40:45.069678+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:41:25.945343+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:42:10.902451+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:42:52.609055+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:43:36.901957+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:44:17.014315+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:45:09.999510+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:46:02.628902+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:46:44.598652+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:47:25.101978+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:48:06.524437+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:49:40.048686+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:50:20.289195+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:51:03.189527+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:53:22.063998+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:54:02.639589+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:54:44.856635+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:56:53.123557+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:57:35.846722+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:58:17.694643+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T13:59:31.760916+00:00 | Animal I Have Become | Three Days Grace | source:amperwave-api
+2026-04-17T14:00:16.027915+00:00 | Been Caught Stealing | Janes Addiction | source:amperwave-api
+2026-04-17T14:00:59.800471+00:00 | Been Caught Stealing | Janes Addiction | source:amperwave-api
+2026-04-17T14:01:42.501260+00:00 | Been Caught Stealing | Janes Addiction | source:amperwave-api
+2026-04-17T14:02:26.022179+00:00 | Been Caught Stealing | Janes Addiction | source:amperwave-api
+2026-04-17T14:03:12.451352+00:00 | Been Caught Stealing | Janes Addiction | source:amperwave-api
+2026-04-17T14:03:53.866118+00:00 | Crazy Train | Ozzy Osbourne | source:amperwave-api
+2026-04-17T14:04:34.013723+00:00 | Crazy Train | Ozzy Osbourne | source:amperwave-api
+2026-04-17T14:05:15.362512+00:00 | Crazy Train | Ozzy Osbourne | source:amperwave-api
+2026-04-17T14:05:56.683809+00:00 | Crazy Train | Ozzy Osbourne | source:amperwave-api
+2026-04-17T14:06:39.360462+00:00 | Crazy Train | Ozzy Osbourne | source:amperwave-api
+2026-04-17T14:07:20.943791+00:00 | Crazy Train | Ozzy Osbourne | source:amperwave-api
+2026-04-17T14:08:03.076747+00:00 | Crazy Train | Ozzy Osbourne | source:amperwave-api
+2026-04-17T14:08:45.547773+00:00 | Searchlight | Shinedown | source:amperwave-api
+2026-04-17T14:09:26.936118+00:00 | Searchlight | Shinedown | source:amperwave-api
+2026-04-17T14:10:11.460545+00:00 | Searchlight | Shinedown | source:amperwave-api
+2026-04-17T14:10:55.258191+00:00 | Searchlight | Shinedown | source:amperwave-api
+2026-04-17T14:12:12.509180+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-17T14:12:53.075729+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-17T14:13:33.932234+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-17T14:14:14.851934+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-17T14:14:55.558612+00:00 | Interstate Love Song | Stone Temple Pilots | source:amperwave-api
+2026-04-17T14:15:38.640216+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-17T14:16:22.854908+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-17T14:17:08.189020+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-17T14:17:51.189087+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-17T14:18:31.967665+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-17T14:19:14.669101+00:00 | No One Like You | Scorpions | source:amperwave-api
+2026-04-17T14:19:58.744975+00:00 | Seven Nation Army | The White Stripes | source:amperwave-api
+2026-04-17T14:20:39.879659+00:00 | Seven Nation Army | The White Stripes | source:amperwave-api
+2026-04-17T14:21:34.149453+00:00 | Seven Nation Army | The White Stripes | source:amperwave-api
+2026-04-17T14:22:17.093479+00:00 | Seven Nation Army | The White Stripes | source:amperwave-api
+2026-04-17T14:23:00.028927+00:00 | Seven Nation Army | The White Stripes | source:amperwave-api
+2026-04-17T14:23:40.422162+00:00 | Everything Zen | Bush | source:amperwave-api
+2026-04-17T14:24:21.581976+00:00 | Everything Zen | Bush | source:amperwave-api
+2026-04-17T14:25:53.365548+00:00 | Everything Zen | Bush | source:amperwave-api
+2026-04-17T14:26:34.440846+00:00 | Everything Zen | Bush | source:amperwave-api
+2026-04-17T14:27:22.485716+00:00 | Everything Zen | Bush | source:amperwave-api
+2026-04-17T14:28:45.141029+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T14:29:31.878582+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T14:30:14.624467+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T14:30:54.871067+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T14:31:34.825785+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T14:33:07.169941+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-17T14:33:48.464966+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-17T14:34:29.655721+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-17T14:35:37.229208+00:00 | Wanted Dead Or Alive | Bon Jovi | source:amperwave-api
+2026-04-17T14:36:27.621781+00:00 | Fell On Black Days | Soundgarden | source:amperwave-api
+2026-04-17T14:37:07.804977+00:00 | Fell On Black Days | Soundgarden | source:amperwave-api
+2026-04-17T14:37:48.846716+00:00 | Fell On Black Days | Soundgarden | source:amperwave-api
+2026-04-17T14:38:51.043981+00:00 | Fell On Black Days | Soundgarden | source:amperwave-api
+2026-04-17T14:39:40.453563+00:00 | Fell On Black Days | Soundgarden | source:amperwave-api
+2026-04-17T14:40:23.529420+00:00 | Fell On Black Days | Soundgarden | source:amperwave-api
+2026-04-17T14:41:04.856856+00:00 | Drive | Incubus | source:amperwave-api
+2026-04-17T14:41:48.624083+00:00 | Drive | Incubus | source:amperwave-api
+2026-04-17T14:42:31.585375+00:00 | Drive | Incubus | source:amperwave-api
+2026-04-17T14:43:15.870549+00:00 | Drive | Incubus | source:amperwave-api
+2026-04-17T14:43:56.764166+00:00 | Drive | Incubus | source:amperwave-api
+2026-04-17T14:44:36.971169+00:00 | Drive | Incubus | source:amperwave-api
+2026-04-17T14:45:20.713653+00:00 | Back In Black | Ac/Dc | source:amperwave-api
+2026-04-17T14:46:01.844857+00:00 | Back In Black | Ac/Dc | source:amperwave-api
+2026-04-17T14:46:42.016007+00:00 | Back In Black | Ac/Dc | source:amperwave-api
+2026-04-17T14:47:22.602213+00:00 | Back In Black | Ac/Dc | source:amperwave-api
+2026-04-17T14:48:07.830232+00:00 | Back In Black | Ac/Dc | source:amperwave-api
+2026-04-17T14:48:49.379821+00:00 | Back In Black | Ac/Dc | source:amperwave-api
+2026-04-17T14:49:31.991262+00:00 | Nookie | Limp Bizkit | source:amperwave-api
+2026-04-17T14:50:47.276733+00:00 | Nookie | Limp Bizkit | source:amperwave-api
+2026-04-17T14:51:33.801044+00:00 | Nookie | Limp Bizkit | source:amperwave-api
+2026-04-17T14:52:13.791087+00:00 | Nookie | Limp Bizkit | source:amperwave-api
+2026-04-17T14:52:54.213689+00:00 | Nookie | Limp Bizkit | source:amperwave-api
+2026-04-17T14:53:34.385308+00:00 | Nookie | Limp Bizkit | source:amperwave-api
+2026-04-17T14:54:15.996544+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T14:54:57.405969+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T14:55:40.757511+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T14:56:23.752570+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T14:57:07.448888+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T14:57:48.855096+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T14:58:32.284919+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T14:59:13.863553+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T14:59:56.605454+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T15:00:39.642582+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T15:01:20.728097+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T15:02:02.363847+00:00 | Use Somebody | Kings Of Leon | source:amperwave-api
+2026-04-17T15:03:14.378292+00:00 | No Rain | Blind Melon | source:amperwave-api
+2026-04-17T15:04:01.660650+00:00 | No Rain | Blind Melon | source:amperwave-api
+2026-04-17T15:04:45.113704+00:00 | No Rain | Blind Melon | source:amperwave-api
+2026-04-17T15:05:27.341035+00:00 | No Rain | Blind Melon | source:amperwave-api
+2026-04-17T15:06:34.513014+00:00 | Paradise City | Guns N Roses | source:amperwave-api
+2026-04-17T15:07:24.672355+00:00 | Paradise City | Guns N Roses | source:amperwave-api
+2026-04-17T15:08:05.979870+00:00 | Paradise City | Guns N Roses | source:amperwave-api
+2026-04-17T15:08:44.415660+00:00 | Paradise City | Guns N Roses | source:amperwave-api
+2026-04-17T15:09:23.974862+00:00 | Paradise City | Guns N Roses | source:amperwave-api
+2026-04-17T15:10:42.742160+00:00 | Paradise City | Guns N Roses | source:amperwave-api
+2026-04-17T15:11:21.712019+00:00 | Paradise City | Guns N Roses | source:amperwave-api
+2026-04-17T15:12:00.232056+00:00 | Paradise City | Guns N Roses | source:amperwave-api
+2026-04-17T15:14:14.450104+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:15:13.018132+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:15:55.015235+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:16:48.155254+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:17:31.001503+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:18:10.227602+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:18:49.656580+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:19:29.087117+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:20:09.289741+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:20:52.546553+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:21:34.244488+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:22:14.894538+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:22:56.101658+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:23:36.044643+00:00 | Angels Fall | Breaking Benjamin | source:amperwave-api
+2026-04-17T15:24:16.080937+00:00 | Self Esteem | The Offspring | source:amperwave-api
+2026-04-17T15:24:56.600582+00:00 | Self Esteem | The Offspring | source:amperwave-api
+2026-04-17T15:25:38.880513+00:00 | Self Esteem | The Offspring | source:amperwave-api
+2026-04-17T15:26:21.142154+00:00 | Self Esteem | The Offspring | source:amperwave-api
+2026-04-17T15:27:04.461724+00:00 | Self Esteem | The Offspring | source:amperwave-api
+2026-04-17T15:27:46.067395+00:00 | Self Esteem | The Offspring | source:amperwave-api
+2026-04-17T15:28:58.973882+00:00 | Nothin But A Good Time | Poison | source:amperwave-api
+2026-04-17T15:29:53.202106+00:00 | Nothin But A Good Time | Poison | source:amperwave-api
+2026-04-17T15:30:36.529214+00:00 | Nothin But A Good Time | Poison | source:amperwave-api
+2026-04-17T15:31:18.808080+00:00 | Nothin But A Good Time | Poison | source:amperwave-api
+2026-04-17T15:32:00.951441+00:00 | Nothin But A Good Time | Poison | source:amperwave-api
+2026-04-17T15:32:42.121524+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:33:24.282653+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:34:07.225408+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:34:52.020895+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:35:34.740751+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:36:16.134918+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:36:56.413743+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:37:39.378906+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:38:21.486319+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:39:02.923207+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:39:46.107284+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:40:27.924861+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:41:11.053723+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:41:50.404179+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T15:42:50.436820+00:00 | Sober | Tool | source:amperwave-api
+2026-04-17T15:43:36.733475+00:00 | Sober | Tool | source:amperwave-api
+2026-04-17T15:44:17.176089+00:00 | Sober | Tool | source:amperwave-api
+2026-04-17T15:45:03.323884+00:00 | Sober | Tool | source:amperwave-api
+2026-04-17T15:46:09.668975+00:00 | Sober | Tool | source:amperwave-api
+2026-04-17T15:47:05.696604+00:00 | Sober | Tool | source:amperwave-api
+2026-04-17T15:47:46.894178+00:00 | Zombie | Bad Wolves | source:amperwave-api
+2026-04-17T15:48:27.161102+00:00 | Zombie | Bad Wolves | source:amperwave-api
+2026-04-17T15:49:35.041606+00:00 | Zombie | Bad Wolves | source:amperwave-api
+2026-04-17T15:50:20.460595+00:00 | Zombie | Bad Wolves | source:amperwave-api
+2026-04-17T15:51:04.615076+00:00 | Zombie | Bad Wolves | source:amperwave-api
+2026-04-17T15:51:46.076041+00:00 | Walk This Way | Aerosmith | source:amperwave-api
+2026-04-17T15:53:06.448335+00:00 | Walk This Way | Aerosmith | source:amperwave-api
+2026-04-17T15:53:48.436446+00:00 | Walk This Way | Aerosmith | source:amperwave-api
+2026-04-17T15:54:28.778604+00:00 | Walk This Way | Aerosmith | source:amperwave-api
+2026-04-17T15:55:41.514195+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-17T15:56:32.992767+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-17T15:57:14.672598+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-17T15:57:58.716915+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-17T15:58:41.975331+00:00 | Wake Up Calling | Papa Roach | source:amperwave-api
+2026-04-17T15:59:25.571913+00:00 | Loser | Beck | source:amperwave-api
+2026-04-17T16:00:05.113461+00:00 | Loser | Beck | source:amperwave-api
+2026-04-17T16:00:46.266846+00:00 | Loser | Beck | source:amperwave-api
+2026-04-17T16:01:28.977334+00:00 | Loser | Beck | source:amperwave-api
+2026-04-17T16:02:11.340338+00:00 | Loser | Beck | source:amperwave-api
+2026-04-17T16:02:52.123438+00:00 | Lithium | Nirvana | source:amperwave-api
+2026-04-17T16:03:36.628475+00:00 | Lithium | Nirvana | source:amperwave-api
+2026-04-17T16:04:17.368249+00:00 | Lithium | Nirvana | source:amperwave-api
+2026-04-17T16:04:59.934263+00:00 | Lithium | Nirvana | source:amperwave-api
+2026-04-17T16:05:42.669622+00:00 | Lithium | Nirvana | source:amperwave-api
+2026-04-17T16:06:27.802663+00:00 | Lithium | Nirvana | source:amperwave-api
+2026-04-17T16:07:37.343184+00:00 | I Will Not Break | Disturbed | source:amperwave-api
+2026-04-17T16:08:35.923764+00:00 | I Will Not Break | Disturbed | source:amperwave-api
+2026-04-17T16:09:15.642868+00:00 | I Will Not Break | Disturbed | source:amperwave-api
+2026-04-17T16:09:59.058326+00:00 | I Will Not Break | Disturbed | source:amperwave-api
+2026-04-17T16:10:45.948883+00:00 | I Will Not Break | Disturbed | source:amperwave-api
+2026-04-17T16:11:30.081901+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:12:11.820809+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:12:54.857029+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:13:42.495142+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:14:23.921966+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:15:05.341500+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:15:49.884746+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:16:30.870329+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:17:14.906971+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:17:59.505704+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:18:39.769298+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:19:19.627440+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:20:03.582110+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:20:48.802900+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:23:14.537388+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:23:57.847392+00:00 | Fade To Black | Metallica | source:amperwave-api
+2026-04-17T16:24:39.568988+00:00 | Monsters | Shinedown | source:amperwave-api
+2026-04-17T16:25:49.612597+00:00 | Monsters | Shinedown | source:amperwave-api
+2026-04-17T16:26:43.261868+00:00 | Monsters | Shinedown | source:amperwave-api
+2026-04-17T16:27:43.020927+00:00 | Monsters | Shinedown | source:amperwave-api
+2026-04-17T16:28:24.281009+00:00 | Monsters | Shinedown | source:amperwave-api
+2026-04-17T16:29:51.127544+00:00 | 1979 | The Smashing Pumpkins | source:amperwave-api
+2026-04-17T16:30:34.159025+00:00 | 1979 | The Smashing Pumpkins | source:amperwave-api
+2026-04-17T16:31:16.869821+00:00 | 1979 | The Smashing Pumpkins | source:amperwave-api
+2026-04-17T16:32:17.182484+00:00 | 1979 | The Smashing Pumpkins | source:amperwave-api
+2026-04-17T16:33:06.212922+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:33:47.427639+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:34:31.094963+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:35:31.679119+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:36:22.662177+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:37:04.876501+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:37:45.216613+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:38:25.412870+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:39:06.902310+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:39:48.203065+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:40:30.999648+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:41:27.680204+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:42:11.998758+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:42:52.308307+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:43:34.924640+00:00 | Rainbow In The Dark | Dio | source:amperwave-api
+2026-04-17T16:44:16.743312+00:00 | Breaking The Habit | Linkin Park | source:amperwave-api
+2026-04-17T16:44:59.957919+00:00 | Breaking The Habit | Linkin Park | source:amperwave-api
+2026-04-17T16:45:39.571210+00:00 | Breaking The Habit | Linkin Park | source:amperwave-api
+2026-04-17T16:46:27.326430+00:00 | Breaking The Habit | Linkin Park | source:amperwave-api
+2026-04-17T16:47:37.220560+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T16:48:28.871567+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T16:49:08.662586+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T16:49:51.919538+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T16:50:32.392346+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T16:51:15.217696+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T16:51:58.435686+00:00 | Glycerine | Bush | source:amperwave-api
+2026-04-17T16:52:39.905820+00:00 | Glycerine | Bush | source:amperwave-api
+2026-04-17T16:53:22.821439+00:00 | Glycerine | Bush | source:amperwave-api
+2026-04-17T16:54:05.396933+00:00 | Glycerine | Bush | source:amperwave-api
+2026-04-17T16:54:46.768380+00:00 | Glycerine | Bush | source:amperwave-api
+2026-04-17T16:55:29.479713+00:00 | Glycerine | Bush | source:amperwave-api
+2026-04-17T16:56:11.014006+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T16:56:53.497930+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T16:57:33.648296+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T16:58:16.729054+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T16:59:14.659915+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T17:00:00.070039+00:00 | Give It Away | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T17:00:42.267033+00:00 | Give It Away | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T17:01:21.723954+00:00 | Give It Away | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T17:02:20.938968+00:00 | Give It Away | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T17:03:03.102307+00:00 | Give It Away | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T17:03:42.481107+00:00 | Give It Away | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T17:04:20.553757+00:00 | Give It Away | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T17:05:24.187916+00:00 | (You Gotta) Fight For Your Right (To Party) | Beastie Boys | source:amperwave-api
+2026-04-17T17:06:11.387092+00:00 | (You Gotta) Fight For Your Right (To Party) | Beastie Boys | source:amperwave-api
+2026-04-17T17:06:50.302454+00:00 | (You Gotta) Fight For Your Right (To Party) | Beastie Boys | source:amperwave-api
+2026-04-17T17:07:29.546513+00:00 | (You Gotta) Fight For Your Right (To Party) | Beastie Boys | source:amperwave-api
+2026-04-17T17:08:33.199242+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:09:18.748388+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:09:58.124331+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:10:36.512721+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:11:34.412521+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:12:18.942307+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:12:57.385532+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:13:34.497318+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:14:14.162757+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:14:51.647215+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:15:29.100905+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:16:06.863592+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:16:45.789253+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:17:24.983780+00:00 | Dilemma | Green Day | source:amperwave-api
+2026-04-17T17:18:02.801733+00:00 | Dragula | Rob Zombie | source:amperwave-api
+2026-04-17T17:18:41.761403+00:00 | Dragula | Rob Zombie | source:amperwave-api
+2026-04-17T17:19:20.083226+00:00 | Dragula | Rob Zombie | source:amperwave-api
+2026-04-17T17:19:57.521553+00:00 | Dragula | Rob Zombie | source:amperwave-api
+2026-04-17T17:20:35.695121+00:00 | Dragula | Rob Zombie | source:amperwave-api
+2026-04-17T17:21:14.319768+00:00 | Dragula | Rob Zombie | source:amperwave-api
+2026-04-17T17:21:55.079350+00:00 | November Rain | Guns N Roses | source:amperwave-api
+2026-04-17T17:22:53.875560+00:00 | November Rain | Guns N Roses | source:amperwave-api
+2026-04-17T17:23:35.758176+00:00 | November Rain | Guns N Roses | source:amperwave-api
+2026-04-17T17:24:16.075551+00:00 | November Rain | Guns N Roses | source:amperwave-api
+2026-04-17T17:24:54.698021+00:00 | November Rain | Guns N Roses | source:amperwave-api
+2026-04-17T17:25:33.833171+00:00 | November Rain | Guns N Roses | source:amperwave-api
+2026-04-17T17:26:12.549806+00:00 | November Rain | Guns N Roses | source:amperwave-api
+2026-04-17T17:27:17.845934+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:28:03.549933+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:28:41.348477+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:29:20.261808+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:30:24.380922+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:31:06.929236+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:31:44.640641+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:32:23.749090+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:34:30.038243+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:35:07.652559+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:35:46.284201+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:36:45.839351+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T17:37:30.868456+00:00 | My Hero | Foo Fighters | source:amperwave-api
+2026-04-17T17:38:08.485130+00:00 | My Hero | Foo Fighters | source:amperwave-api
+2026-04-17T17:38:47.529098+00:00 | My Hero | Foo Fighters | source:amperwave-api
+2026-04-17T17:39:46.096158+00:00 | My Hero | Foo Fighters | source:amperwave-api
+2026-04-17T17:40:27.696225+00:00 | My Hero | Foo Fighters | source:amperwave-api
+2026-04-17T17:41:07.219760+00:00 | My Hero | Foo Fighters | source:amperwave-api
+2026-04-17T17:41:44.811383+00:00 | My Hero | Foo Fighters | source:amperwave-api
+2026-04-17T17:42:23.740880+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-17T17:43:02.147784+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-17T17:43:39.174870+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-17T17:44:16.735384+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-17T17:44:54.767246+00:00 | Kerosene | The Warning | source:amperwave-api
+2026-04-17T17:45:35.116684+00:00 | Iron Man | Black Sabbath | source:amperwave-api
+2026-04-17T17:46:14.214928+00:00 | Iron Man | Black Sabbath | source:amperwave-api
+2026-04-17T17:46:51.978818+00:00 | Iron Man | Black Sabbath | source:amperwave-api
+2026-04-17T17:47:30.882963+00:00 | Iron Man | Black Sabbath | source:amperwave-api
+2026-04-17T17:48:09.113060+00:00 | Iron Man | Black Sabbath | source:amperwave-api
+2026-04-17T17:48:48.126917+00:00 | Iron Man | Black Sabbath | source:amperwave-api
+2026-04-17T17:49:28.478548+00:00 | Iron Man | Black Sabbath | source:amperwave-api
+2026-04-17T17:50:34.183935+00:00 | Iron Man | Black Sabbath | source:amperwave-api
+2026-04-17T17:51:19.885974+00:00 | Iron Man | Black Sabbath | source:amperwave-api
+2026-04-17T17:52:04.484609+00:00 | Are You Gonna Be My Girl | Jet | source:amperwave-api
+2026-04-17T17:52:43.198034+00:00 | Are You Gonna Be My Girl | Jet | source:amperwave-api
+2026-04-17T17:53:21.532848+00:00 | Are You Gonna Be My Girl | Jet | source:amperwave-api
+2026-04-17T17:53:59.819455+00:00 | Are You Gonna Be My Girl | Jet | source:amperwave-api
+2026-04-17T17:55:07.279482+00:00 | Alive | Pearl Jam | source:amperwave-api
+2026-04-17T17:55:48.775133+00:00 | Alive | Pearl Jam | source:amperwave-api
+2026-04-17T17:56:27.376933+00:00 | Alive | Pearl Jam | source:amperwave-api
+2026-04-17T17:57:06.735740+00:00 | Alive | Pearl Jam | source:amperwave-api
+2026-04-17T17:58:17.822740+00:00 | Alive | Pearl Jam | source:amperwave-api
+2026-04-17T17:59:01.908554+00:00 | Alive | Pearl Jam | source:amperwave-api
+2026-04-17T17:59:41.176968+00:00 | Alive | Pearl Jam | source:amperwave-api
+2026-04-17T18:00:19.958460+00:00 | Alive | Pearl Jam | source:amperwave-api
+2026-04-17T18:01:22.724686+00:00 | Wicked Garden | Stone Temple Pilots | source:amperwave-api
+2026-04-17T18:02:10.217659+00:00 | Wicked Garden | Stone Temple Pilots | source:amperwave-api
+2026-04-17T18:02:49.392952+00:00 | Wicked Garden | Stone Temple Pilots | source:amperwave-api
+2026-04-17T18:03:29.271995+00:00 | Wicked Garden | Stone Temple Pilots | source:amperwave-api
+2026-04-17T18:04:17.913998+00:00 | Wicked Garden | Stone Temple Pilots | source:amperwave-api
+2026-04-17T18:05:01.012023+00:00 | Wicked Garden | Stone Temple Pilots | source:amperwave-api
+2026-04-17T18:05:38.946614+00:00 | Mayday | Three Days Grace | source:amperwave-api
+2026-04-17T18:06:16.924426+00:00 | Mayday | Three Days Grace | source:amperwave-api
+2026-04-17T18:07:16.071911+00:00 | Mayday | Three Days Grace | source:amperwave-api
+2026-04-17T18:08:03.516414+00:00 | Mayday | Three Days Grace | source:amperwave-api
+2026-04-17T18:08:42.225600+00:00 | Mayday | Three Days Grace | source:amperwave-api
+2026-04-17T18:09:19.634621+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:09:58.916720+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:10:37.303612+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:11:16.379507+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:11:57.122806+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:12:37.667980+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:13:17.595299+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:13:56.924146+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:14:35.267717+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:15:14.689547+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:15:54.407972+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:16:36.217160+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:17:15.941710+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:17:54.242295+00:00 | Shout At The Devil | Motley Crue | source:amperwave-api
+2026-04-17T18:18:44.776472+00:00 | Remedy | Seether | source:amperwave-api
+2026-04-17T18:19:26.212583+00:00 | Remedy | Seether | source:amperwave-api
+2026-04-17T18:20:04.998120+00:00 | Remedy | Seether | source:amperwave-api
+2026-04-17T18:20:44.518936+00:00 | Remedy | Seether | source:amperwave-api
+2026-04-17T18:21:22.698335+00:00 | Remedy | Seether | source:amperwave-api
+2026-04-17T18:22:01.526860+00:00 | Remedy | Seether | source:amperwave-api
+2026-04-17T18:22:40.324239+00:00 | Killing In The Name | Rage Against The Machine | source:amperwave-api
+2026-04-17T18:23:19.249808+00:00 | Killing In The Name | Rage Against The Machine | source:amperwave-api
+2026-04-17T18:24:06.161177+00:00 | Killing In The Name | Rage Against The Machine | source:amperwave-api
+2026-04-17T18:24:46.934060+00:00 | Killing In The Name | Rage Against The Machine | source:amperwave-api
+2026-04-17T18:25:24.753430+00:00 | Killing In The Name | Rage Against The Machine | source:amperwave-api
+2026-04-17T18:26:01.975873+00:00 | Killing In The Name | Rage Against The Machine | source:amperwave-api
+2026-04-17T18:27:12.216836+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:27:55.536023+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:28:32.211033+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:29:09.424770+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:29:57.874743+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:30:36.201551+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:31:14.600842+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:31:51.157242+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:32:40.664412+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:33:24.038641+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:34:01.303772+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:34:39.952656+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:35:31.496384+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:36:12.896157+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:36:52.200318+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:38:22.185220+00:00 | Thunderstruck | Ac/Dc | source:amperwave-api
+2026-04-17T18:39:01.675384+00:00 | By The Way | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T18:39:40.721461+00:00 | By The Way | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T18:40:18.950446+00:00 | By The Way | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T18:40:58.171639+00:00 | By The Way | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T18:41:37.071890+00:00 | By The Way | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T18:42:17.692764+00:00 | Demonic Depression | Volbeat | source:amperwave-api
+2026-04-17T18:42:59.867840+00:00 | Demonic Depression | Volbeat | source:amperwave-api
+2026-04-17T18:43:40.031335+00:00 | Demonic Depression | Volbeat | source:amperwave-api
+2026-04-17T18:44:20.197770+00:00 | Demonic Depression | Volbeat | source:amperwave-api
+2026-04-17T18:45:01.159820+00:00 | Demonic Depression | Volbeat | source:amperwave-api
+2026-04-17T18:45:41.430200+00:00 | Demonic Depression | Volbeat | source:amperwave-api
+2026-04-17T18:46:41.698672+00:00 | Gone Away | The Offspring | source:amperwave-api
+2026-04-17T18:47:27.410541+00:00 | Gone Away | The Offspring | source:amperwave-api
+2026-04-17T18:48:07.195501+00:00 | Gone Away | The Offspring | source:amperwave-api
+2026-04-17T18:48:47.441115+00:00 | Gone Away | The Offspring | source:amperwave-api
+2026-04-17T18:49:27.140959+00:00 | Gone Away | The Offspring | source:amperwave-api
+2026-04-17T18:50:11.479069+00:00 | Gone Away | The Offspring | source:amperwave-api
+2026-04-17T18:50:53.459289+00:00 | So Far So Fake | Pierce The Veil | source:amperwave-api
+2026-04-17T18:51:35.895053+00:00 | So Far So Fake | Pierce The Veil | source:amperwave-api
+2026-04-17T18:52:17.342271+00:00 | So Far So Fake | Pierce The Veil | source:amperwave-api
+2026-04-17T18:52:56.717494+00:00 | So Far So Fake | Pierce The Veil | source:amperwave-api
+2026-04-17T18:53:37.473004+00:00 | So Far So Fake | Pierce The Veil | source:amperwave-api
+2026-04-17T18:54:17.385744+00:00 | Whole Lotta Love | Led Zeppelin | source:amperwave-api
+2026-04-17T18:55:00.317814+00:00 | Whole Lotta Love | Led Zeppelin | source:amperwave-api
+2026-04-17T18:55:41.366526+00:00 | Whole Lotta Love | Led Zeppelin | source:amperwave-api
+2026-04-17T18:56:20.794779+00:00 | Whole Lotta Love | Led Zeppelin | source:amperwave-api
+2026-04-17T18:57:00.063494+00:00 | Whole Lotta Love | Led Zeppelin | source:amperwave-api
+2026-04-17T18:58:05.777491+00:00 | Whole Lotta Love | Led Zeppelin | source:amperwave-api
+2026-04-17T18:58:54.720619+00:00 | Whole Lotta Love | Led Zeppelin | source:amperwave-api
+2026-04-17T18:59:33.624890+00:00 | Whole Lotta Love | Led Zeppelin | source:amperwave-api
+2026-04-17T19:00:13.306658+00:00 | In Bloom | Nirvana | source:amperwave-api
+2026-04-17T19:01:17.882496+00:00 | In Bloom | Nirvana | source:amperwave-api
+2026-04-17T19:02:05.420289+00:00 | In Bloom | Nirvana | source:amperwave-api
+2026-04-17T19:02:46.619528+00:00 | In Bloom | Nirvana | source:amperwave-api
+2026-04-17T19:03:48.750207+00:00 | In Bloom | Nirvana | source:amperwave-api
+2026-04-17T19:04:36.393915+00:00 | Youve Got Another Thing Coming | Judas Priest | source:amperwave-api
+2026-04-17T19:05:14.934929+00:00 | Youve Got Another Thing Coming | Judas Priest | source:amperwave-api
+2026-04-17T19:05:56.472907+00:00 | Youve Got Another Thing Coming | Judas Priest | source:amperwave-api
+2026-04-17T19:06:45.020863+00:00 | Youve Got Another Thing Coming | Judas Priest | source:amperwave-api
+2026-04-17T19:07:27.406895+00:00 | Youve Got Another Thing Coming | Judas Priest | source:amperwave-api
+2026-04-17T19:08:06.784003+00:00 | Youve Got Another Thing Coming | Judas Priest | source:amperwave-api
+2026-04-17T19:08:47.383901+00:00 | Youve Got Another Thing Coming | Judas Priest | source:amperwave-api
+2026-04-17T19:09:41.469381+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:10:25.766821+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:11:05.901664+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:11:47.741299+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:12:27.919281+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:13:05.729695+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:13:46.527874+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:14:28.379539+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:15:07.662007+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:15:47.873383+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:16:26.606178+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:17:05.886357+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:17:45.400319+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:18:26.584629+00:00 | The Emptiness Machine | Linkin Park | source:amperwave-api
+2026-04-17T19:19:05.896302+00:00 | What I Got | Sublime | source:amperwave-api
+2026-04-17T19:19:45.270485+00:00 | What I Got | Sublime | source:amperwave-api
+2026-04-17T19:20:45.967751+00:00 | What I Got | Sublime | source:amperwave-api
+2026-04-17T19:21:26.945033+00:00 | What I Got | Sublime | source:amperwave-api
+2026-04-17T19:22:04.804952+00:00 | Flying High Again | Ozzy Osbourne | source:amperwave-api
+2026-04-17T19:22:43.149790+00:00 | Flying High Again | Ozzy Osbourne | source:amperwave-api
+2026-04-17T19:23:21.272238+00:00 | Flying High Again | Ozzy Osbourne | source:amperwave-api
+2026-04-17T19:24:00.736387+00:00 | Flying High Again | Ozzy Osbourne | source:amperwave-api
+2026-04-17T19:24:39.432959+00:00 | Flying High Again | Ozzy Osbourne | source:amperwave-api
+2026-04-17T19:25:17.557368+00:00 | Flying High Again | Ozzy Osbourne | source:amperwave-api
+2026-04-17T19:25:57.526740+00:00 | Flying High Again | Ozzy Osbourne | source:amperwave-api
+2026-04-17T19:26:37.412571+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:27:43.023405+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:28:28.780366+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:29:07.348778+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:29:46.420240+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:30:55.131599+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:31:43.244859+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:32:24.111282+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:33:03.080243+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:34:05.850928+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:34:46.334311+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:35:23.551455+00:00 | This Land | Des Rocs | source:amperwave-api
+2026-04-17T19:36:00.774192+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T19:36:55.883567+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T19:37:40.959171+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T19:38:19.807938+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T19:38:58.729926+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T19:39:53.005699+00:00 | Machinehead | Bush | source:amperwave-api
+2026-04-17T19:40:34.624234+00:00 | Twisting The Knife | Ice Nine Kills | source:amperwave-api
+2026-04-17T19:41:11.639219+00:00 | Twisting The Knife | Ice Nine Kills | source:amperwave-api
+2026-04-17T19:41:48.409978+00:00 | Twisting The Knife | Ice Nine Kills | source:amperwave-api
+2026-04-17T19:42:25.947441+00:00 | Twisting The Knife | Ice Nine Kills | source:amperwave-api
+2026-04-17T19:43:03.325116+00:00 | White Wedding | Billy Idol | source:amperwave-api
+2026-04-17T19:43:41.543852+00:00 | White Wedding | Billy Idol | source:amperwave-api
+2026-04-17T19:44:19.862218+00:00 | White Wedding | Billy Idol | source:amperwave-api
+2026-04-17T19:44:57.076991+00:00 | White Wedding | Billy Idol | source:amperwave-api
+2026-04-17T19:45:35.259294+00:00 | White Wedding | Billy Idol | source:amperwave-api
+2026-04-17T19:46:13.430479+00:00 | White Wedding | Billy Idol | source:amperwave-api
+2026-04-17T19:46:50.305712+00:00 | White Wedding | Billy Idol | source:amperwave-api
+2026-04-17T19:47:27.128552+00:00 | Best Of You | Foo Fighters | source:amperwave-api
+2026-04-17T19:48:03.716096+00:00 | Best Of You | Foo Fighters | source:amperwave-api
+2026-04-17T19:48:40.377373+00:00 | Best Of You | Foo Fighters | source:amperwave-api
+2026-04-17T19:49:17.672010+00:00 | Best Of You | Foo Fighters | source:amperwave-api
+2026-04-17T19:49:55.082539+00:00 | Best Of You | Foo Fighters | source:amperwave-api
+2026-04-17T19:50:37.414613+00:00 | Best Of You | Foo Fighters | source:amperwave-api
+2026-04-17T19:51:17.067205+00:00 | Best Of You | Foo Fighters | source:amperwave-api
+2026-04-17T19:51:53.616606+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T19:52:30.345075+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T19:53:30.515745+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T19:54:08.554107+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T19:54:45.431849+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T19:55:21.900467+00:00 | Got The Life | Korn | source:amperwave-api
+2026-04-17T19:56:21.962274+00:00 | Darkness Settles In | Five Finger Death Punch | source:amperwave-api
+2026-04-17T19:57:05.221305+00:00 | Darkness Settles In | Five Finger Death Punch | source:amperwave-api
+2026-04-17T19:57:42.439394+00:00 | Darkness Settles In | Five Finger Death Punch | source:amperwave-api
+2026-04-17T19:58:19.101168+00:00 | Darkness Settles In | Five Finger Death Punch | source:amperwave-api
+2026-04-17T19:59:17.349386+00:00 | Darkness Settles In | Five Finger Death Punch | source:amperwave-api
+2026-04-17T19:59:55.210706+00:00 | Darkness Settles In | Five Finger Death Punch | source:amperwave-api
+2026-04-17T20:00:31.777499+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-17T20:01:09.447816+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-17T20:01:46.221836+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-17T20:02:22.827485+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-17T20:03:19.579041+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-17T20:03:59.428716+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-17T20:04:37.630450+00:00 | I Stay Away | Alice In Chains | source:amperwave-api
+2026-04-17T20:05:17.488542+00:00 | My Only Angel (Feat. Yungblud) | Aerosmith | source:amperwave-api
+2026-04-17T20:06:07.356539+00:00 | My Only Angel (Feat. Yungblud) | Aerosmith | source:amperwave-api
+2026-04-17T20:06:48.305332+00:00 | My Only Angel (Feat. Yungblud) | Aerosmith | source:amperwave-api
+2026-04-17T20:07:25.977137+00:00 | My Only Angel (Feat. Yungblud) | Aerosmith | source:amperwave-api
+2026-04-17T20:08:02.183952+00:00 | My Only Angel (Feat. Yungblud) | Aerosmith | source:amperwave-api
+2026-04-17T20:08:38.850013+00:00 | My Only Angel (Feat. Yungblud) | Aerosmith | source:amperwave-api
+2026-04-17T20:09:15.566219+00:00 | My Only Angel (Feat. Yungblud) | Aerosmith | source:amperwave-api
+2026-04-17T20:09:52.340722+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:10:28.753632+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:11:05.287963+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:11:41.588683+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:12:17.917949+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:12:55.645795+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:13:32.300185+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:14:10.277071+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:14:48.326612+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:15:24.949111+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:17:22.424408+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:17:59.345921+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:18:36.046644+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:19:39.849481+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:20:23.484504+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:20:59.992479+00:00 | The Happiest Days Of Our Lives/Another Brick In The Wall | Pink Floyd | source:amperwave-api
+2026-04-17T20:21:36.366197+00:00 | The Kill (Bury Me) | Thirty Seconds To Mars | source:amperwave-api
+2026-04-17T20:22:12.542557+00:00 | The Kill (Bury Me) | Thirty Seconds To Mars | source:amperwave-api
+2026-04-17T20:23:17.201021+00:00 | The Kill (Bury Me) | Thirty Seconds To Mars | source:amperwave-api
+2026-04-17T20:23:59.977105+00:00 | The Kill (Bury Me) | Thirty Seconds To Mars | source:amperwave-api
+2026-04-17T20:24:36.034292+00:00 | The Kill (Bury Me) | Thirty Seconds To Mars | source:amperwave-api
+2026-04-17T20:25:12.042180+00:00 | The Kill (Bury Me) | Thirty Seconds To Mars | source:amperwave-api
+2026-04-17T20:26:08.409172+00:00 | Under The Bridge | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T20:26:48.460595+00:00 | Under The Bridge | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T20:27:24.689554+00:00 | Under The Bridge | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T20:28:28.718868+00:00 | Under The Bridge | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T20:29:15.794856+00:00 | Under The Bridge | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T20:29:54.412409+00:00 | Under The Bridge | Red Hot Chili Peppers | source:amperwave-api
+2026-04-17T20:30:30.696666+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:31:07.644201+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:32:07.649254+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:32:49.216378+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:33:27.004937+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:34:03.879389+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:34:40.365631+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:35:16.232917+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:35:52.780039+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:36:28.958360+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:37:05.402748+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:37:41.770393+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:38:17.240519+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:38:53.014900+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:39:29.736830+00:00 | Mr. Brownstone | Guns N Roses | source:amperwave-api
+2026-04-17T20:40:07.422157+00:00 | Aerials | System Of A Down | source:amperwave-api
+2026-04-17T20:40:44.345279+00:00 | Aerials | System Of A Down | source:amperwave-api
+2026-04-17T20:41:20.663934+00:00 | Aerials | System Of A Down | source:amperwave-api
+2026-04-17T20:41:56.931964+00:00 | Aerials | System Of A Down | source:amperwave-api
+2026-04-17T20:42:39.018155+00:00 | Aerials | System Of A Down | source:amperwave-api
+2026-04-17T20:43:16.850584+00:00 | Aerials | System Of A Down | source:amperwave-api
+2026-04-17T20:43:53.621802+00:00 | Aerials | System Of A Down | source:amperwave-api
+2026-04-17T20:44:31.317736+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T20:45:52.588947+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T20:46:29.645518+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T20:47:06.015472+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T20:48:03.652769+00:00 | Profane Prophecy | The Black Crowes | source:amperwave-api
+2026-04-17T20:48:42.970859+00:00 | Sad But True | Metallica | source:amperwave-api
+2026-04-17T20:49:19.719487+00:00 | Sad But True | Metallica | source:amperwave-api
+2026-04-17T20:49:55.548047+00:00 | Sad But True | Metallica | source:amperwave-api
+2026-04-17T20:50:52.408037+00:00 | Sad But True | Metallica | source:amperwave-api
+2026-04-17T20:51:31.419952+00:00 | Sad But True | Metallica | source:amperwave-api
+2026-04-17T20:52:07.519363+00:00 | Sad But True | Metallica | source:amperwave-api
+2026-04-17T20:52:43.357216+00:00 | Sad But True | Metallica | source:amperwave-api
+2026-04-17T20:53:29.199877+00:00 | Sad But True | Metallica | source:amperwave-api
+2026-04-17T20:54:14.244915+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T20:54:50.361823+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T20:55:25.820440+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T20:56:11.113807+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T20:56:57.522224+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T20:57:34.650385+00:00 | When Legends Rise (Live) | Godsmack | source:amperwave-api
+2026-04-17T20:58:12.981236+00:00 | Cult Of Personality | Living Colour | source:amperwave-api
+2026-04-17T20:58:50.319987+00:00 | Cult Of Personality | Living Colour | source:amperwave-api
+2026-04-17T20:59:25.981977+00:00 | Cult Of Personality | Living Colour | source:amperwave-api
+2026-04-17T21:00:02.142220+00:00 | Cult Of Personality | Living Colour | source:amperwave-api
+2026-04-17T21:00:38.475669+00:00 | Cult Of Personality | Living Colour | source:amperwave-api
+2026-04-17T21:01:16.335737+00:00 | Cult Of Personality | Living Colour | source:amperwave-api
+2026-04-17T21:01:54.048587+00:00 | Cult Of Personality | Living Colour | source:amperwave-api
+2026-04-17T21:02:30.132261+00:00 | Cult Of Personality | Living Colour | source:amperwave-api
+2026-04-17T21:03:06.750469+00:00 | Cult Of Personality | Living Colour | source:amperwave-api
+2026-04-17T21:03:43.512893+00:00 | Longview | Green Day | source:amperwave-api
+2026-04-17T21:04:20.616295+00:00 | Longview | Green Day | source:amperwave-api
+2026-04-17T21:04:57.439863+00:00 | Longview | Green Day | source:amperwave-api
+2026-04-17T21:05:34.556214+00:00 | Longview | Green Day | source:amperwave-api
+2026-04-17T21:06:37.811479+00:00 | Longview | Green Day | source:amperwave-api
+2026-04-17T21:07:20.537512+00:00 | Longview | Green Day | source:amperwave-api
+2026-04-17T21:07:57.355301+00:00 | Hot For Teacher | Van Halen | source:amperwave-api
+2026-04-17T21:08:34.150279+00:00 | Hot For Teacher | Van Halen | source:amperwave-api
+2026-04-17T21:09:49.671738+00:00 | Hot For Teacher | Van Halen | source:amperwave-api
+2026-04-17T21:10:26.401489+00:00 | Hot For Teacher | Van Halen | source:amperwave-api
+2026-04-17T21:11:03.079832+00:00 | Hot For Teacher | Van Halen | source:amperwave-api
+2026-04-17T21:12:18.168304+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:12:54.543386+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:13:31.516051+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:14:39.567770+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:15:17.027336+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:15:53.280695+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:16:41.328310+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:17:19.432237+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:17:55.582414+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:18:31.784541+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:19:29.800169+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:20:05.670791+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:20:43.245330+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:21:18.996734+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:21:55.230383+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:22:30.839777+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:23:07.068714+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:23:48.370934+00:00 | As Alive As You Need Me To Be | Nine Inch Nails | source:amperwave-api
+2026-04-17T21:24:24.576213+00:00 | Plush | Stone Temple Pilots | source:amperwave-api
+2026-04-17T21:25:00.634386+00:00 | Plush | Stone Temple Pilots | source:amperwave-api
+2026-04-17T21:25:36.351054+00:00 | Plush | Stone Temple Pilots | source:amperwave-api
+2026-04-17T21:26:12.606644+00:00 | Plush | Stone Temple Pilots | source:amperwave-api
+2026-04-17T21:26:48.984771+00:00 | Plush | Stone Temple Pilots | source:amperwave-api
+2026-04-17T21:27:26.563451+00:00 | Plush | Stone Temple Pilots | source:amperwave-api
+2026-04-17T21:28:02.716296+00:00 | Fire Woman | The Cult | source:amperwave-api
+2026-04-17T21:28:39.468563+00:00 | Fire Woman | The Cult | source:amperwave-api
+2026-04-17T21:29:37.388660+00:00 | Fire Woman | The Cult | source:amperwave-api
+2026-04-17T21:30:20.535168+00:00 | Fire Woman | The Cult | source:amperwave-api
+2026-04-17T21:30:57.330258+00:00 | Fire Woman | The Cult | source:amperwave-api
+2026-04-17T21:31:33.704609+00:00 | Fire Woman | The Cult | source:amperwave-api
+2026-04-17T21:32:47.815563+00:00 | Fire Woman | The Cult | source:amperwave-api
+2026-04-17T21:33:23.874864+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:33:59.960883+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:34:55.135056+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:35:30.909055+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:36:07.427757+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:37:07.122331+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:37:51.278108+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:38:27.333948+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:39:02.848724+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:39:53.732156+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:40:32.172981+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:41:08.077231+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:41:44.052060+00:00 | Your Favorite Toy | Foo Fighters | source:amperwave-api
+2026-04-17T21:42:30.392273+00:00 | Gotta Get Away | The Offspring | source:amperwave-api
+2026-04-17T21:43:08.914328+00:00 | Gotta Get Away | The Offspring | source:amperwave-api
+2026-04-17T21:43:45.729728+00:00 | Gotta Get Away | The Offspring | source:amperwave-api
+2026-04-17T21:44:22.127219+00:00 | Gotta Get Away | The Offspring | source:amperwave-api
+2026-04-17T21:44:58.976070+00:00 | Gotta Get Away | The Offspring | source:amperwave-api
+2026-04-17T21:45:35.475953+00:00 | Gotta Get Away | The Offspring | source:amperwave-api
+2026-04-17T21:46:11.530794+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T21:46:47.246191+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T21:47:23.037136+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T21:48:00.470845+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T21:48:36.594181+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T21:49:12.229908+00:00 | Break Me Down | Tim Montana | source:amperwave-api
+2026-04-17T21:49:47.810023+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T21:50:24.773604+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T21:51:03.576310+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T21:51:40.174003+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T21:52:44.239985+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T21:53:23.926018+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T21:54:00.040042+00:00 | Hells Bells | Ac/Dc | source:amperwave-api
+2026-04-17T21:55:49.697930+00:00 | Bodies | Drowning Pool | source:amperwave-api
+2026-04-17T21:56:26.135436+00:00 | Bodies | Drowning Pool | source:amperwave-api
+2026-04-17T21:57:03.496522+00:00 | Bodies | Drowning Pool | source:amperwave-api
+2026-04-17T21:57:47.288575+00:00 | Bodies | Drowning Pool | source:amperwave-api
+2026-04-17T21:58:25.710434+00:00 | Bodies | Drowning Pool | source:amperwave-api
+2026-04-17T21:59:01.974644+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T21:59:38.052954+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T22:00:26.374251+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T22:01:08.240559+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T22:01:44.657030+00:00 | Come As You Are | Nirvana | source:amperwave-api
+2026-04-17T22:02:44.048500+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:03:25.653065+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:04:01.747886+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:04:38.424300+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:05:50.464995+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:06:27.663655+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:07:04.552624+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:07:40.528499+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:08:16.285505+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:08:51.404291+00:00 | Wherever I May Roam | Metallica | source:amperwave-api
+2026-04-17T22:09:26.736884+00:00 | Hey You | Disturbed | source:amperwave-api
+2026-04-17T22:10:02.788815+00:00 | Hey You | Disturbed | source:amperwave-api
+2026-04-17T22:10:39.808053+00:00 | Hey You | Disturbed | source:amperwave-api
+2026-04-17T22:11:17.493769+00:00 | Hey You | Disturbed | source:amperwave-api
+2026-04-17T22:11:53.017834+00:00 | Hey You | Disturbed | source:amperwave-api
+2026-04-17T22:12:28.754943+00:00 | Hey You | Disturbed | source:amperwave-api
+2026-04-17T22:13:04.087222+00:00 | Hey You | Disturbed | source:amperwave-api
+2026-04-17T22:13:39.532417+00:00 | Hey You | Disturbed | source:amperwave-api
+2026-04-17T22:14:36.159267+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:15:14.617188+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:15:51.557283+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:16:27.652303+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:17:23.297295+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:18:00.209091+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:18:37.120581+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:19:44.205896+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:20:26.610281+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:21:02.783023+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:22:10.613818+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:22:52.137861+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:23:28.059230+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:24:26.379049+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:25:04.029271+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:25:40.775196+00:00 | Tom Sawyer | Rush | source:amperwave-api
+2026-04-17T22:26:39.344775+00:00 | Somewhere I Belong | Linkin Park | source:amperwave-api
+2026-04-17T22:27:23.165178+00:00 | Somewhere I Belong | Linkin Park | source:amperwave-api
+2026-04-17T22:27:59.439474+00:00 | Somewhere I Belong | Linkin Park | source:amperwave-api
+2026-04-17T22:28:37.131654+00:00 | Somewhere I Belong | Linkin Park | source:amperwave-api
+2026-04-17T22:29:13.174536+00:00 | Somewhere I Belong | Linkin Park | source:amperwave-api
+2026-04-17T22:29:49.055179+00:00 | Somewhere I Belong | Linkin Park | source:amperwave-api
+2026-04-17T22:30:24.769910+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T22:31:01.631515+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T22:31:37.584407+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T22:32:14.361297+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T22:32:50.004669+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T22:33:25.987318+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T22:34:01.592936+00:00 | Pardon Me | Incubus | source:amperwave-api
+2026-04-17T22:34:37.743674+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:35:13.326099+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:35:49.448309+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:36:35.878711+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:37:16.193394+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:37:53.077129+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:38:30.278354+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:39:26.774649+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:40:04.041739+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:40:41.579774+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:41:33.419261+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:42:11.490577+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:42:47.276505+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:43:24.977112+00:00 | Rock And Roll | Led Zeppelin | source:amperwave-api
+2026-04-17T22:44:07.641357+00:00 | Click Click Boom | Saliva | source:amperwave-api
+2026-04-17T22:44:45.355612+00:00 | Click Click Boom | Saliva | source:amperwave-api
+2026-04-17T22:45:21.390283+00:00 | Click Click Boom | Saliva | source:amperwave-api
+2026-04-17T22:45:57.531362+00:00 | Click Click Boom | Saliva | source:amperwave-api
+2026-04-17T22:46:53.495695+00:00 | Click Click Boom | Saliva | source:amperwave-api
+2026-04-17T22:47:29.859262+00:00 | Click Click Boom | Saliva | source:amperwave-api
+2026-04-17T22:48:06.860070+00:00 | Click Click Boom | Saliva | source:amperwave-api
+2026-04-17T22:49:09.166821+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T22:49:51.300018+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T22:50:27.589929+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T22:51:04.322338+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T22:51:40.718856+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T22:52:16.809599+00:00 | Who Will You Follow | Evanescence | source:amperwave-api
+2026-04-17T22:52:52.329139+00:00 | Black | Pearl Jam | source:amperwave-api
+2026-04-17T22:53:28.092739+00:00 | Black | Pearl Jam | source:amperwave-api
+2026-04-17T22:54:04.100563+00:00 | Black | Pearl Jam | source:amperwave-api
+2026-04-17T22:54:40.952140+00:00 | Black | Pearl Jam | source:amperwave-api
+2026-04-17T22:55:16.493985+00:00 | Black | Pearl Jam | source:amperwave-api
+2026-04-17T22:55:52.337047+00:00 | Black | Pearl Jam | source:amperwave-api
+2026-04-17T22:56:29.447865+00:00 | Black | Pearl Jam | source:amperwave-api
+2026-04-17T22:57:04.860647+00:00 | Black | Pearl Jam | source:amperwave-api
+2026-04-17T22:57:41.648249+00:00 | Black | Pearl Jam | source:amperwave-api
+2026-04-17T22:58:33.750219+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T22:59:12.986257+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T22:59:48.506162+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T23:00:24.255483+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T23:01:03.833678+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T23:01:46.128951+00:00 | Like A Woman Can | Halestorm | source:amperwave-api
+2026-04-17T23:02:22.980630+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:03:27.092619+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:04:09.748337+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:04:45.155931+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:05:20.843686+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:06:03.020050+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:06:40.081194+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:07:15.742851+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:08:15.305170+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:08:54.027162+00:00 | Rooster | Alice In Chains | source:amperwave-api
+2026-04-17T23:09:29.902005+00:00 | Welcome To The Jungle | Guns N Roses | source:amperwave-api
+2026-04-17T23:10:22.803236+00:00 | Welcome To The Jungle | Guns N Roses | source:amperwave-api
+2026-04-17T23:11:02.493889+00:00 | Welcome To The Jungle | Guns N Roses | source:amperwave-api
+2026-04-17T23:11:37.977254+00:00 | Welcome To The Jungle | Guns N Roses | source:amperwave-api
+2026-04-17T23:12:13.790575+00:00 | Welcome To The Jungle | Guns N Roses | source:amperwave-api
+2026-04-17T23:12:50.287749+00:00 | Welcome To The Jungle | Guns N Roses | source:amperwave-api
+2026-04-17T23:13:26.379074+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:14:02.248125+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:14:38.317894+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:15:14.181796+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:15:50.558090+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:16:27.167043+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:17:03.550559+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:17:40.996859+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:18:17.214442+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:18:53.026297+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:19:39.140374+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:20:15.117071+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:20:51.018160+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:22:38.341929+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:23:15.697633+00:00 | Jack | Hardy | source:amperwave-api
+2026-04-17T23:23:51.456669+00:00 | Basket Case | Green Day | source:amperwave-api
+2026-04-17T23:24:31.041945+00:00 | Basket Case | Green Day | source:amperwave-api
+2026-04-17T23:25:09.288548+00:00 | Basket Case | Green Day | source:amperwave-api
+2026-04-17T23:25:45.075382+00:00 | Basket Case | Green Day | source:amperwave-api
+2026-04-17T23:26:20.960639+00:00 | Basket Case | Green Day | source:amperwave-api
+2026-04-17T23:27:17.079815+00:00 | Here I Go Again | Whitesnake | source:amperwave-api
+2026-04-17T23:27:52.681607+00:00 | Here I Go Again | Whitesnake | source:amperwave-api
+2026-04-17T23:28:28.833298+00:00 | Here I Go Again | Whitesnake | source:amperwave-api
+2026-04-17T23:29:25.745149+00:00 | Here I Go Again | Whitesnake | source:amperwave-api
+2026-04-17T23:30:04.485454+00:00 | Here I Go Again | Whitesnake | source:amperwave-api
+2026-04-17T23:30:41.584154+00:00 | Here I Go Again | Whitesnake | source:amperwave-api
+2026-04-17T23:31:42.268528+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:32:26.403865+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:33:02.653569+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:33:38.185457+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:34:13.645441+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:34:52.181619+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:35:28.123680+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:36:03.748582+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:36:39.271863+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:37:16.340756+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:37:52.103904+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:38:27.676929+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:39:04.446172+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:39:40.273884+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:40:15.623445+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:40:51.169094+00:00 | Safe And Sound | Shinedown | source:amperwave-api
+2026-04-17T23:41:43.720245+00:00 | Low | Cracker | source:amperwave-api
+2026-04-17T23:42:21.209040+00:00 | Low | Cracker | source:amperwave-api
+2026-04-17T23:42:57.034786+00:00 | Low | Cracker | source:amperwave-api
+2026-04-17T23:44:01.410343+00:00 | Low | Cracker | source:amperwave-api
+2026-04-17T23:44:38.159376+00:00 | Low | Cracker | source:amperwave-api
+2026-04-17T23:45:13.394597+00:00 | Low | Cracker | source:amperwave-api
+2026-04-17T23:45:49.245581+00:00 | Shallow | Magnolia Park | source:amperwave-api
+2026-04-17T23:47:00.981760+00:00 | Shallow | Magnolia Park | source:amperwave-api
+2026-04-17T23:47:37.118784+00:00 | Shallow | Magnolia Park | source:amperwave-api
+2026-04-17T23:48:37.311751+00:00 | Shallow | Magnolia Park | source:amperwave-api
+2026-04-17T23:49:18.688071+00:00 | You Shook Me All Night Long | Ac/Dc | source:amperwave-api
+2026-04-17T23:49:54.874882+00:00 | You Shook Me All Night Long | Ac/Dc | source:amperwave-api
+2026-04-17T23:51:37.630241+00:00 | You Shook Me All Night Long | Ac/Dc | source:amperwave-api
+2026-04-17T23:52:13.519671+00:00 | You Shook Me All Night Long | Ac/Dc | source:amperwave-api
+2026-04-17T23:53:57.649483+00:00 | Footsteps (Go Higher) | Pop Evil | source:amperwave-api
+2026-04-17T23:54:33.634827+00:00 | Footsteps (Go Higher) | Pop Evil | source:amperwave-api
+2026-04-17T23:55:11.119892+00:00 | Footsteps (Go Higher) | Pop Evil | source:amperwave-api
+2026-04-17T23:55:47.504045+00:00 | Footsteps (Go Higher) | Pop Evil | source:amperwave-api
+2026-04-17T23:56:23.871023+00:00 | Footsteps (Go Higher) | Pop Evil | source:amperwave-api
+2026-04-17T23:56:59.736066+00:00 | Renegades Of Funk | Rage Against The Machine | source:amperwave-api
+2026-04-17T23:57:35.835274+00:00 | Renegades Of Funk | Rage Against The Machine | source:amperwave-api
+2026-04-17T23:58:11.445356+00:00 | Renegades Of Funk | Rage Against The Machine | source:amperwave-api
+2026-04-17T23:58:48.525620+00:00 | Renegades Of Funk | Rage Against The Machine | source:amperwave-api
+2026-04-17T23:59:23.868388+00:00 | Renegades Of Funk | Rage Against The Machine | source:amperwave-api

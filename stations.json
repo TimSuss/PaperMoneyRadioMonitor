@@ -51,7 +51,10 @@
     "city": "Honolulu",
     "state": "HI",
     "url": "https://1027dabomb.net/listenlive/",
-    "failure_count": 0
+    "failure_count": 11377,
+    "disabled_reason": "too many values to unpack (expected 2)",
+    "disabled": true,
+    "disabled_time": "2026-04-19T14:36:20.291045+00:00"
   },
   {
     "name": "KLLY-FM",
