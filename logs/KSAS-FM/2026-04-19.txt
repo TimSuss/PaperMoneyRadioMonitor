@@ -1184,3 +1184,496 @@
 2026-04-19T14:37:31.912094+00:00 | Break Free | Ariana Grande | source:amperwave-api
 2026-04-19T14:38:06.995540+00:00 | Break Free | Ariana Grande | source:amperwave-api
 2026-04-19T14:38:42.075820+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:41:09.037193+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:43:39.602311+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:45:37.659232+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:47:56.719698+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:49:42.326307+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:51:38.399861+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:53:40.995390+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:55:41.830130+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:57:48.725421+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T14:59:42.564862+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:01:08.951059+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:03:03.659843+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:04:55.952301+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:06:21.229437+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:07:57.298099+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:09:06.179586+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:10:44.387522+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:12:29.403573+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:13:26.247660+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:14:34.474533+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:15:15.302393+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:15:55.426041+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:16:37.492491+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:17:18.817172+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:17:59.785825+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:19:00.611970+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:19:42.314383+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:20:34.779134+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:21:16.008333+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:21:57.150058+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:22:58.562447+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:23:40.884080+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:24:22.049709+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:25:03.879326+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:25:47.040628+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:26:26.914768+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:27:07.451736+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:27:47.523677+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:28:30.141729+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:29:11.098659+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:29:53.471521+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:30:33.475168+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:31:31.335635+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:32:11.289625+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:32:52.314651+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:34:00.999527+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:34:39.998098+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:35:24.060752+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:36:04.448442+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:36:46.738581+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:37:48.942516+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:38:29.899984+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:39:20.052007+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:39:59.688694+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:40:40.652349+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:41:50.086940+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:42:30.729858+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:43:12.300233+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:43:52.254497+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:44:38.447526+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:45:18.607518+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:45:59.383171+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:46:39.755533+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:47:21.181456+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:48:00.593768+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:48:42.487427+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:49:34.159312+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:50:13.671588+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:50:55.136568+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:51:37.011036+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:52:17.616146+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:53:02.984036+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:54:09.730299+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:54:50.088346+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:55:44.317404+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:56:24.406861+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:57:05.514108+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:57:48.806211+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:58:30.583159+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T15:59:09.979849+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:00:18.292247+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:01:03.212199+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:01:44.034680+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:02:24.039768+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:03:05.433830+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:03:45.494399+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:04:27.213637+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:05:09.210427+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:05:50.589958+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:06:31.089885+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:07:13.992395+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:07:54.379955+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:08:57.839757+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:09:38.917109+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:10:30.326049+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:11:17.182904+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:12:30.026624+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:13:11.790386+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:13:54.069185+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:15:05.368174+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:16:21.357419+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:17:04.014729+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:17:44.471669+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:18:48.773379+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:19:28.725934+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:20:11.967248+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:20:59.395692+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:21:40.039541+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:22:24.428033+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:23:04.660341+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:23:47.152594+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:24:34.106321+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:25:24.179690+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:26:32.661582+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:27:13.278253+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:27:55.350266+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:28:35.828601+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:29:29.749510+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:30:36.455180+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:31:20.666357+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:32:01.202922+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:32:50.985619+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:33:31.294146+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:34:16.338491+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:35:25.491254+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:36:05.248701+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:36:52.952911+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:37:34.488508+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:38:20.339337+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:39:01.768522+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:39:57.143211+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:40:38.406349+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:41:18.979395+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:42:00.970357+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:42:42.052196+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:43:23.208775+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:44:03.246371+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:44:44.228174+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:45:36.749578+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:46:17.538967+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:46:59.710602+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:47:47.332398+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:48:28.642844+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:49:16.502148+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:50:04.052194+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:50:46.310315+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:51:59.391728+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:52:43.868000+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:53:29.989426+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:54:16.255992+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:54:57.044217+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:55:37.968612+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:56:40.138563+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:57:19.855232+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:58:00.673238+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:58:40.384280+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T16:59:22.018804+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:00:02.294636+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:00:43.924223+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:01:24.683466+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:02:07.558359+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:02:50.686945+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:03:35.280306+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:04:34.988477+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:05:17.498027+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:06:04.409401+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:07:19.306753+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:07:59.074486+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:08:51.886232+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:09:31.568570+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:10:12.562932+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:10:57.809667+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:11:45.402972+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:12:24.870050+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:13:34.621174+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:14:17.722795+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:15:08.303722+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:15:48.644280+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:16:30.169871+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:17:10.647730+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:17:51.486547+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:18:38.026949+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:19:20.318055+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:20:01.381640+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:20:41.848704+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:21:23.064818+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:22:03.179032+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:22:44.229057+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:23:34.951989+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:24:15.418156+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:25:03.514789+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:26:04.656515+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:26:45.060275+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:27:47.488631+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:28:27.856753+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:29:09.470372+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:29:53.343801+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:30:34.367144+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:31:40.322896+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:32:22.847198+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:33:03.368723+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:33:47.038366+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:34:32.583073+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:35:13.241110+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:35:53.714253+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:36:39.933578+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:37:20.375747+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:38:03.071444+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:38:42.593174+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:39:23.478610+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:40:03.950313+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:40:47.626480+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:41:32.569352+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:42:33.976734+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:43:13.759357+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:43:54.378913+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:45:03.839077+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:45:43.301512+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:46:37.055422+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:47:17.124238+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:47:57.576754+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:48:48.388077+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:49:29.857644+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:50:40.397622+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:51:22.672746+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:52:40.745261+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:53:24.390704+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:54:03.688223+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:54:46.502909+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:55:27.276777+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:56:09.256112+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:56:49.346926+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:57:31.473714+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:58:11.193689+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:58:53.202958+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T17:59:33.026031+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:00:14.792151+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:00:55.596574+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:01:57.662275+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:02:38.475645+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:03:34.950141+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:04:16.842969+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:04:57.912235+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:05:45.607347+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:06:32.810409+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:07:38.373114+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:08:23.168075+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:09:04.451558+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:09:46.806166+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:10:37.414366+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:11:43.907783+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:12:26.891249+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:13:07.175246+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:13:47.504650+00:00 | Break Free | Ariana Grande | source:amperwave-api
+2026-04-19T18:14:27.417594+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T18:15:14.383329+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T18:15:56.483081+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T18:16:37.672450+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T18:17:17.915457+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T18:17:59.839876+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T18:18:46.368980+00:00 | Replay | Iyaz | source:amperwave-api
+2026-04-19T18:19:27.191866+00:00 | Replay | Iyaz | source:amperwave-api
+2026-04-19T18:20:38.930678+00:00 | Replay | Iyaz | source:amperwave-api
+2026-04-19T18:21:21.110413+00:00 | Golden | Huntr/X | source:amperwave-api
+2026-04-19T18:22:07.446937+00:00 | Golden | Huntr/X | source:amperwave-api
+2026-04-19T18:23:18.247602+00:00 | Golden | Huntr/X | source:amperwave-api
+2026-04-19T18:23:58.960711+00:00 | Golden | Huntr/X | source:amperwave-api
+2026-04-19T18:24:50.331706+00:00 | Babydoll | Dominic Fike | source:amperwave-api
+2026-04-19T18:25:30.831546+00:00 | Babydoll | Dominic Fike | source:amperwave-api
+2026-04-19T18:26:11.892707+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T18:26:54.781076+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T18:27:37.258259+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T18:28:16.918092+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T18:29:30.446553+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:30:15.666188+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:31:29.142996+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:32:12.617542+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:32:59.778945+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:33:46.382167+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:34:32.771209+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:35:19.121051+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:36:01.097279+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:36:41.252055+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:37:26.915296+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T18:38:22.015178+00:00 | Love Me Not | Ravyn Lenae | source:amperwave-api
+2026-04-19T18:39:32.618364+00:00 | Love Me Not | Ravyn Lenae | source:amperwave-api
+2026-04-19T18:40:19.978814+00:00 | Love Me Not | Ravyn Lenae | source:amperwave-api
+2026-04-19T18:41:01.807361+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T18:42:17.972875+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T18:43:00.081878+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T18:44:07.842163+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-19T18:44:49.068778+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-19T18:45:45.024461+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-19T18:46:31.680037+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-19T18:47:46.805001+00:00 | Die With A Smile | Lady Gaga Ft Bruno Mars | source:amperwave-api
+2026-04-19T18:48:28.494872+00:00 | Die With A Smile | Lady Gaga Ft Bruno Mars | source:amperwave-api
+2026-04-19T18:49:09.517531+00:00 | Die With A Smile | Lady Gaga Ft Bruno Mars | source:amperwave-api
+2026-04-19T18:49:54.633358+00:00 | Die With A Smile | Lady Gaga Ft Bruno Mars | source:amperwave-api
+2026-04-19T18:50:35.224414+00:00 | Die With A Smile | Lady Gaga Ft Bruno Mars | source:amperwave-api
+2026-04-19T18:51:17.991204+00:00 | Bad Habits | Ed Sheeran | source:amperwave-api
+2026-04-19T18:52:07.714959+00:00 | Bad Habits | Ed Sheeran | source:amperwave-api
+2026-04-19T18:52:54.640179+00:00 | Bad Habits | Ed Sheeran | source:amperwave-api
+2026-04-19T18:53:36.343122+00:00 | Bad Habits | Ed Sheeran | source:amperwave-api
+2026-04-19T18:54:19.137401+00:00 | Bad Habits | Ed Sheeran | source:amperwave-api
+2026-04-19T18:55:00.301183+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-19T18:55:43.384294+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-19T18:56:23.684490+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-19T18:57:10.790698+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-19T18:58:26.447828+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-19T18:59:13.770418+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-19T18:59:54.319943+00:00 | Damn I Love Miami | Pitbull Ft Lil Jon | source:amperwave-api
+2026-04-19T19:01:04.446652+00:00 | Wheres My Husband | Raye | source:amperwave-api
+2026-04-19T19:01:45.516640+00:00 | Wheres My Husband | Raye | source:amperwave-api
+2026-04-19T19:02:30.623426+00:00 | Wheres My Husband | Raye | source:amperwave-api
+2026-04-19T19:03:12.253891+00:00 | Wheres My Husband | Raye | source:amperwave-api
+2026-04-19T19:04:27.320316+00:00 | Cant Feel My Face | The Weeknd | source:amperwave-api
+2026-04-19T19:05:12.699940+00:00 | Cant Feel My Face | The Weeknd | source:amperwave-api
+2026-04-19T19:05:53.935832+00:00 | Cant Feel My Face | The Weeknd | source:amperwave-api
+2026-04-19T19:06:36.635070+00:00 | Cant Feel My Face | The Weeknd | source:amperwave-api
+2026-04-19T19:07:17.913288+00:00 | Cant Feel My Face | The Weeknd | source:amperwave-api
+2026-04-19T19:07:59.471368+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-19T19:09:00.444184+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-19T19:09:40.354584+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-19T19:10:21.773737+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-19T19:11:01.484972+00:00 | The Fate Of Ophelia | Taylor Swift | source:amperwave-api
+2026-04-19T19:11:41.934403+00:00 | Stateside [Remix] | Pink Pantheress Ft Zara Larson | source:amperwave-api
+2026-04-19T19:12:28.027570+00:00 | Stateside [Remix] | Pink Pantheress Ft Zara Larson | source:amperwave-api
+2026-04-19T19:13:15.081152+00:00 | Stateside [Remix] | Pink Pantheress Ft Zara Larson | source:amperwave-api
+2026-04-19T19:13:55.548017+00:00 | Stateside [Remix] | Pink Pantheress Ft Zara Larson | source:amperwave-api
+2026-04-19T19:14:36.523420+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T19:15:16.476180+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T19:15:59.367796+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T19:16:40.025053+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T19:17:31.915931+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T19:18:12.523349+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:18:55.123822+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:19:56.224684+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:20:36.824918+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:21:40.258575+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:22:26.678522+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:23:38.151467+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:24:21.091306+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:25:01.614675+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:25:47.460281+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:26:29.150760+00:00 | Die On This Hill | Sienna Spiro | source:amperwave-api
+2026-04-19T19:27:11.648876+00:00 | Luther | Kendrick Lamar Ft Sza | source:amperwave-api
+2026-04-19T19:28:27.830218+00:00 | Luther | Kendrick Lamar Ft Sza | source:amperwave-api
+2026-04-19T19:29:07.877706+00:00 | Luther | Kendrick Lamar Ft Sza | source:amperwave-api
+2026-04-19T19:29:49.362305+00:00 | Luther | Kendrick Lamar Ft Sza | source:amperwave-api
+2026-04-19T19:30:39.917551+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T19:31:20.387422+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T19:32:02.986643+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T19:32:44.417693+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T19:33:25.445633+00:00 | Dtmf | Bad Bunny | source:amperwave-api
+2026-04-19T19:34:05.500831+00:00 | Dtmf | Bad Bunny | source:amperwave-api
+2026-04-19T19:34:46.920929+00:00 | Dtmf | Bad Bunny | source:amperwave-api
+2026-04-19T19:35:26.429111+00:00 | Dtmf | Bad Bunny | source:amperwave-api
+2026-04-19T19:36:33.365300+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-19T19:37:17.379870+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-19T19:37:57.819922+00:00 | Ordinary | Alex Warren | source:amperwave-api
+2026-04-19T19:38:59.551823+00:00 | Party In The Usa | Miley Cyrus | source:amperwave-api
+2026-04-19T19:39:39.499444+00:00 | Party In The Usa | Miley Cyrus | source:amperwave-api
+2026-04-19T19:40:29.924266+00:00 | Party In The Usa | Miley Cyrus | source:amperwave-api
+2026-04-19T19:41:10.058520+00:00 | Party In The Usa | Miley Cyrus | source:amperwave-api
+2026-04-19T19:42:18.154695+00:00 | Back To Friends | Sombr | source:amperwave-api
+2026-04-19T19:43:02.825288+00:00 | Back To Friends | Sombr | source:amperwave-api
+2026-04-19T19:44:08.791807+00:00 | Back To Friends | Sombr | source:amperwave-api
+2026-04-19T19:44:50.439415+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:45:30.584443+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:46:46.392044+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:47:27.563257+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:48:08.051437+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:48:48.003488+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:49:29.247399+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:50:11.252862+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:51:09.007183+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:51:52.768298+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:52:39.333505+00:00 | What You Saying | Lil Uzi Vert | source:amperwave-api
+2026-04-19T19:53:31.710209+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T19:54:33.773310+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T19:55:14.557293+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T19:55:55.821053+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T19:56:57.075959+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T19:57:43.795166+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T19:58:32.862116+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T19:59:13.131018+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T19:59:55.447405+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-19T20:01:04.417082+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-19T20:01:48.629700+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-19T20:02:51.241540+00:00 | Eastside | Benny Blanco | source:amperwave-api
+2026-04-19T20:03:35.220590+00:00 | Eastside | Benny Blanco | source:amperwave-api
+2026-04-19T20:04:33.189215+00:00 | Eastside | Benny Blanco | source:amperwave-api
+2026-04-19T20:05:21.623697+00:00 | Too Sweet | Hozier | source:amperwave-api
+2026-04-19T20:06:02.895106+00:00 | Too Sweet | Hozier | source:amperwave-api
+2026-04-19T20:06:44.648471+00:00 | Too Sweet | Hozier | source:amperwave-api
+2026-04-19T20:07:33.205473+00:00 | Too Sweet | Hozier | source:amperwave-api
+2026-04-19T20:08:14.393403+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T20:08:56.976089+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T20:09:37.910283+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T20:10:18.633539+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T20:10:58.298654+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T20:11:39.405098+00:00 | Folded | Kehlani | source:amperwave-api
+2026-04-19T20:12:19.170705+00:00 | Wheres My Husband | Raye | source:amperwave-api
+2026-04-19T20:13:00.226193+00:00 | Wheres My Husband | Raye | source:amperwave-api
+2026-04-19T20:14:35.983329+00:00 | Wheres My Husband | Raye | source:amperwave-api
+2026-04-19T20:15:28.603799+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:16:11.800640+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:17:13.190375+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:18:01.938266+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:18:42.542935+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:19:25.263146+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:20:06.238938+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:20:49.639152+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:22:02.422297+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:22:47.690755+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:23:33.997349+00:00 | Dracula | Tame Impala Ft Jennie | source:amperwave-api
+2026-04-19T20:24:15.326517+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-19T20:24:56.603159+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-19T20:25:36.248789+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-19T20:26:18.656655+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-19T20:26:58.699117+00:00 | Man I Need | Olivia Dean | source:amperwave-api
+2026-04-19T20:27:50.245090+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T20:28:31.774383+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T20:29:12.373051+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T20:29:55.420442+00:00 | I Just Might | Bruno Mars | source:amperwave-api
+2026-04-19T20:30:38.381353+00:00 | Homewrecker | Sombr | source:amperwave-api
+2026-04-19T20:31:28.076059+00:00 | Homewrecker | Sombr | source:amperwave-api
+2026-04-19T20:32:38.292895+00:00 | Homewrecker | Sombr | source:amperwave-api
+2026-04-19T20:33:20.780509+00:00 | Homewrecker | Sombr | source:amperwave-api
+2026-04-19T20:34:33.277932+00:00 | Pink Pony Club | Chappell Roan | source:amperwave-api
+2026-04-19T20:35:19.198127+00:00 | Pink Pony Club | Chappell Roan | source:amperwave-api
+2026-04-19T20:35:58.546218+00:00 | Pink Pony Club | Chappell Roan | source:amperwave-api
+2026-04-19T20:36:44.217055+00:00 | Pink Pony Club | Chappell Roan | source:amperwave-api
+2026-04-19T20:37:23.874820+00:00 | Pink Pony Club | Chappell Roan | source:amperwave-api
+2026-04-19T20:38:05.656282+00:00 | Low | Flo-Rida | source:amperwave-api
+2026-04-19T20:38:45.747679+00:00 | Low | Flo-Rida | source:amperwave-api
+2026-04-19T20:39:32.524046+00:00 | Low | Flo-Rida | source:amperwave-api
+2026-04-19T20:40:35.157065+00:00 | Low | Flo-Rida | source:amperwave-api
+2026-04-19T20:41:16.321493+00:00 | Low | Flo-Rida | source:amperwave-api
+2026-04-19T20:41:59.672656+00:00 | Espresso | Sabrina Carpenter | source:amperwave-api
+2026-04-19T20:42:42.313481+00:00 | Espresso | Sabrina Carpenter | source:amperwave-api
+2026-04-19T20:43:23.701326+00:00 | Espresso | Sabrina Carpenter | source:amperwave-api
+2026-04-19T20:44:03.599537+00:00 | Espresso | Sabrina Carpenter | source:amperwave-api
+2026-04-19T20:44:44.905226+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:45:24.742430+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:46:05.753315+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:46:48.284343+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:47:30.782805+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:48:10.086318+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:48:51.764397+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:49:31.785786+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:50:14.274069+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:50:54.338626+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:51:37.147630+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:52:20.567589+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:53:26.557725+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:54:08.580326+00:00 | The Great Divide | Noah Kahan | source:amperwave-api
+2026-04-19T20:54:48.787603+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-19T20:55:40.469798+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-19T20:56:21.296444+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-19T20:57:08.066447+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-19T20:57:49.530699+00:00 | Elizabeth Taylor | Taylor Swift | source:amperwave-api
+2026-04-19T20:58:32.263610+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T20:59:14.958264+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T21:00:23.265870+00:00 | So Easy | Olivia Dean | source:amperwave-api
+2026-04-19T21:01:08.341042+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T21:02:19.550539+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T21:03:02.725113+00:00 | Yukon [Remix] | Justin Bieber | source:amperwave-api
+2026-04-19T21:03:48.136061+00:00 | Diamonds | Rihanna | source:amperwave-api
+2026-04-19T21:04:30.598297+00:00 | Diamonds | Rihanna | source:amperwave-api
+2026-04-19T21:05:12.361906+00:00 | Diamonds | Rihanna | source:amperwave-api
+2026-04-19T21:05:59.988882+00:00 | Diamonds | Rihanna | source:amperwave-api
+2026-04-19T21:06:46.853354+00:00 | Diamonds | Rihanna | source:amperwave-api
+2026-04-19T21:07:27.715509+00:00 | Diamonds | Rihanna | source:amperwave-api
+2026-04-19T21:08:10.396108+00:00 | End Of Beginning | Djo | source:amperwave-api
+2026-04-19T21:08:51.623418+00:00 | End Of Beginning | Djo | source:amperwave-api
+2026-04-19T21:09:32.996233+00:00 | End Of Beginning | Djo | source:amperwave-api
+2026-04-19T21:10:30.942789+00:00 | New Religion | Bebe Rexha | source:amperwave-api
+2026-04-19T21:11:11.490387+00:00 | New Religion | Bebe Rexha | source:amperwave-api
+2026-04-19T21:11:52.398261+00:00 | New Religion | Bebe Rexha | source:amperwave-api
+2026-04-19T21:12:34.035105+00:00 | New Religion | Bebe Rexha | source:amperwave-api
+2026-04-19T21:13:15.259505+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-19T21:13:55.073698+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-19T21:14:38.492454+00:00 | When Did You Get Hot | Sabrina Carpenter | source:amperwave-api
+2026-04-19T21:15:20.185195+00:00 | Fever Dream | Alex Warren | source:amperwave-api
+2026-04-19T21:16:01.293060+00:00 | Fever Dream | Alex Warren | source:amperwave-api
+2026-04-19T21:16:44.608821+00:00 | Fever Dream | Alex Warren | source:amperwave-api
+2026-04-19T21:17:27.424250+00:00 | Fever Dream | Alex Warren | source:amperwave-api
+2026-04-19T21:18:07.322485+00:00 | Fever Dream | Alex Warren | source:amperwave-api
+2026-04-19T21:18:48.753440+00:00 | Fever Dream | Alex Warren | source:amperwave-api
+2026-04-19T21:19:35.888411+00:00 | Fever Dream | Alex Warren | source:amperwave-api
+2026-04-19T21:20:15.887521+00:00 | Fever Dream | Alex Warren | source:amperwave-api
+2026-04-19T21:21:18.318486+00:00 | Fever Dream | Alex Warren | source:amperwave-api

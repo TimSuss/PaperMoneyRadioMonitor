@@ -1186,3 +1186,492 @@
 2026-04-19T14:37:33.843947+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
 2026-04-19T14:38:08.854291+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
 2026-04-19T14:38:43.809332+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T14:41:40.831117+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T14:42:46.596676+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T14:43:46.958999+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T14:46:16.221199+00:00 | She Had Me At Heads Carolina | Cole Swindell | source:amperwave-api
+2026-04-19T14:48:22.185674+00:00 | She Had Me At Heads Carolina | Cole Swindell | source:amperwave-api
+2026-04-19T14:50:11.337277+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T14:52:08.777971+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T14:54:05.315872+00:00 | Even If It Breaks Your Heart | Eli Young Band | source:amperwave-api
+2026-04-19T14:56:05.526128+00:00 | Even If It Breaks Your Heart | Eli Young Band | source:amperwave-api
+2026-04-19T14:58:06.048612+00:00 | Stay Country Or Die Tryin | Blake Shelton | source:amperwave-api
+2026-04-19T14:59:58.868020+00:00 | Stay Country Or Die Tryin | Blake Shelton | source:amperwave-api
+2026-04-19T15:01:14.695777+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T15:05:09.603188+00:00 | Where The Wild Things Are | Luke Combs | source:amperwave-api
+2026-04-19T15:06:45.581929+00:00 | Where The Wild Things Are | Luke Combs | source:amperwave-api
+2026-04-19T15:08:02.728439+00:00 | Happen To Me | Russell Dickerson | source:amperwave-api
+2026-04-19T15:09:27.560997+00:00 | Happen To Me | Russell Dickerson | source:amperwave-api
+2026-04-19T15:11:09.609498+00:00 | Runnin Outta Moonlight | Randy Houser | source:amperwave-api
+2026-04-19T15:12:36.082841+00:00 | Runnin Outta Moonlight | Randy Houser | source:amperwave-api
+2026-04-19T15:13:30.149499+00:00 | Runnin Outta Moonlight | Randy Houser | source:amperwave-api
+2026-04-19T15:14:38.318211+00:00 | I Got Better | Morgan Wallen | source:amperwave-api
+2026-04-19T15:15:18.772844+00:00 | I Got Better | Morgan Wallen | source:amperwave-api
+2026-04-19T15:15:59.301569+00:00 | I Got Better | Morgan Wallen | source:amperwave-api
+2026-04-19T15:16:42.036903+00:00 | I Got Better | Morgan Wallen | source:amperwave-api
+2026-04-19T15:17:22.402836+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:18:03.244230+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:19:04.748601+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:19:46.999342+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:20:39.784722+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:21:19.900573+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:22:01.035447+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:23:02.944349+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:23:44.962563+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:24:26.204624+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:25:07.864070+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:25:50.504920+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:26:30.622327+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:27:11.256925+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:27:51.305266+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:28:34.454730+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:29:14.587401+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T15:29:57.139264+00:00 | You Make It Easy | Jason Aldean | source:amperwave-api
+2026-04-19T15:30:37.046920+00:00 | You Make It Easy | Jason Aldean | source:amperwave-api
+2026-04-19T15:31:34.944692+00:00 | You Make It Easy | Jason Aldean | source:amperwave-api
+2026-04-19T15:32:14.841540+00:00 | You Make It Easy | Jason Aldean | source:amperwave-api
+2026-04-19T15:32:56.664384+00:00 | What Hell Never Have | Dylan Scott | source:amperwave-api
+2026-04-19T15:34:04.393930+00:00 | What Hell Never Have | Dylan Scott | source:amperwave-api
+2026-04-19T15:34:43.824433+00:00 | What Hell Never Have | Dylan Scott | source:amperwave-api
+2026-04-19T15:35:27.990822+00:00 | As Good As I Once Was | Toby Keith | source:amperwave-api
+2026-04-19T15:36:08.218549+00:00 | As Good As I Once Was | Toby Keith | source:amperwave-api
+2026-04-19T15:36:50.504834+00:00 | As Good As I Once Was | Toby Keith | source:amperwave-api
+2026-04-19T15:37:53.026221+00:00 | As Good As I Once Was | Toby Keith | source:amperwave-api
+2026-04-19T15:38:38.576038+00:00 | As Good As I Once Was | Toby Keith | source:amperwave-api
+2026-04-19T15:39:23.658175+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:40:03.558576+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:41:06.527029+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:41:54.123036+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:42:34.564397+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:43:15.767387+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:44:01.339604+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:44:42.034205+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:45:22.238689+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:46:03.775035+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:46:43.718776+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:47:24.444303+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:48:05.259360+00:00 | Chevy Silverado | Bailey Zimmerman | source:amperwave-api
+2026-04-19T15:48:46.016851+00:00 | Miles On It (Feat. Marshmello) | Kane Brown | source:amperwave-api
+2026-04-19T15:49:37.459331+00:00 | Miles On It (Feat. Marshmello) | Kane Brown | source:amperwave-api
+2026-04-19T15:50:17.168284+00:00 | Miles On It (Feat. Marshmello) | Kane Brown | source:amperwave-api
+2026-04-19T15:50:59.368354+00:00 | Miles On It (Feat. Marshmello) | Kane Brown | source:amperwave-api
+2026-04-19T15:51:40.763045+00:00 | Undo It | Carrie Underwood | source:amperwave-api
+2026-04-19T15:52:26.216777+00:00 | Undo It | Carrie Underwood | source:amperwave-api
+2026-04-19T15:54:13.797232+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T15:54:54.212301+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T15:55:48.635684+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T15:56:27.903035+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T15:57:09.602358+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T15:57:53.101450+00:00 | Devil Aint Done | Atlus | source:amperwave-api
+2026-04-19T15:58:34.216788+00:00 | Devil Aint Done | Atlus | source:amperwave-api
+2026-04-19T15:59:40.147964+00:00 | Devil Aint Done | Atlus | source:amperwave-api
+2026-04-19T16:00:21.704361+00:00 | Devil Aint Done | Atlus | source:amperwave-api
+2026-04-19T16:01:06.710946+00:00 | Devil Aint Done | Atlus | source:amperwave-api
+2026-04-19T16:01:47.733076+00:00 | Devil Aint Done | Atlus | source:amperwave-api
+2026-04-19T16:02:27.918164+00:00 | Just In Case | Morgan Wallen | source:amperwave-api
+2026-04-19T16:03:09.474995+00:00 | Just In Case | Morgan Wallen | source:amperwave-api
+2026-04-19T16:03:49.953150+00:00 | Just In Case | Morgan Wallen | source:amperwave-api
+2026-04-19T16:04:30.772489+00:00 | Just In Case | Morgan Wallen | source:amperwave-api
+2026-04-19T16:05:12.627044+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-19T16:05:54.766795+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-19T16:06:35.105898+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-19T16:07:18.028919+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-19T16:08:00.836136+00:00 | This Is How We Roll | Florida Georgia Line Feat Luke Bryan | source:amperwave-api
+2026-04-19T16:09:01.580664+00:00 | The Fall | Cody Johnson | source:amperwave-api
+2026-04-19T16:09:43.956897+00:00 | The Fall | Cody Johnson | source:amperwave-api
+2026-04-19T16:10:39.947895+00:00 | The Fall | Cody Johnson | source:amperwave-api
+2026-04-19T16:11:21.313141+00:00 | Liar | Jelly Roll | source:amperwave-api
+2026-04-19T16:12:33.974167+00:00 | Liar | Jelly Roll | source:amperwave-api
+2026-04-19T16:13:17.118953+00:00 | Liar | Jelly Roll | source:amperwave-api
+2026-04-19T16:15:13.370232+00:00 | Chicken Fried | Zac Brown Band | source:amperwave-api
+2026-04-19T16:16:25.851186+00:00 | Chicken Fried | Zac Brown Band | source:amperwave-api
+2026-04-19T16:17:07.935661+00:00 | Chicken Fried | Zac Brown Band | source:amperwave-api
+2026-04-19T16:17:47.961110+00:00 | Chicken Fried | Zac Brown Band | source:amperwave-api
+2026-04-19T16:18:52.276497+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:19:32.523115+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:20:19.793172+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:21:02.944199+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:21:46.085649+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:22:27.904057+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:23:08.106523+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:23:53.500315+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:24:39.104449+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:25:33.021958+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:26:36.646032+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:27:18.118364+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:27:58.751868+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:28:45.166598+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:29:33.862765+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:30:43.031326+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T16:31:24.464720+00:00 | I Had Some Help (Fea. Morgan Wallen) | Post Malone | source:amperwave-api
+2026-04-19T16:32:10.928321+00:00 | I Had Some Help (Fea. Morgan Wallen) | Post Malone | source:amperwave-api
+2026-04-19T16:32:54.962683+00:00 | I Had Some Help (Fea. Morgan Wallen) | Post Malone | source:amperwave-api
+2026-04-19T16:33:36.484207+00:00 | I Had Some Help (Fea. Morgan Wallen) | Post Malone | source:amperwave-api
+2026-04-19T16:34:43.853423+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-19T16:35:29.226514+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-19T16:36:08.762911+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-19T16:36:56.786101+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-19T16:37:37.909394+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-19T16:38:24.503286+00:00 | Dirt Road Anthem | Jason Aldean | source:amperwave-api
+2026-04-19T16:39:05.690346+00:00 | Dirt Road Anthem | Jason Aldean | source:amperwave-api
+2026-04-19T16:40:01.574381+00:00 | Dirt Road Anthem | Jason Aldean | source:amperwave-api
+2026-04-19T16:40:42.046569+00:00 | Dirt Road Anthem | Jason Aldean | source:amperwave-api
+2026-04-19T16:41:23.169078+00:00 | Dirt Road Anthem | Jason Aldean | source:amperwave-api
+2026-04-19T16:42:05.266863+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:42:45.670391+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:43:27.033439+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:44:06.854612+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:44:48.050846+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:45:41.373305+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:46:22.175275+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:47:03.967365+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:47:52.412618+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:48:33.313157+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:49:20.641704+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:50:09.900842+00:00 | Wish You Well | Vincent Mason | source:amperwave-api
+2026-04-19T16:50:49.805384+00:00 | Cowgirl | Parmalee | source:amperwave-api
+2026-04-19T16:52:06.789393+00:00 | Cowgirl | Parmalee | source:amperwave-api
+2026-04-19T16:52:52.543211+00:00 | Cowgirl | Parmalee | source:amperwave-api
+2026-04-19T16:53:33.732487+00:00 | Cowgirl | Parmalee | source:amperwave-api
+2026-04-19T16:54:20.599371+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-19T16:55:00.821908+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-19T16:55:42.839566+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-19T16:56:43.731369+00:00 | Boys Round Here | Blake Shelton | source:amperwave-api
+2026-04-19T16:57:23.811045+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T16:58:04.180455+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T16:58:44.630748+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T16:59:25.857200+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T17:00:06.434103+00:00 | Favorite Country Song | Hardy | source:amperwave-api
+2026-04-19T17:00:48.096335+00:00 | Favorite Country Song | Hardy | source:amperwave-api
+2026-04-19T17:01:28.776118+00:00 | Favorite Country Song | Hardy | source:amperwave-api
+2026-04-19T17:02:11.771625+00:00 | Favorite Country Song | Hardy | source:amperwave-api
+2026-04-19T17:02:56.330229+00:00 | Night Shift | Jon Pardi | source:amperwave-api
+2026-04-19T17:03:39.059383+00:00 | Night Shift | Jon Pardi | source:amperwave-api
+2026-04-19T17:04:39.906955+00:00 | Night Shift | Jon Pardi | source:amperwave-api
+2026-04-19T17:05:26.220357+00:00 | Night Shift | Jon Pardi | source:amperwave-api
+2026-04-19T17:06:38.996128+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T17:07:22.984217+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T17:08:04.418628+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T17:08:55.491765+00:00 | Burnin It Down | Jason Aldean | source:amperwave-api
+2026-04-19T17:09:35.129623+00:00 | Burnin It Down | Jason Aldean | source:amperwave-api
+2026-04-19T17:10:16.283981+00:00 | Burnin It Down | Jason Aldean | source:amperwave-api
+2026-04-19T17:11:02.033412+00:00 | Burnin It Down | Jason Aldean | source:amperwave-api
+2026-04-19T17:11:48.782601+00:00 | Burnin It Down | Jason Aldean | source:amperwave-api
+2026-04-19T17:13:38.425284+00:00 | Backup Plan (Feat. Luke Combs) | Bailey Zimmerman | source:amperwave-api
+2026-04-19T17:14:21.936532+00:00 | Backup Plan (Feat. Luke Combs) | Bailey Zimmerman | source:amperwave-api
+2026-04-19T17:15:12.002428+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:15:52.620870+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:16:33.794472+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:17:14.602971+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:18:00.579344+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:18:42.578642+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:19:24.100655+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:20:05.214711+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:20:45.521160+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:21:26.531193+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:22:07.268452+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:22:47.690595+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:23:38.982395+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:24:25.911885+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:25:07.127534+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:26:07.964353+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:26:49.288704+00:00 | Hate How You Look | Josh Ross | source:amperwave-api
+2026-04-19T17:27:51.254994+00:00 | Days Go By | Keith Urban | source:amperwave-api
+2026-04-19T17:28:31.452240+00:00 | Days Go By | Keith Urban | source:amperwave-api
+2026-04-19T17:29:13.445698+00:00 | Days Go By | Keith Urban | source:amperwave-api
+2026-04-19T17:29:56.906835+00:00 | Days Go By | Keith Urban | source:amperwave-api
+2026-04-19T17:30:38.857612+00:00 | Days Go By | Keith Urban | source:amperwave-api
+2026-04-19T17:31:45.506955+00:00 | Beautiful Things | Megan Moroney | source:amperwave-api
+2026-04-19T17:32:26.297340+00:00 | Beautiful Things | Megan Moroney | source:amperwave-api
+2026-04-19T17:33:07.701959+00:00 | Beautiful Things | Megan Moroney | source:amperwave-api
+2026-04-19T17:33:52.911552+00:00 | Beautiful Things | Megan Moroney | source:amperwave-api
+2026-04-19T17:34:36.460621+00:00 | My Girl | Dylan Scott | source:amperwave-api
+2026-04-19T17:35:16.397313+00:00 | My Girl | Dylan Scott | source:amperwave-api
+2026-04-19T17:36:02.422037+00:00 | My Girl | Dylan Scott | source:amperwave-api
+2026-04-19T17:36:43.834092+00:00 | My Girl | Dylan Scott | source:amperwave-api
+2026-04-19T17:37:25.764992+00:00 | My Girl | Dylan Scott | source:amperwave-api
+2026-04-19T17:38:06.502716+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:38:46.437172+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:39:26.756199+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:40:08.354803+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:40:51.447668+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:41:36.398706+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:42:37.524635+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:43:17.010891+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:44:25.333623+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:45:07.259333+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:45:46.419464+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T17:46:40.738136+00:00 | Stars Like Confetti | Dustin Lynch | source:amperwave-api
+2026-04-19T17:47:20.602154+00:00 | Stars Like Confetti | Dustin Lynch | source:amperwave-api
+2026-04-19T17:48:01.361514+00:00 | Stars Like Confetti | Dustin Lynch | source:amperwave-api
+2026-04-19T17:48:52.082249+00:00 | Stars Like Confetti | Dustin Lynch | source:amperwave-api
+2026-04-19T17:49:36.498095+00:00 | Stars Like Confetti | Dustin Lynch | source:amperwave-api
+2026-04-19T17:50:45.560064+00:00 | Dont Tell On Me | Jason Aldean | source:amperwave-api
+2026-04-19T17:51:26.193660+00:00 | Dont Tell On Me | Jason Aldean | source:amperwave-api
+2026-04-19T17:52:47.421890+00:00 | Dont Tell On Me | Jason Aldean | source:amperwave-api
+2026-04-19T17:53:27.805715+00:00 | Drunk On You | Luke Bryan | source:amperwave-api
+2026-04-19T17:54:07.363821+00:00 | Drunk On You | Luke Bryan | source:amperwave-api
+2026-04-19T17:54:50.645545+00:00 | Drunk On You | Luke Bryan | source:amperwave-api
+2026-04-19T17:55:31.096363+00:00 | Drunk On You | Luke Bryan | source:amperwave-api
+2026-04-19T17:56:12.924793+00:00 | Drunk On You | Luke Bryan | source:amperwave-api
+2026-04-19T17:56:53.715741+00:00 | Im The Problem | Morgan Wallen | source:amperwave-api
+2026-04-19T17:57:35.045547+00:00 | Im The Problem | Morgan Wallen | source:amperwave-api
+2026-04-19T17:58:14.883438+00:00 | Im The Problem | Morgan Wallen | source:amperwave-api
+2026-04-19T17:58:56.902926+00:00 | Im The Problem | Morgan Wallen | source:amperwave-api
+2026-04-19T17:59:36.766196+00:00 | Be Her | Ella Langley | source:amperwave-api
+2026-04-19T18:00:18.539888+00:00 | Be Her | Ella Langley | source:amperwave-api
+2026-04-19T18:01:00.057339+00:00 | Be Her | Ella Langley | source:amperwave-api
+2026-04-19T18:02:02.673000+00:00 | Be Her | Ella Langley | source:amperwave-api
+2026-04-19T18:02:42.084833+00:00 | Lovin On You | Luke Combs | source:amperwave-api
+2026-04-19T18:03:40.749991+00:00 | Lovin On You | Luke Combs | source:amperwave-api
+2026-04-19T18:04:20.542008+00:00 | Lovin On You | Luke Combs | source:amperwave-api
+2026-04-19T18:05:01.704326+00:00 | Lovin On You | Luke Combs | source:amperwave-api
+2026-04-19T18:05:55.471270+00:00 | Park | Tyler Hubbard | source:amperwave-api
+2026-04-19T18:06:36.876936+00:00 | Park | Tyler Hubbard | source:amperwave-api
+2026-04-19T18:07:45.111371+00:00 | Park | Tyler Hubbard | source:amperwave-api
+2026-04-19T18:08:27.203326+00:00 | Park | Tyler Hubbard | source:amperwave-api
+2026-04-19T18:09:08.491445+00:00 | Beer In Mexico | Kenny Chesney | source:amperwave-api
+2026-04-19T18:09:51.178372+00:00 | Beer In Mexico | Kenny Chesney | source:amperwave-api
+2026-04-19T18:10:41.011467+00:00 | Beer In Mexico | Kenny Chesney | source:amperwave-api
+2026-04-19T18:11:49.226419+00:00 | Beer In Mexico | Kenny Chesney | source:amperwave-api
+2026-04-19T18:12:30.738204+00:00 | Times Ticking | Justin Moore | source:amperwave-api
+2026-04-19T18:13:11.183058+00:00 | Times Ticking | Justin Moore | source:amperwave-api
+2026-04-19T18:13:51.235891+00:00 | Times Ticking | Justin Moore | source:amperwave-api
+2026-04-19T18:14:31.288077+00:00 | Times Ticking | Justin Moore | source:amperwave-api
+2026-04-19T18:15:18.010036+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:16:00.372967+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:16:41.064077+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:17:21.661795+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:18:09.273557+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:18:50.239158+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:19:36.048776+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:20:43.506742+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:21:29.697083+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:23:22.438495+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:24:02.560528+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:24:54.223354+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:25:34.499276+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:26:16.035399+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:26:59.371870+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:27:40.548982+00:00 | Aint A Bad Life (Featuring Jordan Davis) | Thomas Rhett | source:amperwave-api
+2026-04-19T18:28:50.611352+00:00 | Beat Of The Music | Brett Eldredge | source:amperwave-api
+2026-04-19T18:29:35.354271+00:00 | Beat Of The Music | Brett Eldredge | source:amperwave-api
+2026-04-19T18:30:22.218504+00:00 | Beat Of The Music | Brett Eldredge | source:amperwave-api
+2026-04-19T18:31:35.181750+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-19T18:32:17.014858+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-19T18:33:08.232186+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-19T18:33:49.937743+00:00 | Ends Of The Earth | Ty Myers | source:amperwave-api
+2026-04-19T18:34:41.745739+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-19T18:35:22.960258+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-19T18:36:04.465556+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-19T18:36:44.939556+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-19T18:37:35.837558+00:00 | More Than My Hometown | Morgan Wallen | source:amperwave-api
+2026-04-19T18:38:25.668661+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:39:37.021033+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:40:23.544469+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:41:34.738469+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:42:22.443130+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:43:04.664556+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:44:11.833004+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:44:52.717799+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:45:48.969365+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:46:35.249061+00:00 | Rocky Mountain Low Ft Koe Wetzel | Corey Kent | source:amperwave-api
+2026-04-19T18:47:51.195925+00:00 | Heart Of Stone | Jelly Roll | source:amperwave-api
+2026-04-19T18:48:33.202231+00:00 | Heart Of Stone | Jelly Roll | source:amperwave-api
+2026-04-19T18:49:13.249952+00:00 | Heart Of Stone | Jelly Roll | source:amperwave-api
+2026-04-19T18:49:58.314994+00:00 | I Like It, I Love It | Tim Mcgraw | source:amperwave-api
+2026-04-19T18:50:39.154595+00:00 | I Like It, I Love It | Tim Mcgraw | source:amperwave-api
+2026-04-19T18:51:29.275227+00:00 | I Like It, I Love It | Tim Mcgraw | source:amperwave-api
+2026-04-19T18:52:12.135564+00:00 | I Like It, I Love It | Tim Mcgraw | source:amperwave-api
+2026-04-19T18:52:59.151918+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T18:53:41.575239+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T18:54:23.932409+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T18:55:04.183374+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T18:55:47.277328+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T18:56:27.536741+00:00 | Choosin Texas | Ella Langley | source:amperwave-api
+2026-04-19T18:57:14.911113+00:00 | One Man Band | Old Dominion | source:amperwave-api
+2026-04-19T18:58:36.556853+00:00 | One Man Band | Old Dominion | source:amperwave-api
+2026-04-19T18:59:17.712177+00:00 | One Man Band | Old Dominion | source:amperwave-api
+2026-04-19T18:59:58.569167+00:00 | 20 Cigarettes | Morgan Wallen | source:amperwave-api
+2026-04-19T19:01:08.892954+00:00 | 20 Cigarettes | Morgan Wallen | source:amperwave-api
+2026-04-19T19:01:49.774441+00:00 | 20 Cigarettes | Morgan Wallen | source:amperwave-api
+2026-04-19T19:02:34.901519+00:00 | One Of Them Girls | Lee Brice | source:amperwave-api
+2026-04-19T19:03:20.073241+00:00 | One Of Them Girls | Lee Brice | source:amperwave-api
+2026-04-19T19:04:33.948602+00:00 | One Of Them Girls | Lee Brice | source:amperwave-api
+2026-04-19T19:05:16.297056+00:00 | One Of Them Girls | Lee Brice | source:amperwave-api
+2026-04-19T19:05:57.831889+00:00 | What Hell Never Have | Dylan Scott | source:amperwave-api
+2026-04-19T19:06:41.406186+00:00 | What Hell Never Have | Dylan Scott | source:amperwave-api
+2026-04-19T19:07:22.135355+00:00 | What Hell Never Have | Dylan Scott | source:amperwave-api
+2026-04-19T19:08:03.303508+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-19T19:09:04.077387+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-19T19:09:44.171342+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-19T19:10:25.240339+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-19T19:11:04.715715+00:00 | Shes Country | Jason Aldean | source:amperwave-api
+2026-04-19T19:11:51.027575+00:00 | Boys Back Home (Fea. Dylan Scott) | Dylan Marlowe | source:amperwave-api
+2026-04-19T19:12:31.990489+00:00 | Boys Back Home (Fea. Dylan Scott) | Dylan Marlowe | source:amperwave-api
+2026-04-19T19:13:19.567595+00:00 | Boys Back Home (Fea. Dylan Scott) | Dylan Marlowe | source:amperwave-api
+2026-04-19T19:13:59.511811+00:00 | Boys Back Home (Fea. Dylan Scott) | Dylan Marlowe | source:amperwave-api
+2026-04-19T19:14:40.168375+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:15:20.438287+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:16:03.857365+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:16:43.807496+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:17:35.824391+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:18:16.607231+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:18:59.489662+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:20:00.218425+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:20:40.407266+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:21:43.864516+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:22:30.425194+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:23:43.335662+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:24:24.741936+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:25:05.688654+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:25:52.711126+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:26:33.388272+00:00 | Mcarthur With Tim Mcgraw, Eric Church, And Morgan Wallen | Hardy | source:amperwave-api
+2026-04-19T19:27:45.344820+00:00 | Who Wouldnt Wanna Be Me | Keith Urban | source:amperwave-api
+2026-04-19T19:28:31.342217+00:00 | Who Wouldnt Wanna Be Me | Keith Urban | source:amperwave-api
+2026-04-19T19:29:12.211568+00:00 | Who Wouldnt Wanna Be Me | Keith Urban | source:amperwave-api
+2026-04-19T19:30:03.294020+00:00 | Who Wouldnt Wanna Be Me | Keith Urban | source:amperwave-api
+2026-04-19T19:30:43.857465+00:00 | Who Wouldnt Wanna Be Me | Keith Urban | source:amperwave-api
+2026-04-19T19:31:24.174824+00:00 | The Fall | Cody Johnson | source:amperwave-api
+2026-04-19T19:32:07.439137+00:00 | The Fall | Cody Johnson | source:amperwave-api
+2026-04-19T19:32:48.252158+00:00 | The Fall | Cody Johnson | source:amperwave-api
+2026-04-19T19:33:29.339796+00:00 | The Fall | Cody Johnson | source:amperwave-api
+2026-04-19T19:34:09.592700+00:00 | Wind Up Missin You | Tucker Wetmore | source:amperwave-api
+2026-04-19T19:34:50.471695+00:00 | Wind Up Missin You | Tucker Wetmore | source:amperwave-api
+2026-04-19T19:35:30.340883+00:00 | Wind Up Missin You | Tucker Wetmore | source:amperwave-api
+2026-04-19T19:36:39.425683+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:37:21.196271+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:38:02.178071+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:39:03.027427+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:39:43.743580+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:40:33.855676+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:41:13.725209+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:42:24.520031+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:43:07.093774+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:44:12.806683+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:44:54.114380+00:00 | Dont We | Morgan Wallen | source:amperwave-api
+2026-04-19T19:46:05.586942+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T19:46:50.027864+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T19:47:30.935528+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T19:48:11.690800+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T19:48:51.699803+00:00 | Me And A Beer | Chris Janson | source:amperwave-api
+2026-04-19T19:49:33.374079+00:00 | Play It Again | Luke Bryan | source:amperwave-api
+2026-04-19T19:50:15.436666+00:00 | Play It Again | Luke Bryan | source:amperwave-api
+2026-04-19T19:51:13.882510+00:00 | Play It Again | Luke Bryan | source:amperwave-api
+2026-04-19T19:52:02.130567+00:00 | Play It Again | Luke Bryan | source:amperwave-api
+2026-04-19T19:52:43.030014+00:00 | After All The Bars Are Closed | Thomas Rhett | source:amperwave-api
+2026-04-19T19:53:35.685638+00:00 | After All The Bars Are Closed | Thomas Rhett | source:amperwave-api
+2026-04-19T19:54:37.942228+00:00 | After All The Bars Are Closed | Thomas Rhett | source:amperwave-api
+2026-04-19T19:55:18.612817+00:00 | After All The Bars Are Closed | Thomas Rhett | source:amperwave-api
+2026-04-19T19:55:59.545920+00:00 | After All The Bars Are Closed | Thomas Rhett | source:amperwave-api
+2026-04-19T19:57:01.299129+00:00 | Devil Aint Done | Atlus | source:amperwave-api
+2026-04-19T19:57:47.741743+00:00 | Devil Aint Done | Atlus | source:amperwave-api
+2026-04-19T19:58:36.807335+00:00 | Devil Aint Done | Atlus | source:amperwave-api
+2026-04-19T19:59:16.894250+00:00 | Happen To Me | Russell Dickerson | source:amperwave-api
+2026-04-19T20:00:23.817136+00:00 | Happen To Me | Russell Dickerson | source:amperwave-api
+2026-04-19T20:01:10.291687+00:00 | Happen To Me | Russell Dickerson | source:amperwave-api
+2026-04-19T20:01:52.407074+00:00 | Happen To Me | Russell Dickerson | source:amperwave-api
+2026-04-19T20:02:55.218911+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-19T20:03:42.888127+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-19T20:04:40.923317+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-19T20:05:25.935607+00:00 | Days Like These | Luke Combs | source:amperwave-api
+2026-04-19T20:06:07.142542+00:00 | Why We Drink | Justin Moore | source:amperwave-api
+2026-04-19T20:06:49.918462+00:00 | Why We Drink | Justin Moore | source:amperwave-api
+2026-04-19T20:07:37.294581+00:00 | Why We Drink | Justin Moore | source:amperwave-api
+2026-04-19T20:08:18.234870+00:00 | Why We Drink | Justin Moore | source:amperwave-api
+2026-04-19T20:09:00.544909+00:00 | Pour Me A Drink (Fea. Blake Shelton) | Post Malone | source:amperwave-api
+2026-04-19T20:09:41.784668+00:00 | Pour Me A Drink (Fea. Blake Shelton) | Post Malone | source:amperwave-api
+2026-04-19T20:10:22.265854+00:00 | Pour Me A Drink (Fea. Blake Shelton) | Post Malone | source:amperwave-api
+2026-04-19T20:11:02.142646+00:00 | Pour Me A Drink (Fea. Blake Shelton) | Post Malone | source:amperwave-api
+2026-04-19T20:11:42.984207+00:00 | Pour Me A Drink (Fea. Blake Shelton) | Post Malone | source:amperwave-api
+2026-04-19T20:12:22.636297+00:00 | Church Bells | Carrie Underwood | source:amperwave-api
+2026-04-19T20:13:30.994508+00:00 | Church Bells | Carrie Underwood | source:amperwave-api
+2026-04-19T20:14:39.670912+00:00 | Church Bells | Carrie Underwood | source:amperwave-api
+2026-04-19T20:15:33.701057+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:16:15.717674+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:17:23.814714+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:18:05.986311+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:18:45.976484+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:19:29.238081+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:20:11.607166+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:21:23.135098+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:22:05.951394+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:22:56.385588+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:23:38.408458+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:24:19.124446+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:25:00.216483+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:25:40.358189+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:26:22.034932+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:27:02.619932+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:27:54.283228+00:00 | Turn This Truck Around | Jordan Davis | source:amperwave-api
+2026-04-19T20:28:35.637082+00:00 | American Kids | Kenny Chesney | source:amperwave-api
+2026-04-19T20:29:16.203383+00:00 | American Kids | Kenny Chesney | source:amperwave-api
+2026-04-19T20:30:00.059689+00:00 | American Kids | Kenny Chesney | source:amperwave-api
+2026-04-19T20:30:46.403451+00:00 | American Kids | Kenny Chesney | source:amperwave-api
+2026-04-19T20:31:39.815559+00:00 | Woman | Kane Brown | source:amperwave-api
+2026-04-19T20:32:43.456731+00:00 | Woman | Kane Brown | source:amperwave-api
+2026-04-19T20:33:26.572126+00:00 | Woman | Kane Brown | source:amperwave-api
+2026-04-19T20:34:41.633743+00:00 | Son Of A Sinner | Jelly Roll | source:amperwave-api
+2026-04-19T20:35:22.589810+00:00 | Son Of A Sinner | Jelly Roll | source:amperwave-api
+2026-04-19T20:36:02.537875+00:00 | Son Of A Sinner | Jelly Roll | source:amperwave-api
+2026-04-19T20:36:47.501666+00:00 | Son Of A Sinner | Jelly Roll | source:amperwave-api
+2026-04-19T20:37:27.367650+00:00 | Son Of A Sinner | Jelly Roll | source:amperwave-api
+2026-04-19T20:38:09.209864+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:38:49.915773+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:39:37.814717+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:40:40.046653+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:41:20.239961+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:42:04.678343+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:42:46.992171+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:43:27.545550+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:44:07.482239+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:44:48.494888+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:45:28.885175+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:46:09.658620+00:00 | I Aint Coming Back Ft Post Malone | Morgan Wallen | source:amperwave-api
+2026-04-19T20:46:52.586123+00:00 | Dirt On My Boots | Jon Pardi | source:amperwave-api
+2026-04-19T20:47:34.197311+00:00 | Dirt On My Boots | Jon Pardi | source:amperwave-api
+2026-04-19T20:48:13.473488+00:00 | Dirt On My Boots | Jon Pardi | source:amperwave-api
+2026-04-19T20:48:55.405637+00:00 | Dirt On My Boots | Jon Pardi | source:amperwave-api
+2026-04-19T20:49:35.654145+00:00 | Dirt On My Boots | Jon Pardi | source:amperwave-api
+2026-04-19T20:50:17.874672+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T20:50:59.211588+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T20:51:43.319949+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T20:52:25.245508+00:00 | Change My Mind | Riley Green | source:amperwave-api
+2026-04-19T20:53:31.629163+00:00 | Drink In My Hand | Eric Church | source:amperwave-api
+2026-04-19T20:54:12.821525+00:00 | Drink In My Hand | Eric Church | source:amperwave-api
+2026-04-19T20:54:52.268880+00:00 | Drink In My Hand | Eric Church | source:amperwave-api
+2026-04-19T20:55:44.811797+00:00 | Drink In My Hand | Eric Church | source:amperwave-api
+2026-04-19T20:56:24.494878+00:00 | Drink In My Hand | Eric Church | source:amperwave-api
+2026-04-19T20:57:11.649870+00:00 | Whiskey Drink | Jason Aldean | source:amperwave-api
+2026-04-19T20:57:54.571356+00:00 | Whiskey Drink | Jason Aldean | source:amperwave-api
+2026-04-19T20:58:35.657367+00:00 | Whiskey Drink | Jason Aldean | source:amperwave-api
+2026-04-19T20:59:43.419049+00:00 | Werent For The Wind | Ella Langley | source:amperwave-api
+2026-04-19T21:00:30.148376+00:00 | Werent For The Wind | Ella Langley | source:amperwave-api
+2026-04-19T21:01:13.753169+00:00 | Werent For The Wind | Ella Langley | source:amperwave-api
+2026-04-19T21:02:23.543118+00:00 | Werent For The Wind | Ella Langley | source:amperwave-api
+2026-04-19T21:03:06.937935+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T21:03:53.179088+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T21:04:34.543768+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T21:05:16.093356+00:00 | Sleepless In A Hotel Room | Luke Combs | source:amperwave-api
+2026-04-19T21:06:08.837123+00:00 | Truck Bed | Hardy | source:amperwave-api
+2026-04-19T21:06:50.859164+00:00 | Truck Bed | Hardy | source:amperwave-api
+2026-04-19T21:07:31.539336+00:00 | Truck Bed | Hardy | source:amperwave-api
+2026-04-19T21:08:15.296639+00:00 | Truck Bed | Hardy | source:amperwave-api
+2026-04-19T21:08:55.466159+00:00 | Good Directions | Billy Currington | source:amperwave-api
+2026-04-19T21:09:36.630391+00:00 | Good Directions | Billy Currington | source:amperwave-api
+2026-04-19T21:10:34.837018+00:00 | Good Directions | Billy Currington | source:amperwave-api
+2026-04-19T21:11:15.202827+00:00 | Good Directions | Billy Currington | source:amperwave-api
+2026-04-19T21:11:56.574748+00:00 | Just In Case | Morgan Wallen | source:amperwave-api
+2026-04-19T21:12:37.931997+00:00 | Just In Case | Morgan Wallen | source:amperwave-api
+2026-04-19T21:13:19.018269+00:00 | Just In Case | Morgan Wallen | source:amperwave-api
+2026-04-19T21:13:58.543146+00:00 | Just In Case | Morgan Wallen | source:amperwave-api
+2026-04-19T21:14:42.364489+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T21:15:24.230951+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T21:16:04.922036+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T21:16:49.705684+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T21:17:30.830115+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T21:18:10.682335+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T21:18:52.915564+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T21:19:39.934717+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T21:20:20.464591+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
+2026-04-19T21:21:22.720184+00:00 | Brunette | Tucker Wetmore | source:amperwave-api
