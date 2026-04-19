@@ -10,6 +10,7 @@ from datetime import datetime, timezone
 from email.message import EmailMessage
 from threading import Event
 from urllib.parse import urlparse
+from xml.etree import ElementTree
 
 from dotenv import load_dotenv
 import requests
@@ -295,10 +296,16 @@ def parse_test_song_list(value):
 
 def extract_amperwave_station_id(soup):
     iframe = soup.find("iframe", src=re.compile(r"player\.amperwave\.net/\d+", re.I))
-    if not iframe:
+    src = None
+    if iframe:
+        src = iframe.get("src") or ""
+    else:
+        link = soup.find("a", href=re.compile(r"player\.amperwave\.net/\d+", re.I))
+        if link:
+            src = link.get("href") or ""
+    if not src:
         return None
 
-    src = iframe.get("src") or ""
     if src.startswith("//"):
         src = "https:" + src
     parsed = urlparse(src)
@@ -326,6 +333,58 @@ def extract_connmedia_tracks_url(soup):
     return None
 
 
+def extract_socast_nowplaying_url(soup):
+    widget = soup.find(attrs={"data-npurl": True})
+    if not widget:
+        return None
+
+    np_url = widget.get("data-npurl")
+    if isinstance(np_url, str) and np_url.strip():
+        return np_url.strip()
+    return None
+
+
+def extract_securenet_history_url(html):
+    if not html:
+        return None
+
+    match = re.search(
+        r'https?://[^"\']+/player_status_update/[^"\']+\.xml',
+        html,
+        re.IGNORECASE,
+    )
+    if match:
+        return match.group(0)
+
+    match = re.search(
+        r'//[^"\']+/player_status_update/[^"\']+\.xml',
+        html,
+        re.IGNORECASE,
+    )
+    if match:
+        return "https:" + match.group(0)
+
+    match = re.search(
+        r'https?://([^/"\']+)/v5/([A-Za-z0-9_-]+)',
+        html,
+        re.IGNORECASE,
+    )
+    if match:
+        host, call_sign = match.groups()
+        return f"https://{host}/player_status_update/{call_sign}_History.xml"
+
+    match = re.search(
+        r'//([^/"\']+)/v5/([A-Za-z0-9_-]+)',
+        html,
+        re.IGNORECASE,
+    )
+    if match:
+        host, call_sign = match.groups()
+        return f"https://{host}/player_status_update/{call_sign}_History.xml"
+
+    return None
+
+
 def build_amperwave_nowplaying_url(station_id, max_items=AMPERWAVE_MAX_ITEMS):
     return f"https://{AMPERWAVE_API_HOST}/api/v{AMPERWAVE_API_VERSION}/{AMPERWAVE_API_PATH}/{max_items}/{station_id}/nowplaying.json"
 
@@ -345,6 +404,16 @@ def fetch_nowplaying_json(url):
     )
     response.raise_for_status()
     return response.json()
+
+
+def fetch_text(url):
+    response = requests.get(
+        url,
+        headers={"User-Agent": "PaperMoneyRadioMonitor/1.0 (+https://github.com)"},
+        timeout=(10, 20),
+    )
+    response.raise_for_status()
+    return response.text
 
 
 def parse_amperwave_nowplaying(data):
@@ -381,6 +450,61 @@ def parse_amperwave_nowplaying(data):
         return title.title(), artist.title(), "amperwave-api"
 
     return None, None, "amperwave-api"
+
+
+def parse_socast_nowplaying(raw_text):
+    if not raw_text:
+        return None, None, None
+
+    match = re.search(r"jsonpcallback\((.*)\)\s*;?\s*$", raw_text, re.DOTALL)
+    if not match:
+        return None, None, None
+
+    try:
+        data = json.loads(match.group(1))
+    except Exception:
+        return None, None, None
+
+    title = clean_value(data.get("song_name"))
+    artist = clean_value(data.get("artist_name"))
+    if title and artist:
+        return title.title(), artist.title(), "socast-nowplaying"
+
+    return None, None, "socast-nowplaying"
+
+
+def parse_securenet_history(xml_text):
+    if not xml_text:
+        return None, None, None
+
+    try:
+        root = ElementTree.fromstring(xml_text)
+    except ElementTree.ParseError:
+        return None, None, None
+
+    songs = []
+    for song in root.findall(".//song"):
+        title = clean_value(song.findtext("title"))
+        artist = clean_value(song.findtext("artist"))
+        start_ts = clean_value(song.findtext("programStartTS"))
+        if not title or not artist:
+            continue
+
+        parsed_dt = None
+        if start_ts:
+            try:
+                parsed_dt = datetime.strptime(start_ts, "%d %b %Y %H:%M:%S")
+            except ValueError:
+                parsed_dt = None
+
+        songs.append((parsed_dt, title.title(), artist.title()))
+
+    if not songs:
+        return None, None, "securenet-history"
+
+    songs.sort(key=lambda item: item[0] or datetime.min, reverse=True)
+    _dt, title, artist = songs[0]
+    return title, artist, "securenet-history"
 
 
 def parse_artist_title(text):
@@ -586,9 +710,27 @@ def check_station(station):
             title = artist = None
             source = None
 
+    socast_url = extract_socast_nowplaying_url(soup)
+    if socast_url and (not title or not artist):
+        try:
+            raw_text = fetch_text(socast_url)
+            title, artist, source = parse_socast_nowplaying(raw_text)
+        except Exception:
+            title = artist = None
+            source = None
+
+    securenet_history_url = extract_securenet_history_url(html)
+    if securenet_history_url and (not title or not artist):
+        try:
+            xml_text = fetch_text(securenet_history_url)
+            title, artist, source = parse_securenet_history(xml_text)
+        except Exception:
+            title = artist = None
+            source = None
+
     if not title or not artist:
-        title, artist = extract_track_info(soup)
-        source = source or "html"
+        title, artist, extracted_source = extract_track_info(soup)
+        source = source or extracted_source or "html"
     if not title or not artist:
         title, artist = parse_artist_title(page_text)
         source = source or "page-text"

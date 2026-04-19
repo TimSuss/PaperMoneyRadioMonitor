@@ -32,6 +32,21 @@
     "disabled_time": "2026-04-12T00:59:30.746402+00:00"
   },
   {
+    "name": "KCDU-FM",
+    "city": "Monterey",
+    "state": "CA",
+    "url": "https://rdo.to/kcdu",
+    "failure_count": 0
+  },
+  {
+    "name": "KCRZ-FM",
+    "city": "Visalia-Tulare",
+    "state": "CA",
+    "amperwave_id": "958",
+    "url": "https://www.hitz1049.com/",
+    "failure_count": 0
+  },
+  {
     "name": "KDDB-FM",
     "city": "Honolulu",
     "state": "HI",
@@ -43,6 +58,13 @@
     "city": "Bakersfield",
     "state": "CA",
     "url": "https://www.connmediaplayer.com/live953",
+    "failure_count": 0
+  },
+  {
+    "name": "KKSW-FM",
+    "city": "Topeka",
+    "state": "KS",
+    "url": "https://www.1059kiss.com/",
     "failure_count": 0
   },
   {
@@ -132,6 +154,13 @@
     "failure_count": 0
   },
   {
+    "name": "KZBD-FM",
+    "city": "Spokane",
+    "state": "WA",
+    "url": "https://rdo.to/KZBD",
+    "failure_count": 0
+  },
+  {
     "name": "KZII-FM",
     "city": "Lubbock",
     "state": "TX",
@@ -155,6 +184,13 @@
     "network": "Townsquare Media",
     "amperwave_id": "5002",
     "url": "https://fun107.com/listen-live/",
+    "failure_count": 0
+  },
+  {
+    "name": "WHTQ-FM",
+    "city": "Wausau-Stevens Point",
+    "state": "WI",
+    "url": "https://hot967fm.com/playlist/",
     "failure_count": 0
   },
   {
@@ -199,6 +235,21 @@
     "network": "Mel Wheeler, Inc.",
     "amperwave_id": "1297",
     "url": "https://player.amperwave.net/1297",
+    "failure_count": 0
+  },
+  {
+    "name": "WXYK-FM",
+    "city": "Biloxi",
+    "state": "MS",
+    "amperwave_id": "1811",
+    "url": "https://1059themonkey.com/",
+    "failure_count": 0
+  },
+  {
+    "name": "WZEB-FM",
+    "city": "Salisbury",
+    "state": "MD",
+    "url": "https://power1017.com/",
     "failure_count": 0
   },
   {
